@@ -1,0 +1,2411 @@
+,Address,Latitude,Longitude
+1,"""215 Boulevard Bineau, 92200 Neuilly-sur-Seine, France""",48.8949966,2.2658471
+2,"""30 Boulevard Georges Seurat, 92200 Neuilly-sur-Seine, France""",48.8949437,2.2687403
+3,"""119 Rue Anatole France, 92300 Levallois-Perret, France""",48.8947385,2.2824356
+4,"""1 Place de Verdun, 92300 Levallois-Perret, France""",48.89460500000000,2.2849823
+5,"""7 Rue Jules Verne, 92300 Levallois-Perret, France""",48.8947295,2.2991964
+6,"""15 Rue Pablo Neruda, 92300 Levallois-Perret, France""",48.8940361,2.3007323
+7,"""113 Boulevard Bessières, 75017 Paris, France""",48.8948731,2.3157281
+8,"""26 Rue Boulay, 75017 Paris, France""",48.8946462,2.3183847
+9,"""40 Rue Vauvenargues, 75018 Paris, France""",48.89479680000000,2.3322078
+10,"""9 Rue Désiré Ruggieri, 75018 Paris, France""",48.8946385,2.3353096
+11,"""3 Passage Kracher, 75018 Paris, France""",48.894861,2.3490912
+12,"""12 Rue des Amiraux, 75018 Paris, France""",48.8946635,2.3513211
+13,"""2-8 Rue Tristan Tzara, 75018 Paris, France""",48.8944948,2.3660016
+14,"""54 Rue de l'Évangile, 75018 Paris, France""",48.8946001,2.3679354
+15,"""Corentin Cariou, 75019 Paris, France""",48.8948846,2.3824247
+16,"""26 Avenue Corentin Cariou, 75019 Paris, France""",48.8949769,2.3852018
+17,"""17 D115, 93500 Pantin, France""",48.9328069,2.4884879
+18,"""3 Rue Florian, 93500 Pantin, France""",48.8947677,2.4018976
+19,"""1 Place de la Pointe, 93500 Pantin, France""",48.89474330000000,2.4153991
+20,"""79 Rue Edouard Nortier, 92200 Neuilly-sur-Seine, France""",48.8920529,2.2652372
+21,"""32 bis Chaussée Jules César, 95600 Eaubonne, France""",48.9861695,2.2679858
+22,"""54 Rue d'Enghien, 95600 Eaubonne, France""",48.9859466,2.2829951
+23,"""53 Rue d'Enghien, 95600 Eaubonne, France""",48.9861136,2.2832642
+24,"""18 Rue des Écoles, 95230 Soisy-sous-Montmorency, France""",48.9861109,2.2987161
+25,"""8 Allée Didier Daurat, 95230 Soisy-sous-Montmorency, France""",48.9862647,2.3015695
+26,"""32 Rue des Basserons, 95160 Montmorency, France""",48.98616520000000,2.3162691
+27,"""11 Rue du Dr Millet, 95160 Montmorency, France""",48.9864897,2.3187622
+28,"""23 Rue de Groslay, 95160 Montmorency, France""",48.9859733,2.3327608
+29,"""55 Ruelle aux Loups, 95160 Montmorency, France""",48.9856585,2.3347322
+30,"""8 Rue Claude Warocquier, 95410 Groslay, France""",48.9863015,2.3486848
+31,"""35 Rue Pasteur, 95410 Groslay, France""",48.9863692,2.3516565
+32,"""2 Magnier Bédu, 95410 Groslay, France""",48.9864895,2.3661242
+33,"""241 Allée du Mont de Sarcelles, 95200 Sarcelles, France""",48.9858925,2.3678404
+34,"""43 D125, 95200 Sarcelles, France""",48.9849825,2.3829515
+35,"""3 Rue du Vignolle, 95200 Sarcelles, France""",48.9872956,2.3863062
+36,"""16 Rue du Vieil Armand, 95200 Sarcelles, France""",48.9861298,2.3986715
+37,"""12 Avenue Boieldieu, 95400 Arnouville, France""",48.9859873,2.4023639
+38,"""40 Avenue Henri Barbusse, 95400 Arnouville, France""",48.9860868,2.4156426
+39,"""2 Rue des Tartres, 95110 Sannois, France""",48.9721811,2.2651634
+40,"""3 Rue de la Concorde, 95110 Sannois, France""",48.9723725,2.2684694
+41,"""11 Avenue Simon Hayem, 95210 Saint-Gratien, France""",48.9723707,2.2825346
+42,"""1 Avenue Lacour, 95210 Saint-Gratien, France""",48.9724792,2.2850721
+43,"""12 Rue Regina, 95880 Enghien-les-Bains, France""",48.9735036,2.2965258
+44,"""11 Rue du Dr Leray, 95880 Enghien-les-Bains, France""",48.9719948,2.3035266
+45,"""1 B Rue Barthélémy, 95160 Montmorency, France""",48.9724036,2.3158446
+46,"""41 Rue Jules Massenet, 95170 Deuil-la-Barre, France""",48.9727919,2.3180173
+47,"""3 Rue de la Sourde, 95170 Deuil-la-Barre, France""",48.9721815,2.3323387
+48,"""16 Rue Guynemer, 95170 Deuil-la-Barre, France""",48.97297700000000,2.336099
+49,"""1B Rue Robert Foulon, 95360 Montmagny, France""",48.9724142,2.3491122
+50,"""7 Rue des Carrières, 95360 Montmagny, France""",48.97202420000000,2.3510519
+51,"""169 Boulevard Jean Mermoz, 93380 Pierrefitte-sur-Seine, France""",48.9722303,2.3659101
+52,"""2 Allée Boris Vian, 93380 Pierrefitte-sur-Seine, France""",48.972128,2.3690806
+53,"""1 Place Suzanne Valadon, 95200 Sarcelles, France""",48.97239830000000,2.3822135
+54,"""9 Square Pierre de Geyter, 95140 Garges-lès-Gonesse, France""",48.9719577,2.3860185
+55,"""4 Avenue de la Commune de Paris, 95140 Garges-lès-Gonesse, France""",48.972323,2.3990635
+56,"""13 Rue des Acacias, 95140 Garges-lès-Gonesse, France""",48.9721583,2.4020311
+57,"""26 Rue Mozart, 95140 Garges-lès-Gonesse, France""",48.9725161,2.415127
+58,"""Gare de Sannois - Maréchal Foch, 95110 Sannois, France""",48.970715,2.264281
+59,"""28 Rue Alphonse Duchesne, 95110 Sannois, France""",48.9697344,2.2683463
+60,"""5 Allée des Serres, 95210 Saint-Gratien, France""",48.969344,2.2821784
+61,"""1 Passage Catinat, 95210 Saint-Gratien, France""",48.969117,2.284923
+62,"""26 Boulevard du Lac, 95880 Enghien-les-Bains, France""",48.9692292,2.297198
+63,"""3 Avenue de Ceinture, 95880 Enghien-les-Bains, France""",48.9700674,2.3034053
+64,"""4 Rue Marceau, 95170 Deuil-la-Barre, France""",48.9696896,2.3151752
+65,"""34 Rue André Rabier, 95170 Deuil-la-Barre, France""",48.9694014,2.3185551
+66,"""3 Chemin de la Plante des Champs, 95360 Deuil-la-Barre, France""",48.9688661,2.3318166
+67,"""8 Allée Jacqueline Auriol, 95360 Montmagny, France""",48.96893440000000,2.3342153
+68,"""5 Allée des Essarts, 95360 Montmagny, France""",48.969387,2.3489151
+69,"""7 Rue du Val Richebourg, 95360 Montmagny, France""",48.9700216,2.3518122
+70,"""104 Boulevard Jean Mermoz, 93380 Pierrefitte-sur-Seine, France""",48.9694562,2.3657266
+71,"""79 Rue Jules Châtenay, 93380 Pierrefitte-sur-Seine, France""",48.9694464,2.368586
+72,"""10 Rue de la Pépinière, 93240 Stains, France""",48.9697956,2.3827831
+73,"""51 Rue Louis Choix, 95140 Garges-lès-Gonesse, France""",48.96983530000000,2.3852555
+74,"""Maternelle Effel, 95140 Garges-lès-Gonesse, France""",48.9687384,2.3995637
+75,"""2 Rue Edouard le Corbusier, 95140 Garges-lès-Gonesse, France""",48.9696659,2.4015332
+76,"""19 Rue Marcel Bourgogne, 95140 Garges-lès-Gonesse, France""",48.9696046,2.4158281
+77,"""27 Rue Ernest Renan, 95100 Argenteuil, France""",48.9545926,2.2650451
+78,"""62 Rue d'Orgemont, 95100 Argenteuil, France""",48.9560452,2.2679782
+79,"""8 Rue des Catalans, 95100 Argenteuil, France""",48.9559927,2.2821675
+80,"""37 Rue des Normands, 95100 Argenteuil, France""",48.9561029,2.2852269
+81,"""24 Rue Félix Merlin, 93800 Épinay-sur-Seine, France""",48.955579,2.2975418
+82,"""Epinay sur Seine, 93800 Épinay-sur-Seine, France""",48.955735,2.314739
+83,"""7 Impasse Berthier, 93800 Épinay-sur-Seine, France""",48.9555947,2.3171956
+84,"""45 Avenue Jean Jaurès, 93800 Épinay-sur-Seine, France""",48.95531890000000,2.3184379
+85,"""195 Route de Saint-Leu, 93800 Épinay-sur-Seine, France""",48.955822,2.3321359
+86,"""15 Avenue du Maroc, 93430 Villetaneuse, France""",48.9560997,2.335488
+87,"""20 Rue Raymond Brosse, 93430 Villetaneuse, France""",48.9560075,2.3489748
+88,"""Chemin des Joncherolles, 93430 Villetaneuse, France""",48.9578944,2.3536117
+89,"""12 Rue Corneille, 93380 Pierrefitte-sur-Seine, France""",48.9558337,2.365014
+90,"""40 Rue du Bois Moussay, 93240 Stains, France""",48.955799,2.367908
+91,"""4 Avenue Paul Vaillant Couturier, 93240 Stains, France""",48.9556206,2.3828035
+92,"""Louis Bordes, 93240 Stains, France""",48.9546567,2.3862439
+93,"""93240 Stains, France""",48.9612947,2.381373
+94,"""Leo Lagrange, 93440 Dugny, France""",48.956376,2.415651
+95,"""47 Rue Raspail, 95100 Argenteuil, France""",48.9527476,2.2659637
+96,"""123 B Avenue de Stalingrad, 95100 Argenteuil, France""",48.9527419,2.2684423
+97,"""64 Rue des Déserts, 95100 Argenteuil, France""",48.9520703,2.2823748
+98,"""6 Rue des Gascons, 95100 Argenteuil, France""",48.95294130000000,2.2849842
+99,"""88 Chemin de Halage, 93800 Épinay-sur-Seine, France""",48.9525775,2.2981202
+100,"""53 Rue des Alliés, 93800 Épinay-sur-Seine, France""",48.9529765,2.3026869
+101,"""Rose Bertin, 93800 Épinay-sur-Seine, France""",48.952618,2.315695
+102,"""17 Avenue de la République, 93800 Épinay-sur-Seine, France""",48.9524538,2.3181166
+103,"""26 Rue de l'Avenir, 93800 Épinay-sur-Seine, France""",48.9532588,2.3324
+104,"""143 Route de Saint-Leu, 93800 Épinay-sur-Seine, France""",48.9531695,2.3352809
+105,"""Villetaneuse, France""
+",48.9609899,2.3459158
+106,"""95 Rue Marcel Sembat, 93430 Villetaneuse, France""",48.9526945,2.3525278
+107,"""105 Rue Nungesser et Coli, 93380 Pierrefitte-sur-Seine, France""",48.9527334,2.3663233
+108,"""Lycée de Pierrefitte-sur-Seine, 93380, France""",48.953128,2.368639
+109,"""35 Avenue Paul Vaillant Couturier, 93240 Stains, France""",48.952645,2.3823661
+110,"""47 Boulevard Maxime Gorki, 93240 Stains, France""",48.9525723,2.3849391
+111,"""Unnamed Road, 93240 Stains, France""",48.9612947,2.381373
+112,"""93240 Stains, France""",48.9612947,2.381373
+113,"""2 Rue Félix Fallières, 93440 Dugny, France""",48.9530557,2.4157422
+114,"""568 Route Centrale du Môle Numéro 1, 92230 Gennevilliers, France""",48.93897400000000,2.2658605
+115,"""494 Route du Bassin Numéro 1, 92230 Gennevilliers, France""",48.9390107,2.2668559
+116,"""35 Route Principale du Port, 92230 Gennevilliers, France""",48.9383621,2.2811231
+117,"""27 Route Principale du Port, 92230 Gennevilliers, France""",48.9389675,2.2840017
+118,"""92230 Gennevilliers, France""",48.9326847,2.3000941
+119,"""A86, 92230 Gennevilliers, France""",48.93543770000000,2.2846395
+120,"""44 Avenue du 8 Mai 1945, 92390 Villeneuve-la-Garenne, France""",48.9384031,2.3187218
+121,"""38 Rue de la Fossé aux Astres, 92390 Villeneuve-la-Garenne, France""",48.9390176,2.3321248
+122,"""74 Rue de la Fossé aux Astres, 92390 Villeneuve-la-Garenne, France""",48.94248900000000,2.3305797
+123,"""12 Rue Paul Eluard, 93200 Saint-Denis, France""",48.9389152,2.3492163
+124,"""26 Boulevard Carnot, 93200 Saint-Denis, France""",48.9385367,2.3517397
+125,"""24 Rue Georges Politzer, 93200 Saint-Denis, France""",48.939877,2.3656267
+126,"""Marcel Cachin - Desnos, 93200 Saint-Denis, France""",48.938776,2.369736
+127,"""2 Rue Jacques Vache, 93200 Saint-Denis, France""",48.9395233,2.3814473
+128,"""93 Avenue Romain Rolland, 93200 Saint-Denis, France""",48.9404547,2.3846656
+129,"""Parc départemental Georges-Valbon, 55 Avenue Waldeck Rochet, 93120 La Courneuve, France""",48.93723480000000,2.4036373
+130,"""Unnamed Road, 93120 La Courneuve, France""",48.93062580000000,2.4013584
+131,"""A1, 93350 La Courneuve, France""",48.9412737,2.4279022
+132,"""6 Rue Fulgence Bienvenue, 92230 Gennevilliers, France""",48.9362415,2.265236
+133,"""60 Route Principale du Port, 92230 Gennevilliers, France""",48.9361927,2.2680607
+134,"""Rue Alfred Suquet, 92230 Gennevilliers, France""",48.9365268,2.2774303
+135,"""5 Rue Léo Hamon, 92230 Gennevilliers, France""",48.9371973,2.2862298
+136,"""41 Rue Villebois Mareuil, 92230 Gennevilliers, France""",48.9353257,2.2968064
+137,"""7 Allée des Pierres Mayettes, 92230 Gennevilliers, France""",48.9367578,2.3017207
+138,"""Chemin des Hauts Tilliers, 92230 Gennevilliers, France""",48.9353022,2.3160266
+139,"""33 Avenue du 8 Mai 1945, 92390 Villeneuve-la-Garenne, France""",48.93725850000000,2.3195592
+140,"""Mairie de Villeneuve-la-Garenne, 92390 Villeneuve-la-Garenne, France""",48.9355945,2.334117
+141,"""6 Rue Henri Barbusse, 92390 Villeneuve-la-Garenne, France""",48.9362432,2.3352649
+142,"""21 Rue Ernest Renan, 93200 Saint-Denis, France""",48.9361355,2.3488485
+143,"""20 Rue Catulienne, 93200 Saint-Denis, France""",48.9361705,2.3514434
+144,"""55 Rue de Strasbourg, 93200 Saint-Denis, France""",48.9361256,2.3653136
+145,"""73 Rue de Strasbourg, 93200 Saint-Denis, France""",48.9360762,2.3685607
+146,"""2 Rue Diderot, 93200 Saint-Denis, France""",48.9362989,2.3804072
+147,"""51 Avenue Roger Salengro, 93120 La Courneuve, France""",48.9365734,2.3859181
+148,"""Parc départemental Georges-Valbon, 55 Avenue Waldeck Rochet, 93120 La Courneuve, France""",48.93723480000000,2.4036373
+149,"""39 Avenue Waldeck Rochet, 93120 La Courneuve, France""",48.93419490000000,2.4015393
+150,"""10 Rue Clément Ader, 93120 La Courneuve, France""",48.9362966,2.4152066
+151,"""101 Rue Hoche, 92700 Colombes, France""",48.9220172,2.2658239
+152,"""5 Impasse des Fleurs, 92270 Bois-Colombes, France""",48.9219794,2.2685828
+153,"""127 Rue du Ménil, 92600 Asnières-sur-Seine, France""",48.921947,2.2825425
+154,"""65 Rue Robert Dupont, 92600 Asnières-sur-Seine, France""",48.92216150000000,2.2849943
+155,"""Barbusse, 92230 Gennevilliers, France""",48.92343900000000,2.2999977
+156,"""7 Rue de l'Arbre Sec, 92230 Gennevilliers, France""",48.9219745,2.301162
+157,"""231 Rue des Caboeufs, 92230 Gennevilliers, France""",48.9221909,2.3156966
+158,"""23 Boulevard Louise Michel, 92230 Gennevilliers, France""",48.9225047,2.3187758
+159,"""Centre Commercial de l'Ile-Saint-Denis, 93450 L'Île-Saint-Denis, France""",48.922037,2.331268
+160,"""20 Rue Ampère, 93200 Saint-Denis, France""",48.9226374,2.3365594
+161,"""101 Boulevard Anatole France, 93200 Saint-Denis, France""",48.922814,2.3476628
+162,"""315 Av. du Pdt Wilson, 93210 Saint-Denis, France""",48.9215891,2.3514344
+163,"""93200 Saint-Denis, France""",48.9315523,2.3563278
+164,"""Pont Sur Le Canal De L'ourcq, Av. Francis de Pressensé, 93300 Aubervilliers, France""",48.9223683,2.3682359
+165,"""6 Rue Jollois, 93120 La Courneuve, France""",48.9221216,2.3821826
+166,"""44 Boulevard Pasteur, 93120 La Courneuve, France""",48.92264430000000,2.3840799
+167,"""70 Rue Colbert, 93300 Aubervilliers, France""",48.922415,2.3984637
+168,"""La FR, 97 Rue Anatole France, 93120 La Courneuve, France""",48.9219385,2.4016417
+169,"""44 Rue Giuseppe Garibaldi, 93120 La Courneuve, France""",48.9221344,2.4161708
+170,"""78570 Andrésy, France""",48.979048,2.051033
+171,"""7 Rue du Vexin, 78570 Andrésy, France""",48.9890032,2.0541532
+172,"""11 Rue de Valois, 78570 Andrésy, France""",48.9890388,2.0565611
+173,"""62 Quai de l'Oise, 78570 Andrésy, France""",48.9889017,2.0709221
+174,"""5 Quai du Confluent, 78700 Conflans-Sainte-Honorine, France""",48.98888910000000,2.0726556
+175,"""31 Quai de la République, 78700 Conflans-Sainte-Honorine, France""",48.99077220000000,2.0867533
+176,"""3 Rue du Maréchal Joffre, 78700 Conflans-Sainte-Honorine, France""",48.99137900000000,2.089214000000000
+177,"""L'Île du Devant, 78700 Conflans-Sainte-Honorine, France""",48.9893216,2.1016275
+178,"""78700 Conflans-Sainte-Honorine, France""",48.9969698,2.1026339
+179,"""95220 Herblay, France""",48.990006,2.165493
+180,"""59 Avenue du Général Leclerc, 95220 Herblay, France""",48.98876510000000,2.1542941
+181,"""54 Avenue du Général Leclerc, 95220 Herblay, France""",48.9887792,2.1561909
+182,"""14 Rue Henri Dunant, 95220 Herblay, France""",48.9888906,2.1718292
+183,"""30 Rue des Courtes Terres, 95220 Herblay, France""",48.9894064,2.1735453
+184,"""27 Rue Fortuné Charlot, 95370 Montigny-lès-Cormeilles, France""",48.9888017,2.1874884
+185,"""9 Rue du Général de Gaulle, 95370 Montigny-lès-Cormeilles, France""",48.9888588,2.1902422
+186,"""395 Rue du Général Leclerc, 95130 Franconville, France""",48.9885751,2.2062022
+187,"""346 Rue du Général Leclerc, 95130 Franconville, France""",48.98915300000000,2.2069068
+188,"""7 Bis Avenue des Marais, 95130 Franconville, France""",48.988923,2.2201934
+189,"""48 Rue de Taverny, 95130 Franconville, France""",48.9891547,2.2227738
+190,"""18 Rue Raspail, 95130 Franconville, France""",48.9889459,2.2371774
+191,"""11 Allée des Magnolias, 95130 Franconville, France""",48.9894342,2.240151
+192,"""17 Route de Franconville, 95120 Ermont, France""",48.989361,2.254375
+193,"""1 Rue Louis Dessard, 95120 Ermont, France""",48.9891057,2.256558
+194,"""16 Rue Beauséjour, 95600 Eaubonne, France""",48.9886937,2.2703478
+195,"""36 Boulevard du Petit Château, 95600 Eaubonne, France""",48.98907820000000,2.2735118
+196,"""2 Allée de Gascogne, 95600 Eaubonne, France""",48.9892006,2.2866402
+197,"""22 Avenue des Myosotis, 95230 Soisy-sous-Montmorency, France""",48.9886656,2.2897612
+198,"""22 Rue du Puits Grenet, 95230 Soisy-sous-Montmorency, France""",48.98944180000000,2.3042834
+199,"""9 Allée des Sapins, 95230 Soisy-sous-Montmorency, France""",48.9887576,2.3074557
+200,"""13 Rue Saint-Jacques, 95160 Montmorency, France""",48.98889520000000,2.3208574
+201,"""23 Rue de Clairvaux, 95160 Montmorency, France""",48.9885783,2.3233416
+202,"""4 Rue du Champ de l'Asile, 95410 Groslay, France""",48.9888877,2.337785
+203,"""8 Chemin du Bequet, 95410 Groslay, France""",48.9895593,2.3400734
+204,"""10 Chemin de la Carrière À Bancel, 95410 Groslay, France""",48.98915120000000,2.3539495
+205,"""73 Rue du Dr Goldstein, 95410 Groslay, France""",48.98896260000000,2.3566486
+206,"""5 Rue d'Alsace, 95200 Sarcelles, France""",48.9889075,2.3700995
+207,"""218b Avenue de la Division Leclerc, 95200 Sarcelles, France""",48.9888224,2.3733268
+208,"""2 Rue du Vignolle, 95200 Sarcelles, France""",48.9885546,2.386984
+209,"""1 Rue de l'Escouvrier, 95200 Sarcelles, France""",48.9887367,2.3900705
+210,"""57 Avenue Raphaël, 95200 Sarcelles, France""",48.9886681,2.4038344
+211,"""4 Avenue Pierre Lizart, 95400 Arnouville, France""",48.9888931,2.4070118
+212,"""42 Rue Robert Schuman, 95400 Arnouville, France""",48.98926790000000,2.4205139
+213,"""63 Rue Missak Manouchian, 95400 Arnouville, France""",48.9889649,2.4240382
+214,"""4 Impasse Louis Lépine, 95500 Gonesse, France""",48.9899867,2.4363873
+215,"""7 Rue de l'Eglantier, 95500 Gonesse, France""",48.9879779,2.4396745
+216,"""3 Rue des Frères Montgolfier, 95500 Gonesse, France""",48.9889078,2.4538221
+217,"""12 Rue des Frères Montgolfier, 95500 Gonesse, France""",48.9890893,2.4570853
+218,"""95500 Gonesse, France""",48.9864632,2.4497721
+219,"""95700 Roissy-en-France, France""",49.00363,2.516978
+220,"""30 Rue des Buissons, 95700 Roissy-en-France, France""",48.9912687,2.5219629
+221,"""3296 Rue de la Belle Borne, 93290 Tremblay-en-France, France""",48.9897752,2.5216402
+222,"""9 Rue du Haut de Laval, 93290 Tremblay-en-France, France""",48.9917289,2.5422812
+223,"""3 Chemin des Voyeux, 93290 Tremblay-en-France, France""",48.98616990000000,2.5518804
+224,"""93290 Tremblay-en-France, France""",48.979952,2.557211
+225,"""77290 Mitry-Mory, France""",48.98543,2.619156
+226,"""1 Rue du Cimetière, 77290 Mitry-Mory, France""",48.9881312,2.6174685
+227,"""77290 Mitry-Mory, France""",48.98543,2.619156
+228,"""24 Rue Edouard Branly, 77290 Mitry-Mory, France""",48.9880009,2.6389055
+229,"""D9, 77290 Compans, France""",48.9909118,2.6493028
+230,"""Rue Copernic, 77290 Compans, France""",48.9861404,2.6536625
+231,"""41 Rue Mercier, 77290 Compans, France""",48.9896992,2.6553979
+232,"""Rue de la Fontaine, 77290 Compans, France""",48.9891125,2.6694097
+233,"""Moulin d'Ouacre, 77290 Compans, France""",48.986959,2.672235
+234,"""6-20 Chemin de la Grande Rue, 78570 Chanteloup-les-Vignes, France""",48.9840609,2.0359316
+235,"""8 Rue des Terres Blanches, 78570 Andrésy, France""",48.9856643,2.0540944
+236,"""25 Avenue des Robaresses, 78570 Andrésy, France""",48.9865103,2.0571753
+237,"""24 Avenue du Général de Gaulle, 78570 Andrésy, France""",48.9862393,2.068664
+238,"""15 Cours de Chimay, 78700 Conflans-Sainte-Honorine, France""",48.9876382,2.0736051
+239,"""2 Allée des Tilleuls Cité Garenne, 78100 Saint-Germain-en-Laye, France""",48.9849397,2.0880551
+240,"""78260 Achères, France""",48.9772197,2.0787198
+241,"""Le Relais de la Garenne, 78100 Saint-Germain-en-Laye, France""",48.9855508,2.1180862
+242,"""Route Centrale, 78100 Saint-Germain-en-Laye, France""",48.9808641,2.1556504
+243,"""78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+244,"""16 Route Centrale des Noyers, 78100 Saint-Germain-en-Laye, France""",48.9846206,2.1426309
+245,"""2 Quai du Génie, 95220 Herblay, France""",48.98706930000000,2.1575156
+246,"""4B Quai du Génie, 95220 Herblay, France""",48.9871602,2.1570344
+247,"""33T Boulevard Georges Clemenceau, 95220 Herblay, France""",48.98632060000000,2.1705416
+248,"""71 Rue Gambetta, 95530 Herblay, France""",48.986183,2.1737919
+249,"""2 Rue de Bellevue, 95370 Montigny-lès-Cormeilles, France""",48.98649500000000,2.1880817
+250,"""16 Rue de la Résistance, 95370 Montigny-lès-Cormeilles, France""",48.9861909,2.1907728
+251,"""5 Chemin Borne de Marbre, 95240 Cormeilles-en-Parisis, France""",48.98447120000000,2.2037518
+252,"""395 Rue du Général Leclerc, 95130 Franconville, France""",48.9885751,2.2062022
+253,"""2 Rue Pierre Fossati, 95130 Franconville, France""",48.986363,2.2199122
+254,"""2 Impasse des Clos Milons, 95130 Franconville, France""",48.9859963,2.2235081
+255,"""9 Boulevard du Bel air, 95130 Franconville, France""",48.9858316,2.2382159
+256,"""18 Rue Victor Basch, 95130 Franconville, France""",48.9862761,2.240455
+257,"""9 Allée du Clos Laisnées, 95120 Ermont, France""",48.9857475,2.253691700000000
+258,"""53 Rue de Stalingrad, 95120 Ermont, France""",48.9860944,2.2568878
+259,"""68 B Chaussée Jules César, 95600 Eaubonne, France""",48.986012,2.2708871
+260,"""51 Rue du Général Leclerc, 95600 Eaubonne, France""",48.9862648,2.2733032
+261,"""48 Avenue Jean Jaurès, 95230 Soisy-sous-Montmorency, France""",48.9873886,2.2885644
+262,"""32 Avenue Jean Jaurès, 95230 Soisy-sous-Montmorency, France""",48.9869304,2.2898049
+263,"""4 Rue Brebant, 95230 Soisy-sous-Montmorency, France""",48.9867173,2.3040069
+264,"""70 Rue de la Fosse aux Moines, 95230 Soisy-sous-Montmorency, France""",48.9861635,2.3070867
+265,"""4 Place de l'Auditoire, 95160 Montmorency, France""",48.9860463,2.3203133
+266,"""9 Rue Notre Dame, 95160 Montmorency, France""",48.9859146,2.3237558
+267,"""18 Rue du Dr Benasson, 95410 Groslay, France""",48.98634820000000,2.3374332
+268,"""3 Rue Raoul Duchêne, 95410 Groslay, France""",48.9863959,2.3401371
+269,"""53 Rue Pasteur, 95410 Groslay, France""",48.9863115,2.3541338
+270,"""17 Rue Berthelot, 95410 Groslay, France""",48.9864747,2.3576091
+271,"""7 Allée du Jeu de Boules, 95200 Sarcelles, France""",48.986084,2.3704657
+272,"""200 Avenue de la Division Leclerc, 95200 Sarcelles, France""",48.98569030000000,2.3730216
+273,"""1 Rue du Père Heude, 95200 Sarcelles, France""",48.9861818,2.3881762
+274,"""6 Rue du Bas Perreux, 95200 Sarcelles, France""",48.98599550000000,2.3900356
+275,"""65 Avenue Pierre Lizart, 95400 Arnouville, France""",48.9865836,2.4034662
+276,"""100 Avenue Charles Vaillant, 95400 Arnouville, France""",48.9858864,2.4072126
+277,"""4 Rue Eugène Lemaire, 95400 Arnouville, France""",48.9861753,2.4208915
+278,"""2-30 Rue de Clermont, 95400 Arnouville, France""",48.9858225,2.4223246
+279,"""espace Godard RN 370, 95500 Gonesse, France""",48.9825578,2.4428564
+280,"""3 Rue d'Orgemont, 95500 Gonesse, France""",48.9861331,2.4400395
+281,"""CHRONO+EXPERT 97, Rue de Paris, 95500 Gonesse, France""",48.9863613,2.4568038
+282,"""97 Rue de Paris, 95500 Gonesse, France""",48.9863613,2.4568038
+283,"""Route de Paris À Senlis, 95500 Gonesse, France""",48.98764,2.4730253
+284,"""7 Route de l'Europe, 95500 Gonesse, France""",48.9854183,2.4733017
+285,"""95500 Gonesse, France""",48.9864632,2.4497721
+286,"""2 Route de Roissy, 95500 Gonesse, France""",48.987559,2.4828538
+287,"""167 Rue de la Belle Étoile, 95700 Roissy-en-France, France""",48.9837033,2.5071675
+288,"""229 Rue de la Belle Étoile, 95700 Roissy-en-France, France""",48.9847009,2.5097709
+289,"""28 Rue des Chardonnerets, 93290 Tremblay-en-France, France""",48.9857574,2.5192107
+290,"""93290 Tremblay-en-France, France""",48.979952,2.557211
+291,"""Chemin des Plâtrières, 93290 Tremblay-en-France, France""",48.9869801,2.5537291
+292,"""16 Route Périphérique S, 93290 Tremblay-en-France, France""",48.9866948,2.5594711
+293,"""93290 Tremblay-en-France, France""",48.979952,2.557211
+294,"""77290 Mitry-Mory, France""",48.98543,2.619156
+295,"""20 Rue Biesta, 77290 Mitry-Mory, France""",48.9851627,2.6187536
+296,"""22 Ruelle du Coq, 77290 Mitry-Mory, France""",48.98576810000000,2.622502
+297,"""5 Rue Edouard Branly, 77290 Mitry-Mory, France""",48.986008,2.6373901
+298,"""3 rue Gay Lussac angle, Rue Jean Perrin, 77290 Mitry-Mory, France""",48.9863753,2.6406535
+299,"""1 Rue Copernic, 77290 Compans, France""",48.985403,2.652039
+300,"""D212, 77290 Compans, France""",48.98939440000000,2.6574045
+301,"""3 Moulin d'Ouacre, 77290 Compans, France""",48.986819,2.672663
+302,"""Rue Du Moulin De L Ouacre, 77290 Compans, France""",48.986959,2.672235
+303,"""Chanteloup-les-Vignes, France""
+",48.97882500000000,2.030051
+304,"""8 Rue de la Roulette, 78570 Andrésy, France""",48.9739877,2.052815
+305,"""93 Quai de l'Île Peygrand, 78570 Andrésy, France""",48.9723534,2.0571871
+306,"""1 Chemin des Basses Plaines, 78260 Achères, France""",48.9725898,2.069198
+307,"""205 Avenue du Général Charles de Gaulle, 78260 Achères, France""",48.97148810000000,2.075092
+308,"""78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+309,"""1 Allée des Peupliers, 78100 Saint-Germain-en-Laye, France""",48.9732586,2.1573551
+310,"""3 Allée des Peupliers, 78100 Saint-Germain-en-Laye, France""",48.9730293,2.1577317
+311,"""Unnamed Road, 78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+312,"""Unnamed Road, 78260 Achères, France""",48.9772197,2.0787198
+313,"""18 Rue de la Frette, 95240 Cormeilles-en-Parisis, France""",48.9728286,2.1871237
+314,"""6 Rue des Alluets, 95240 Cormeilles-en-Parisis, France""",48.9721945,2.1897903
+315,"""14 Rue Emy les Prés, 95240 Cormeilles-en-Parisis, France""",48.9722669,2.2046481
+316,"""11 Rue du Clos de Medon, 95240 Cormeilles-en-Parisis, France""",48.9724095,2.2067703
+317,"""95240 Cormeilles-en-Parisis, France""",48.9749352,2.2021525
+318,"""95110 Sannois, France""",48.9707945,2.2568614
+319,"""70 Chemin de la Tour du Mail, 95110 Sannois, France""",48.9706006,2.2377308
+320,"""12 Rue des Piretins, 95110 Sannois, France""",48.9719963,2.2541459
+321,"""2 Place Maurice Utrillo, 95110 Sannois, France""",48.9722543,2.2568209
+322,"""8 Avenue du Clair Logis, 95110 Sannois, France""",48.9722078,2.2704824
+323,"""35 Allée des Acacias, 95210 Saint-Gratien, France""",48.9725145,2.2732779
+324,"""9 Avenue des Peupliers, 95210 Saint-Gratien, France""",48.9723638,2.288258
+325,"""7B Avenue Carnot, 95210 Saint-Gratien, France""",48.97239190000000,2.2907767
+326,"""28 Avenue de Ceinture, 95880 Enghien-les-Bains, France""",48.9724874,2.304587
+327,"""15B Rue de l'Arrivée, 95880 Enghien-les-Bains, France""",48.9723867,2.3068374
+328,"""16 Rue Henri Dunant, 95170 Deuil-la-Barre, France""",48.9720944,2.320681
+329,"""5 Rue du Moutier, 95170 Deuil-la-Barre, France""",48.9721345,2.323897
+330,"""27 Rue des Lévriers, 95360 Montmagny, France""",48.973054,2.3375899
+331,"""2 Rue Charles Baudelaire, 95360 Montmagny, France""",48.9721901,2.3399744
+332,"""67 Rue de Pierrefitte, 95360 Montmagny, France""",48.9720405,2.3546553
+333,"""37 Rue Charles Grimaud, 95360 Montmagny, France""",48.9712799,2.3566107
+334,"""9 Allée Erik Satie, 95200 Sarcelles, France""",48.973088,2.3706169
+335,"""20 Allée Vincent d'Indy, 95200 Sarcelles, France""",48.9726031,2.3736727
+336,"""3 square rouget de l'isle, 95140 Garges-lès-Gonesse, France""",48.9726007,2.3862598
+337,"""3 Rue Bonhomme, 95140 Garges-lès-Gonesse, France""",48.97201220000000,2.3900601
+338,"""11 Rue des Mûriers, 95140 Garges-lès-Gonesse, France""",48.972598,2.4047241
+339,"""58 Rue Georges Risler, 95140 Garges-lès-Gonesse, France""",48.9726083,2.4069243
+340,"""Boulevard de la Muette, 95140 Garges-lès-Gonesse, France""",48.975569,2.415436
+341,"""D170, 95500 Bonneuil-en-France, France""",48.9780173,2.4400039
+342,"""22 Rue des Tulipes, 95500 Bonneuil-en-France, France""",48.974401,2.4361306
+343,"""Paris Airport-Le Bourget, 1 Rue Désiré Lucca, 93350 Le Bourget, France""",48.9614725,2.437202
+344,"""95500 Gonesse, France""",48.9864632,2.4497721
+345,"""93600 Aulnay-sous-Bois, France""",48.9412151,2.4970711
+346,"""90 Rue des Vanesses, 93420 Villepinte, France""",48.9723799,2.5046437
+347,"""22 Avenue des Nations, 93420 Villepinte, France""",48.97189360000000,2.5076381
+348,"""Unnamed Road, 93420 Villepinte, France""",48.9579323,2.5393855
+349,"""ZAC Paris Nord 2, 93420 Villepinte, France""",48.9720804,2.5150624
+350,"""93290 Tremblay-en-France, France""",48.979952,2.557211
+351,"""7 Rue René Cassin, 77290 Mitry-Mory, France""",48.97069340000000,2.5738192
+352,"""Rue de Paris, 77290 Mitry-Mory, France""",48.9695557,2.5828152
+353,"""77290 Mitry-Mory, France""",48.98543,2.619156
+354,"""52 Route Neuve, 77290 Mitry-Mory, France""",48.9735004,2.625947
+355,"""Route Neuve, 77290 Mitry-Mory, France""",48.97489240000000,2.621235
+356,"""2 Rue Henri Vidal, 77290 Mitry-Mory, France""",48.9725046,2.6388914
+357,"""1 Rue Raimu, 77290 Mitry-Mory, France""",48.9723759,2.6397349
+358,"""1 Rue Paul Langevin, 77290 Mitry-Mory, France""",48.9718384,2.6493761
+359,"""77290 Mitry-Mory, France""",48.98543,2.619156
+360,"""77410 Gressy, France""",48.964879,2.674049
+361,"""77410 Messy, France""",48.967136,2.701035
+362,"""12 Allée Marcel Allain, 78570 Andrésy, France""",48.9694411,2.0408472
+363,"""113 Quai de l'Île Peygrand, 78570 Andrésy, France""",48.9704795,2.0559767
+364,"""Chemin du Port d'Achères, 78260 Achères, France""",48.9713189,2.0584422
+365,"""156 Avenue du Général Charles de Gaulle, 78260 Achères, France""",48.96939830000000,2.0708064
+366,"""3 Rue Alfred Kastler, 78260 Achères, France""",48.96959,2.0734585
+367,"""78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+368,"""78260 Achères, France""",48.9772197,2.0787198
+369,"""13 Rue Rouget de Lisle, 95240 Cormeilles-en-Parisis, France""",48.9700497,2.1865056
+370,"""44 Rue du Général Sarrail, 95240 Cormeilles-en-Parisis, France""",48.9695986,2.1897074
+371,"""9 Rue des Girondins, 95240 Cormeilles-en-Parisis, France""",48.9696292,2.2044929
+372,"""4 Allée des Chevrefeuilles, 95240 Cormeilles-en-Parisis, France""",48.9696153,2.2066105
+373,"""95100 Argenteuil, France""",48.94921680000000,2.2282675
+374,"""131 Allée de Cormeilles, 95110 Sannois, France""",48.9693123,2.2373887
+375,"""50 Chemin des Aubines, 95110 Sannois, France""",48.9688311,2.2406346
+376,"""5 Prom. des Deux Puits, 95110 Sannois, France""",48.9696041,2.2537566
+377,"""3 Rue Jules Ferry, 95110 Sannois, France""",48.9695909,2.2569704
+378,"""14 Rue Robert Bellec, 95110 Sannois, France""",48.9693656,2.2705721
+379,"""31 Rue des Lionnettes, 95110 Sannois, France""",48.96920840000000,2.2730569
+380,"""14b Place Charles de Gaulle, 95210 Saint-Gratien, France""",48.9697214,2.2874273
+381,"""22 Rue Pierre Brossolette, 95210 Saint-Gratien, France""",48.9691465,2.2901742
+382,"""14 Avenue de Ceinture, 95880 Enghien-les-Bains, France""",48.9694033,2.3045832
+383,"""61 Rue du Général de Gaulle, 95880 Enghien-les-Bains, France""",48.9699774,2.3063685
+384,"""43 Rue du Château, 95170 Deuil-la-Barre, France""",48.96975010000000,2.3205713
+385,"""1 Allée des Roses, 95170 Deuil-la-Barre, France""",48.9695289,2.3233013
+386,"""8 Rue Arthur Rimbaud, 95360 Montmagny, France""",48.9699703,2.3376361
+387,"""2 Rue Théophile Gautier, 95360 Montmagny, France""",48.96937030000000,2.3405063
+388,"""2 Rue Suzanne Valadon, 95360 Montmagny, France""",48.9700002,2.3557843
+389,"""9 Rue Charles Grimaud, 95360 Montmagny, France""",48.9703034,2.3561768
+390,"""44 Avenue de la Concorde, 93380 Pierrefitte-sur-Seine, France""",48.9695961,2.3713086
+391,"""12 Rue Augustine Maréchal, 93380 Pierrefitte-sur-Seine, France""",48.9700929,2.3736773
+392,"""47 Avenue Pierre Semard, 95140 Garges-lès-Gonesse, France""",48.96946090000000,2.3873579
+393,"""33 Rue Pierre Rebière, 95140 Garges-lès-Gonesse, France""",48.9697178,2.3900187
+394,"""6 Bis Rue Philibert Delorme, 95140 Garges-lès-Gonesse, France""",48.96974950000000,2.4037878
+395,"""26 Rue Pierre Salvi, 95140 Garges-lès-Gonesse, France""",48.9701204,2.4080692
+396,"""11 Chemin de la Voirie, 95500 Bonneuil-en-France, France""",48.9723053,2.4282719
+397,"""Paris Airport-Le Bourget, 1 Rue Désiré Lucca, 93350 Le Bourget, France""",48.9614725,2.437202
+398,"""95500 Gonesse, France""",48.9864632,2.4497721
+399,"""93600 Aulnay-sous-Bois, France""",48.9412151,2.4970711
+400,"""93420 Villepinte, France""",48.9579323,2.5393855
+401,"""Rue des 3 Sœurs, 93420 Villepinte, France""",48.9705312,2.5094097
+402,"""Unnamed Road, 93420 Villepinte, France""",48.9579323,2.5393855
+403,"""93290 Tremblay-en-France, France""",48.979952,2.557211
+404,"""1 C Rue Alexis de Tocqueville, 93420 Villepinte, France""",48.969443,2.551195
+405,"""Allée des Fossettes, 93420 Villepinte, France""",48.9677759,2.5529941
+406,"""45 Rue Charles Cros, 93290 Tremblay-en-France, France""",48.9689174,2.5709769
+407,"""2 Rue Sophie Germain, 77290 Mitry-Mory, France""",48.97001910000000,2.5729955
+408,"""ZAC de, Rue Galilée, 77290 Mitry-Mory, France""",48.972772,2.584218
+409,"""77290 Mitry-Mory, France""",48.98543,2.619156
+410,"""45 Rue du Petit Vivier, 77290 Mitry-Mory, France""",48.9715923,2.635261
+411,"""18 Rue Amélie Martin, 77290 Mitry-Mory, France""",48.969774,2.6428326
+412,"""77290 Mitry-Mory, France""",48.98543,2.619156
+413,"""77410 Gressy, France""",48.964879,2.674049
+414,"""4 Allée des 9 Muses, 77410 Gressy, France""",48.9684112,2.6712074
+415,"""21 Chemin de Cybèle, 77410 Gressy, France""",48.9685448,2.6723743
+416,"""55 Route d'Andrésy, 78955 Carrières-sous-Poissy, France""",48.9559404,2.0417229
+417,"""78260 Achères, France""",48.9772197,2.0787198
+418,"""Route Départementale 30, 78260 Achères, France""",48.9677495,2.0658448
+419,"""51 Rue de Saint-Germain, 78260 Achères, France""",48.955708,2.072301
+420,"""12 Allée des Bruyères, 78260 Achères, France""",48.95578650000000,2.0736343
+421,"""9-1 Cité Coligny, 78100 Saint-Germain-en-Laye, France""",48.95648510000000,2.0903033
+422,"""6 Cité Coligny, 78100 Saint-Germain-en-Laye, France""",48.9559887,2.0905587
+423,"""78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+424,"""55 Avenue Albine, 78600 Maisons-Laffitte, France""",48.9555709,2.1370632
+425,"""9 Avenue Pascal, 78600 Maisons-Laffitte, France""",48.955398,2.1408992
+426,"""10 Avenue Wagram, 78600 Maisons-Laffitte, France""",48.9551718,2.1538509
+427,"""48 avenue de Longueil, rue des loges, avenue églé, 78600 Maisons-Laffitte, France""",48.94610490000000,2.1448388
+428,"""1 Avenue Destouches, 78600 Maisons-Laffitte, France""",48.9561034,2.1679311
+429,"""12-20 Quai Pierre Brunel, 78500 Sartrouville, France""",48.95158320000000,2.1721992
+430,"""120 Rue de Saint-Germain, 95240 Cormeilles-en-Parisis, France""",48.9574965,2.1880418
+431,"""2 Allée René Goscinny, 95240 Cormeilles-en-Parisis, France""",48.95607710000000,2.1911046
+432,"""95240 Cormeilles-en-Parisis, France""",48.9749352,2.2021525
+433,"""25B Rue Jules Vercruysse, 95100 Argenteuil, France""",48.9552884,2.2073756
+434,"""37 Rue des Allobroges, 95100 Argenteuil, France""",48.9552134,2.2217796
+435,"""35 Rue des Allobroges, 95100 Argenteuil, France""",48.95535170000000,2.2223708
+436,"""34 BIS Rue de la Chapelle, 95100 Argenteuil, France""",48.9559548,2.2375841
+437,"""21 Rue du Coq, 95100 Argenteuil, France""",48.955366,2.240139
+438,"""27B Rue des Cloviers, 95100 Argenteuil, France""",48.9558263,2.2542954
+439,"""98 Boulevard Jean Allemane, 95100 Argenteuil, France""",48.9556885,2.2559857
+440,"""28 Rue de Cuiry, 95100 Argenteuil, France""",48.9552257,2.2697285
+441,"""182 Avenue de Stalingrad, 95100 Argenteuil, France""",48.9547499,2.2741395
+442,"""Sylvie Dehais 13, rue de l'Ile de France, 95100 Argenteuil, France""",48.955696,2.2877245
+443,"""20 Rue des Bourguignons, 93800 Épinay-sur-Seine, France""",48.9556754,2.2903077
+444,"""34 Impasse du Baron Saillard, 93800 Épinay-sur-Seine, France""",48.9556332,2.3048658
+445,"""112 Rue de Paris, 93800 Épinay-sur-Seine, France""",48.9557059,2.3063597
+446,"""16 Rue Henri Wallon, 93800 Épinay-sur-Seine, France""",48.95600840000000,2.3211639
+447,"""48 Allée des Platanes, 93800 Épinay-sur-Seine, France""",48.9553269,2.3238653
+448,"""130 Avenue Jean Baptiste Clément, 93430 Villetaneuse, France""",48.9559202,2.3383602
+449,"""Amphithéâtre 1, 2, 3, 4, 93430 Villetaneuse, France""",48.9563691,2.3408542
+450,"""93380 Pierrefitte-sur-Seine, France""",48.967903,2.364077
+451,"""112 Avenue Lénine, 93380 Pierrefitte-sur-Seine, France""",48.9560511,2.3565132
+452,"""15bis Rue du Bois Moussay, 93240 Stains, France""",48.955855,2.3690627
+453,"""24 Rue des Fourches, 93240 Stains, France""",48.95573420000000,2.3743921
+454,"""27 Rue Newton, 93240 Stains, France""",48.9555551,2.3876419
+455,"""13 Rue Newton, 93240 Stains, France""",48.9550668,2.3895324
+456,"""93240 Stains, France""",48.9612947,2.381373
+457,"""3 Rue René Gibert, 93440 Dugny, France""",48.9552515,2.4091984
+458,"""1 Rue Adolphe Wersand, 93440 Dugny, France""",48.9557181,2.4205651
+459,"""Place Casanova, 93440 Dugny, France""",48.9548697,2.420355
+460,"""Paris Airport-Le Bourget, 1 Rue Désiré Lucca, 93350 Le Bourget, France""",48.9614725,2.437202
+461,"""743 Avenue de l'Europe, 93440 Dugny, France""",48.9547489,2.4422055
+462,"""1 Rue des Frères Lumière, 93150 Le Blanc-Mesnil, France""",48.9550208,2.4556344
+463,"""93600 Aulnay-sous-Bois, France""",48.9412151,2.4970711
+464,"""25 Rue Michel Ange, 93600 Aulnay-sous-Bois, France""",48.9555272,2.4881425
+465,"""16 Rue Van Dyck, 93600 Aulnay-sous-Bois, France""",48.955842,2.4896825
+466,"""2 Rue de la Balance, 93600 Aulnay-sous-Bois, France""",48.9556607,2.5041412
+467,"""70 Allée des Gémeaux, 93600 Aulnay-sous-Bois, France""",48.9555734,2.5068328
+468,"""17 Rue du Dr Broussais, 93600 Aulnay-sous-Bois, France""",48.9543765,2.5190989
+469,"""Hopital, Villepinte, France""
+",48.953416,2.5250844
+470,"""159 Boulevard Robert Ballanger, 93420 Villepinte, France""",48.95519230000000,2.5373815
+471,"""176 Boulevard Robert Ballanger, 93420 Villepinte, France""",48.9558338,2.5401547
+472,"""50 Rue de la Remise À Grouan, 93420 Villepinte, France""",48.9556136,2.5539247
+473,"""82 Avenue des Roses, 93420 Villepinte, France""",48.9555035,2.557508
+474,"""Avenue du Parc, 93290 Tremblay-en-France, France""",48.9543273,2.5691766
+475,"""71 Avenue la Fontaine, 93290 Tremblay-en-France, France""",48.955028,2.5740239
+476,"""48 Avenue Mozart, 93290 Tremblay-en-France, France""",48.955039,2.5870649
+477,"""1 Avenue de Boursières, 77290 Mitry-Mory, France""",48.9556333,2.5901353
+478,"""5 Avenue des Primevères, 77290 Mitry-Mory, France""",48.9558676,2.6047405
+479,"""14 Avenue des Lilas, 77290 Mitry-Mory, France""",48.9556243,2.6067497
+480,"""77290 Mitry-Mory, France""",48.98543,2.619156
+481,"""77410 Gressy, France""",48.964879,2.674049
+482,"""77410 Claye-Souilly, France""",48.945849,2.68836
+483,"""22 Rue de la Biberonne, 77410 Claye-Souilly, France""",48.95516510000000,2.6683756
+484,"""7 Rue du Pont de Pierre, 77410 Claye-Souilly, France""",48.9542207,2.6705872
+485,"""163 Allée des Chênes, 78955 Carrières-sous-Poissy, France""",48.9525525,2.0410082
+486,"""78300 Poissy, France""",48.929584,2.046982
+487,"""3 Allée Charlie Chaplin, 78260 Achères, France""",48.953366,2.0599146
+488,"""50 Rue de Saint-Germain, 78260 Achères, France""",48.9532721,2.0713321
+489,"""44 Rue du Chêne Feuillu, 78260 Achères, France""",48.9529386,2.0737217
+490,"""78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+491,"""20130901_223302_L27599, 42 Rue de la Muette, 78600 Maisons-Laffitte, France""",48.9529123,2.1374827
+492,"""22 /24 Avenue Lavoisier, 78600 Maisons-Laffitte, France""",48.9525479,2.1401599
+493,"""21 bis Avenue Eglé, 78600 Maisons-Laffitte, France""",48.9526942,2.1542412
+494,"""19 Square de Grétry, 78600 Maisons-Laffitte, France""",48.9529631,2.1571386
+495,"""20 Quai Pierre Brunel, 78500 Sartrouville, France""",48.951197,2.171976
+496,"""17 Rue de Beauce, 78500 Sartrouville, France""",48.952248,2.1871007
+497,"""35 Rue de Beauce, 78500 Sartrouville, France""",48.9516421,2.1890651
+498,"""19 Rue des Acacias, 95240 Cormeilles-en-Parisis, France""",48.9530249,2.2037786
+499,"""184 Route de Pontoise, 95100 Argenteuil, France""",48.9518243,2.2063095
+500,"""1 Allée Wolfgang Amadeus Mozart, 95100 Argenteuil, France""",48.9529193,2.2203338
+501,"""13 Allée de la Haie Normande, 95100 Argenteuil, France""",48.9526778,2.2224319
+502,"""8 Allée des Jardins, 95100 Argenteuil, France""",48.9531298,2.23767
+503,"""26 Rue Aubry Vitet, 95100 Argenteuil, France""",48.952054,2.2398139
+504,"""62 bis Boulevard Jean Allemane, 95100 Argenteuil, France""",48.9527648,2.2541287
+505,"""15 Rue Etienne Dolet, 95100 Argenteuil, France""",48.9528924,2.2564974
+506,"""134 Avenue de Stalingrad, 95100 Argenteuil, France""",48.95329660000000,2.2706823
+507,"""50ter Rue de Vaucelle, 95100 Argenteuil, France""",48.9529116,2.2740588
+508,"""6 Allée des Dauphinois, 95100 Argenteuil, France""",48.9524559,2.2874836
+509,"""5 Rue des Provençaux, 95100 Argenteuil, France""",48.9530968,2.2901312
+510,"""50 Rue des Alliés, 93800 Épinay-sur-Seine, France""",48.9528901,2.3040349
+511,"""24 Avenue du 18 Juin 1940, 93800 Épinay-sur-Seine, France""",48.9527908,2.3071871
+512,"""15 Rue Henri Dunant, 93800 Épinay-sur-Seine, France""",48.952799,2.32117
+513,"""25 Rue du Commandant Louis Bouchet, 93800 Épinay-sur-Seine, France""",48.9529453,2.3231177
+514,"""125 Route de Saint-Leu, 93800 Épinay-sur-Seine, France""",48.95281320000000,2.3370923
+515,"""16 Rue Paul Langevin, 93430 Villetaneuse, France""",48.9532489,2.340105
+516,"""Chemin Latéral, 93380 Pierrefitte-sur-Seine, France""",48.95349850000000,2.3558725
+517,"""Petit Pierrefitte, 93380 Pierrefitte-sur-Seine, France""",48.95269590000000,2.3579312
+518,"""Émile Zola, 93240 Stains, France""",48.952804,2.370004
+519,"""51 Rue Jean Ferrat, 93240 Stains, France""",48.9489739,2.3735572
+520,"""8 Avenue Louis Bordes, 93240 Stains, France""",48.9529612,2.3884563
+521,"""Louis Bordes, 93240 Stains, France""",48.9546567,2.3862439
+522,"""93240 Stains, France""",48.9612947,2.381373
+523,"""3 Rue Guynemer, 93440 Dugny, France""",48.952959,2.4214112
+524,"""30 Avenue de la 2ème Division Blindée, 93440 Dugny, France""",48.9527013,2.4214268
+525,"""21 Allée de Lisbonne, 93440 Dugny, France""",48.9524166,2.4398934
+526,"""15 Rue de Helsinki, 93440 Dugny, France""",48.9530561,2.4405431
+527,"""4 Rue Nicéphore Niépce, 93150 Le Blanc-Mesnil, France""",48.9532063,2.4535013
+528,"""1 Rue Robert Brémond, 93150 Le Blanc-Mesnil, France""",48.9538245,2.4571759
+529,"""93600 Aulnay-sous-Bois, France""",48.9412151,2.4970711
+530,"""22 Rue Germain Planque, 93600 Aulnay-sous-Bois, France""",48.9523691,2.4750467
+531,"""2 Allée Pablo Picasso, 93600 Aulnay-sous-Bois, France""",48.9531804,2.4875975
+532,"""1 Rue Auguste Renoir, 93600 Aulnay-sous-Bois, France""",48.9527378,2.4901564
+533,"""8 Rue Georges Seurat, 93600 Aulnay-sous-Bois, France""",48.95289,2.502466
+534,"""9 Avenue de Savigny, 93600 Aulnay-sous-Bois, France""",48.95211690000000,2.5082852
+535,"""3 Allée du Dr Claude Bernard, 93600 Aulnay-sous-Bois, France""",48.9524281,2.5203045
+536,"""Hopital, Villepinte, France""
+",48.953416,2.5250844
+537,"""43 Avenue Nollet, 93420 Villepinte, France""",48.9527382,2.5380037
+538,"""24 Avenue Paul Bert, 93420 Villepinte, France""",48.9530651,2.540105
+539,"""2 Rue Auguste Renoir, 93420 Villepinte, France""",48.9527514,2.5545803
+540,"""94 Avenue du Général Leclerc, 93420 Villepinte, France""",48.95309100000000,2.5571724
+541,"""64 Rue du 8 Mai 1945, 93290 Tremblay-en-France, France""",48.9540774,2.56901
+542,"""4 Rue Nicolas Copernic, 93290 Tremblay-en-France, France""",48.9515573,2.5737268
+543,"""50 Avenue Buffon, 93290 Tremblay-en-France, France""",48.95291840000000,2.5874072
+544,"""4 Avenue Lavoisier, 93290 Tremblay-en-France, France""",48.95328730000000,2.5897997
+545,"""17 Avenue Roger Salengro, 77270 Villeparisis, France""",48.9528638,2.6056554
+546,"""4 Rue de la Reneuse, 77270 Villeparisis, France""",48.9520051,2.6084193
+547,"""14 Bis Avenue Jean Monnet, 77270 Villeparisis, France""",48.95199180000000,2.6196625
+548,"""12 Avenue Jean Monnet, 77270 Villeparisis, France""",48.95193160000000,2.6211027
+549,"""77270 Villeparisis, France""",48.9460998,2.61764
+550,"""77410 Claye-Souilly, France""",48.945849,2.68836
+551,"""76 Rue de Souilly, 77410 Claye-Souilly, France""",48.9530098,2.6711726
+552,"""21 Rue du Moulin, 77410 Claye-Souilly, France""",48.9520774,2.6734577
+553,"""30 Avenue de l'Europe, 78955 Carrières-sous-Poissy, France""",48.937743,2.0381751
+554,"""74 Rue Saint-Sébastien, 78300 Poissy, France""",48.9386193,2.0550371
+555,"""12 Rue Saint-Exupéry, 78300 Poissy, France""",48.938646,2.0568551
+556,"""78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+557,"""16 Domaine de l'Orée du Bois, 78600 Le Mesnil-le-Roi, France""",48.9386109,2.1211751
+558,"""25 Boulevard Pasteur, 78600 Le Mesnil-le-Roi, France""",48.9383826,2.1241667
+559,"""126 Rue des Côtes, 78600 Maisons-Laffitte, France""",48.9389238,2.1376286
+560,"""101 Rue des Côtes, 78600 Maisons-Laffitte, France""",48.93954190000000,2.1396377
+561,"""22 Rue Berthelot, 78500 Sartrouville, France""",48.9389455,2.1540232
+562,"""21 Rue Victor Hugo, 78500 Sartrouville, France""",48.9385462,2.1574291
+563,"""13 Rue Voltaire, 78500 Sartrouville, France""",48.9389963,2.1710301
+564,"""9 Rue des Eaux, 78500 Sartrouville, France""",48.9390276,2.1732728
+565,"""170B Rue Robert Villoing, 78500 Sartrouville, France""",48.9390708,2.1871711
+566,"""57 Rue Duquesne, 78500 Sartrouville, France""",48.9387957,2.1897254
+567,"""34 Rue Denis Papin, 95870 Bezons, France""",48.9394397,2.204417
+568,"""14 Rue Denis Papin, 95870 Bezons, France""",48.93913270000000,2.2067481
+569,"""11 Rue de Rochefort, 95100 Argenteuil, France""",48.9387525,2.2208066
+570,"""37 Rue du Prebuard, 95100 Argenteuil, France""",48.938914,2.2234869
+571,"""38 Rue Ferdinand Berthoud, 95100 Argenteuil, France""",48.93879280000000,2.2374497
+572,"""9 Rue Ferdinand Berthoud, 95100 Argenteuil, France""",48.9393335,2.2397505
+573,"""Quai du Petit Gennevilliers, 92230 Colombes, France""",48.9374604,2.2510546
+574,"""92230, Gennevilliers, France""",48.9326847,2.3000941
+575,"""11 Route du Port Charbonnier, 92230 Gennevilliers, France""",48.9392682,2.2716548
+576,"""9 Route du Port Charbonnier, 92230 Gennevilliers, France""",48.9386172,2.274611
+577,"""Mole Central, 92230 Gennevilliers, France""",48.9418117,2.2848609
+578,"""92230 Gennevilliers, France""",48.9326847,2.3000941
+579,"""A86, 92230 Gennevilliers, France""",48.93543770000000,2.2846395
+580,"""Unnamed Road, 92390 Villeneuve-la-Garenne, France""",48.9346952,2.325598
+581,"""10 Square Albert Camus, 92390 Villeneuve-la-Garenne, France""",48.93893570000000,2.3245373
+582,"""7 Quai du Saule Fleuri, 93450 L'Île-Saint-Denis, France""",48.9393428,2.3367851
+583,"""15 Quai de la Marine, 93450 L'Île-Saint-Denis, France""",48.9387273,2.339817
+584,"""6 Boulevard Carnot, 93200 Saint-Denis, France""",48.9385913,2.3539839
+585,"""100 Rue Gabriel Péri, 93200 Saint-Denis, France""",48.93895820000000,2.3568254
+586,"""9 Rue Henri Barbusse, 93200 Saint-Denis, France""",48.9387219,2.3713319
+587,"""25 Rue de la Ferme, 93200 Saint-Denis, France""",48.9390846,2.3737996
+588,"""N301, 93120 La Courneuve, France""",48.933746,2.3868361
+589,"""Cimetière de la Courneuve, 93120 La Courneuve, France""",48.937629,2.404698
+590,"""65 Avenue Waldeck Rochet, 93120 La Courneuve, France""",48.9392186,2.405443
+591,"""57 Rue de l'Égalité, 93350 Le Bourget, France""",48.9387269,2.4207768
+592,"""31 Rue de l'Égalité, 93350 Le Bourget, France""",48.9386911,2.4235988
+593,"""153 Avenue Charles Floquet, 93150 Le Blanc-Mesnil, France""",48.9388928,2.4384641
+594,"""5 Rue du Parc, 93150 Le Blanc-Mesnil, France""",48.9381223,2.4397586
+595,"""71 Avenue Charles Floquet, 93150 Le Blanc-Mesnil, France""",48.9394515,2.4532086
+596,"""33 Rue Emile Bident, 93150 Le Blanc-Mesnil, France""",48.9386216,2.4564244
+597,"""78 Rue Emile Paladilhe, 93150 Le Blanc-Mesnil, France""",48.9386871,2.4709549
+598,"""9 Rue Charcot, 93150 Le Blanc-Mesnil, France""",48.9387628,2.4737384
+599,"""61 Rue Louis Coutant, 93600 Aulnay-sous-Bois, France""",48.9388355,2.4875405
+600,"""5 Impasse Orleanaise, 93600 Aulnay-sous-Bois, France""",48.9390422,2.4902391
+601,"""16 Rue de Saumur, 93600 Aulnay-sous-Bois, France""",48.9392496,2.5044993
+602,"""9 Avenue du Maréchal Juin, 93600 Aulnay-sous-Bois, France""",48.9387828,2.506833
+603,"""6 Villa des Prés, 93270 Sevran, France""",48.93883820000000,2.5213797
+604,"""8 Avenue Henri Dunant, 93270 Sevran, France""",48.938866,2.523047
+605,"""33 Avenue Léon Jouhaux, 93270 Sevran, France""",48.9392171,2.535809
+606,"""16 Avenue Léon Jouhaux, 93270 Sevran, France""",48.939847,2.539873
+607,"""93270 Sevran, France""",48.9380468,2.5262889
+608,"""Gare, Villepinte, France""
+",48.9397548,2.5632317
+609,"""16 Rue Rabelais, 93290 Vaujours, France""",48.9389163,2.5707811
+610,"""63 Rue de Flandre, 93290 Tremblay-en-France, France""",48.9392656,2.5744028
+611,"""55 Rue de Bordeaux, 93290 Tremblay-en-France, France""",48.9392104,2.5871653
+612,"""135 Rue de Berry, 93290 Tremblay-en-France, France""",48.9389699,2.589913
+613,"""102 Rue Jean Jaurès, 77270 Villeparisis, France""",48.9389377,2.6046358
+614,"""81 Rue Jean Jaurès, 77270 Villeparisis, France""",48.9388893,2.6066677
+615,"""6 Rue Joseph Lhoste, 77270 Villeparisis, France""",48.93955160000000,2.6188735
+616,"""77270 Villeparisis, France""",48.9460998,2.61764
+617,"""40 Allée des Chênes, 77410 Claye-Souilly, France""",48.9390647,2.6375663
+618,"""38 Allée des Lilas, 77410 Claye-Souilly, France""",48.9390533,2.6397502
+619,"""77410 Claye-Souilly, France""",48.945849,2.68836
+620,"""116 Chemin des Processions, 77410 Claye-Souilly, France""",48.9430814,2.6589217
+621,"""16 Allée Alfred Nobel, 77410 Claye-Souilly, France""",48.9391573,2.6705495
+622,"""2 Square Charles Nicolle, 77410 Claye-Souilly, France""",48.938961,2.673941
+623,"""120 Rue du Port, 78955 Carrières-sous-Poissy, France""",48.94779460000000,2.0317427
+624,"""8 Rue Yves du Manoir, 78300 Poissy, France""",48.9361536,2.0545021
+625,"""7 Rue du Stade, 78300 Poissy, France""",48.9357001,2.0573166
+626,"""78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+627,"""52 Bis Rue de la Marne, 78600 Le Mesnil-le-Roi, France""",48.9364631,2.1224635
+628,"""3 Allée François Premier, 78600 Le Mesnil-le-Roi, France""",48.9361522,2.1239981
+629,"""10 Rue de Bellevue, 78600 Le Mesnil-le-Roi, France""",48.9370643,2.1367815
+630,"""Rue de Champsfleur, 78600 Le Mesnil-le-Roi, France""",48.9374596,2.1381236
+631,"""60 Avenue de la République, 78500 Sartrouville, France""",48.9361617,2.1543537
+632,"""12 Allée des Lilas, 78500 Sartrouville, France""",48.9359226,2.1570569
+633,"""11 Rue Henri Brisson, 78500 Sartrouville, France""",48.9362656,2.1703799
+634,"""206 Avenue Maurice Berteaux, 78500 Sartrouville, France""",48.9359617,2.1739474
+635,"""106 Rue des Martyrs de la Résistance, 78800 Houilles, France""",48.936436,2.1869433
+636,"""22 Bis Rue de Jemmapes, 78800 Houilles, France""",48.9354352,2.1889657
+637,"""16 Rue de la Berthie, 95870 Bezons, France""",48.9365531,2.2049086
+638,"""4 Rue Prudence, 95870 Bezons, France""",48.93619440000000,2.2070044
+639,"""34 Rue de Barentin, 95100 Argenteuil, France""",48.9360252,2.2208648
+640,"""2 Rue Rouget de Lisle, 95100 Argenteuil, France""",48.936305,2.223342
+641,"""144 Rue Henri Barbusse, 95100 Argenteuil, France""",48.9358993,2.2374499
+642,"""34 Rue Ary Scheffer, 95100 Argenteuil, France""",48.9363904,2.2406629
+643,"""169 Avenue d'Argenteuil, 92230 Gennevilliers, France""",48.9362228,2.2535139
+644,"""165 Boulevard de Valmy, 92700 Colombes, France""",48.9353633,2.2541231
+645,"""49 Route Principale du Port, 92230 Gennevilliers, France""",48.9363428,2.2704573
+646,"""Mercieres, 92230 Gennevilliers, France""",48.935717,2.2722949
+647,"""5 Rue Léo Hamon, 92230 Gennevilliers, France""",48.9371973,2.2862298
+648,"""A86, 92230 Gennevilliers, France""",48.93543770000000,2.2846395
+649,"""Les Barbanniers, 92230 Gennevilliers, France""",48.93607,2.303439
+650,"""1 Allée des Barbanniers, 92230 Gennevilliers, France""",48.9354072,2.3059863
+651,"""33 Avenue du 8 Mai 1945, 92390 Villeneuve-la-Garenne, France""",48.93725850000000,2.3195592
+652,"""100 Avenue de Verdun, 92390 Villeneuve-la-Garenne, France""",48.9352793,2.3239737
+653,"""47 Avenue Jean Jaurès, 93450 L'Île-Saint-Denis, France""",48.93645130000000,2.3375649
+654,"""2 Quai de la Marine, 93450 L'Île-Saint-Denis, France""",48.9362551,2.3405547
+655,"""55 Rue de la République, 93200 Saint-Denis, France""",48.9363543,2.3543256
+656,"""10 Rue de la République, 93200 Saint-Denis, France""",48.9361511,2.356857
+657,"""81 Rue de Strasbourg, 93200 Saint-Denis, France""",48.9365051,2.3702933
+658,"""2 Rue du Dr Delafontaine, 93200 Saint-Denis, France""",48.9358977,2.3730295
+659,"""53 Avenue Roger Salengro, 93120 La Courneuve, France""",48.9361174,2.3875952
+660,"""N301, 93120 La Courneuve, France""",48.933746,2.3868361
+661,"""49 Avenue Waldeck Rochet, 93120 La Courneuve, France""",48.93625490000000,2.4030888
+662,"""93120 La Courneuve, France""",48.93062580000000,2.4013584
+663,"""9 Rue Roger Salengro, 93350 Le Bourget, France""",48.9368208,2.4209985
+664,"""37 Rue Marcel Sembat, 93350 Le Bourget, France""",48.93633760000000,2.4235016
+665,"""33 Rue Edouard Vaillant, 93350 Le Bourget, France""",48.9358853,2.4366213
+666,"""3 Rue du Parc, 93150 Le Blanc-Mesnil, France""",48.93732020000000,2.439057
+667,"""24 Rue du Colonel Fabien, 93700 Drancy, France""",48.9222781,2.4625233
+668,"""10 Rue Roger Salomon, 93700 Drancy, France""",48.9361392,2.4566398
+669,"""25 Rue Augustin Marcos, 93150 Le Blanc-Mesnil, France""",48.9363518,2.4706721
+670,"""26 Rue Lamartine, 93150 Le Blanc-Mesnil, France""",48.9360133,2.4732339
+671,"""4 Rue Pascal Lecointre, 93600 Aulnay-sous-Bois, France""",48.9360478,2.4873528
+672,"""41 Rue Paul Bert, 93600 Aulnay-sous-Bois, France""",48.9362051,2.4899648
+673,"""33 Rue Jules Vallès, 93600 Aulnay-sous-Bois, France""",48.9360259,2.5026875
+674,"""6 Avenue du Maréchal Juin, 93600 Aulnay-sous-Bois, France""",48.9373494,2.5061326
+675,"""32 Rue Danton, 93270 Sevran, France""",48.93608630000000,2.5213634
+676,"""13 Rue Gaston Lévy, 93270 Sevran, France""",48.9361777,2.5234607
+677,"""Sevran Livry, 93270 Sevran, France""",48.9360525,2.5348337
+678,"""4 Allée du Pré Deguin, 93270 Sevran, France""",48.93600230000000,2.5395672
+679,"""93270 Sevran, France""",48.9380468,2.5262889
+680,"""93420 Villepinte, France""",48.9579323,2.5393855
+681,"""4 Rue Ernest Petit, 93410 Vaujours, France""",48.9368594,2.5708557
+682,"""155 Rue de Meaux, 93410 Vaujours, France""",48.9356289,2.5729826
+683,"""264 Rue de Meaux, 93410 Vaujours, France""",48.9362354,2.5871124
+684,"""290 Rue de Meaux, 93410 Vaujours, France""",48.9369401,2.5888076
+685,"""16 Rue Racine, 77270 Villeparisis, France""",48.9361622,2.6041244
+686,"""8 Rue de la Division Leclerc, 77270 Villeparisis, France""",48.9364091,2.6062741
+687,"""25 D105, 77270 Villeparisis, France""",48.9365312,2.6202973
+688,"""4 Chemin des Carrières aux Viormes, 77270 Villeparisis, France""",48.93558960000000,2.623842900000000
+689,"""82 Allée des Lilas, 77410 Claye-Souilly, France""",48.9361729,2.6381776
+690,"""81 Chemin de Chelles, 77410 Claye-Souilly, France""",48.9365349,2.6406535
+691,"""77410 Claye-Souilly, France""",48.945849,2.68836
+692,"""12 Allée Henri Becquerel, 77410 Claye-Souilly, France""",48.9366614,2.6711567
+693,"""20 Allée Henri Becquerel, 77410 Claye-Souilly, France""",48.93691400000000,2.6721559
+694,"""54 Rue Beauregard, 78300 Poissy, France""",48.9225108,2.0396155
+695,"""78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+696,"""N184, 78100 Saint-Germain-en-Laye, France""",48.9437238,2.0951789
+697,"""78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+698,"""Route de la Grille Royale, 78100 Saint-Germain-en-Laye, France""",48.9226683,2.1043795
+699,"""9 Avenue du Val, 78100 Saint-Germain-en-Laye, France""",48.9225441,2.1080027
+700,"""2 Rue du Port, 78600 Le Mesnil-le-Roi, France""",48.9243977,2.1210414
+701,"""Le Mesnil-le-Roi, France""
+",48.924857,2.123343
+702,"""200 Chemin de la Butte au Berger, 78360 Montesson, France""",48.9242725,2.1361195
+703,"""93 bis Chemin de la Remise du Loup, 78360 Montesson, France""",48.9246142,2.1418139
+704,"""Route de Sartrouville, 78360 Montesson, France""",48.91840820000000,2.1534055
+705,"""1 Chemin du Fossé Turquant, 78360 Montesson, France""",48.9231531,2.1561645
+706,"""112 Rue Vaucanson, 78420 Carrières-sur-Seine, France""",48.9227985,2.1711222
+707,"""55 Rue Victor Hugo, 78800 Houilles, France""",48.922386,2.1733293
+708,"""26 Rue Gambetta, 78800 Houilles, France""",48.92228980000000,2.1875275
+709,"""14 bis Avenue du Maréchal Joffre, 78800 Houilles, France""",48.9217667,2.1901265
+710,"""148 Boulevard Jean Jaurès, 78800 Houilles, France""",48.9222668,2.2036496
+711,"""43 Rue Daniel Baron, 95870 Bezons, France""",48.92238650000000,2.2071799
+712,"""124 Quai Voltaire, 95870 Bezons, France""",48.92280880000000,2.2200787
+713,"""92700 Colombes, France""",48.9237226,2.2431251
+714,"""49 Rue du Président Salvador Allende, 92700 Colombes, France""",48.9221699,2.2373212
+715,"""7 Avenue des Renouillers, 92700 Colombes, France""",48.9237705,2.2400426
+716,"""1 Rue de la Liberté, 92700 Colombes, France""",48.9221623,2.2539485
+717,"""53 Rue du Maréchal Joffre, 92700 Colombes, France""",48.921825,2.2568735
+718,"""Square André Chenier, 122 Rue de l'Abbé Jean Glatz, 92270 Bois-Colombes, France""",48.922456,2.2707294
+719,"""10 Avenue du Lieutenant Richard, 92270 Bois-Colombes, France""",48.92249110000000,2.2732313
+720,"""9 Rue des Agnettes, 92230 Gennevilliers, France""",48.9221882,2.2877411
+721,"""31 Rue du 8 Mai 1945, 92230 Gennevilliers, France""",48.9217665,2.2902619
+722,"""79 Avenue Chandon, 92230 Gennevilliers, France""",48.9207624,2.3029528
+723,"""63 Rue Henri Vuillemin, 92230 Gennevilliers, France""",48.92178940000000,2.3073445
+724,"""4 Rue Alexandre, 92230 Gennevilliers, France""",48.9224876,2.3208054
+725,"""19 D20, 92230 Gennevilliers, France""",48.9241491,2.319801
+726,"""4 Rue Ampère, 93200 Saint-Denis, France""",48.9218824,2.3387572
+727,"""Rue Ampère, 93200 Saint-Denis, France""",48.9226542,2.3400111
+728,"""12 Rue Jean-Philippe Rameau, 93210 Saint-Denis, France""",48.9214432,2.3538155
+729,"""Cornillon Sud, 93210 Saint-Denis, France""",48.921473,2.3630877
+730,"""83 Rue Saint-Denis, 93300 Aubervilliers, France""",48.9218492,2.3699893
+731,"""58 Rue Saint-Denis, 93300 Aubervilliers, France""",48.9225015,2.373318
+732,"""45 Rue Emile Zola, 93120 La Courneuve, France""",48.92251720000000,2.3878526
+733,"""52 Rue Suzanne Masson, 93120 La Courneuve, France""",48.9225713,2.3896919
+734,"""70 Rue Anatole France, 93120 La Courneuve, France""",48.9228233,2.4032844
+735,"""Danton, 93120 La Courneuve, France""",48.921443,2.4059791
+736,"""4 Rue Jules Verne, 93700 Drancy, France""",48.92194180000000,2.4202553
+737,"""126 Rue Saint-Stenay, 93700 Drancy, France""",48.9224876,2.4231355
+738,"""27 Rue Jean Jacques Rousseau, 93700 Drancy, France""",48.9222571,2.4375258
+739,"""34 Rue Raymond Lefèvre, 93700 Drancy, France""",48.9225314,2.440912
+740,"""45 Rue Gaston Landry, 93700 Drancy, France""",48.922197,2.4537376
+741,"""208 Avenue Henri Barbusse, 93700 Drancy, France""",48.9221969,2.4570849
+742,"""9 Avenue Mathilde Emilie, 93150 Le Blanc-Mesnil, France""",48.9223492,2.4706154
+743,"""90 Avenue Danielle Casanova, 93150 Le Blanc-Mesnil, France""",48.9223394,2.4735695
+744,"""14 Rue de Reims, 93600 Aulnay-sous-Bois, France""",48.9223934,2.4878847
+745,"""113 Route de Bondy, 93600 Aulnay-sous-Bois, France""",48.92250380000000,2.489817
+746,"""82 Avenue Jean Jaurès, 93600 Aulnay-sous-Bois, France""",48.9223706,2.5036715
+747,"""6 Rue Armand Carrel, 93600 Aulnay-sous-Bois, France""",48.9220453,2.5058251
+748,"""34 Avenue d'Orléans, 93190 Livry-Gargan, France""",48.92234820000000,2.5208704
+749,"""143 Avenue Emile Gérard, 93190 Livry-Gargan, France""",48.9217715,2.5234131
+750,"""10 Allée Ginette, 93190 Livry-Gargan, France""",48.9220531,2.5376109
+751,"""35 Rue François Villon, 93190 Livry-Gargan, France""",48.9224526,2.5400361
+752,"""Chemin de la Glaisière, 93190 Livry-Gargan, France""",48.9211937,2.553449
+753,"""Route Stratégique, 93190 Clichy-sous-Bois, France""",48.9195005,2.557159
+754,"""8 Route du Bois de Bernouille, 93470 Coubron, France""",48.9181469,2.5732596
+755,"""93470 Coubron, France""",48.91625,2.577531
+756,"""Courtry, France""
+",48.918273,2.603204
+757,"""D84, 77181 Courtry, France""",48.9253267,2.6031793
+758,"""2 Chemin de l'Arange, 77181 Courtry, France""",48.9205536,2.6079119
+759,"""77181 Le Pin, France""",48.91477190000000,2.6306962
+760,"""14 Chemin du Bois Mulot, 77181 Le Pin, France""",48.92176920000000,2.6254412
+761,"""77181 Le Pin, France""",48.91477190000000,2.6306962
+762,"""77410 Villevaudé, France""",48.91117090000000,2.667178
+763,"""7 Allée des Favrieux, 77410 Villevaudé, France""",48.9195516,2.6682944
+764,"""59 Avenue Anatole France, 78300 Poissy, France""",48.9193512,2.0401752
+765,"""78100 Saint-Germain-en-Laye, France""",48.9315928,2.0921881
+766,"""Route Forestière des Brancas, 78100 Saint-Germain-en-Laye, France""",48.9215975,2.1053873
+767,"""D157, 78100 Saint-Germain-en-Laye, France""",48.92527280000000,2.1196948
+768,"""Rue du Tir, 78600 Le Mesnil-le-Roi, France""",48.9463727,2.1328973
+769,"""78360 Montesson, France""",48.9256365,2.1422034
+770,"""106 Chemin du Mont Royal, 78360 Montesson, France""",48.9183907,2.1386503
+771,"""78360 Montesson, France""",48.9256365,2.1422034
+772,"""15 Rue des Grands Champs, 78420 Carrières-sur-Seine, France""",48.9214166,2.1714595
+773,"""40 Rue de Belfort, 78800 Houilles, France""",48.9188742,2.1748802
+774,"""43B Rue Gambetta, 78800 Houilles, France""",48.9195027,2.1877748
+775,"""25 Boulevard Jean Jaurès, 78800 Houilles, France""",48.9199525,2.1902338
+776,"""5 Rue de l'Alouette, 95870 Bezons, France""",48.9198798,2.2045332
+777,"""94 Rue Casimir Périer, 95870 Bezons, France""",48.9193529,2.2067574
+778,"""16 Rue des Haras, 92000 Nanterre, France""",48.9189192,2.220666
+779,"""92700 Colombes, France""",48.9237226,2.2431251
+780,"""96 Rue de Bellevue, 92700 Colombes, France""",48.9195347,2.2369757
+781,"""188 B Rue Gabriel Péri, 92700 Colombes, France""",48.9192954,2.2401261
+782,"""3 Rue Lazare Carnot, 92700 Colombes, France""",48.919532,2.2546218
+783,"""50 Rue des Cerisiers, 92700 Colombes, France""",48.9195489,2.2569469
+784,"""79 Rue Charles Chefson, 92270 Bois-Colombes, France""",48.919846,2.271299
+785,"""72 Rue Charles Chefson, 92270 Bois-Colombes, France""",48.9193905,2.2730497
+786,"""18 Bis Rue Paul Gillet, 92600 Asnières-sur-Seine, France""",48.9196487,2.2874013
+787,"""80-96 D19, 92600 Gennevilliers, France""",48.9232155,2.2863599
+788,"""1 Allée du Soixante Quatorze, 92230 Gennevilliers, France""",48.91942660000000,2.3041403
+789,"""101 D17, 92230 Gennevilliers, France""",48.9213649,2.306496
+790,"""9 Quai des Gresillons, 92230 Gennevilliers, France""",48.919484,2.3213489
+791,"""15 Boulevard Marcel Paul, 93450 L'Île-Saint-Denis, France""",48.9189743,2.323823
+792,"""11 Rue Marcel Cachin, 93400 Saint-Ouen, France""",48.9189292,2.3375973
+793,"""22 Boulevard Finot, 93200 Saint-Ouen, France""",48.9192507,2.3393824
+794,"""Parc Du Temps Des Cerises, 30 Avenue des Fruitiers, 93210 Saint-Denis, France""",48.9199295,2.3538831
+795,"""4 Rue André Campra, 93210 Saint-Denis, France""",48.9196511,2.3560745
+796,"""2 Rue de l'Ecluse des Vertus, 93300 Aubervilliers, France""",48.9197406,2.3702943
+797,"""100 Rue du Port, 93300 Aubervilliers, France""",48.9196375,2.3734592
+798,"""76 Rue de la Courneuve, 93300 Aubervilliers, France""",48.91944670000000,2.3873391
+799,"""3 Rue Adrien Huzard, 93300 Aubervilliers, France""",48.9195006,2.3898903
+800,"""53 Rue des Prévoyants, 93120 La Courneuve, France""",48.91966560000000,2.4039972
+801,"""12 Rue de Normandie, 93120 La Courneuve, France""",48.9196412,2.4068152
+802,"""50 Rue Saint-Stenay, 93700 Drancy, France""",48.91915120000000,2.4205069
+803,"""60 Rue Saint-Stenay, 93700 Drancy, France""",48.9197997,2.4219456
+804,"""4 Rue Louise Michel, 93700 Drancy, France""",48.919455,2.4374109
+805,"""12 Rue Louis Delplace, 93700 Drancy, France""",48.92016400000000,2.4411314
+806,"""4 Cité de la Muette, 93700 Drancy, France""",48.9198064,2.4545382
+807,"""21 Rue Arthur Fontaine, 93700 Drancy, France""",48.91968,2.4558222
+808,"""30 Avenue Lejeune, 93700 Drancy, France""",48.9194001,2.4704788
+809,"""58 Avenue Alfred Bossu, 93150 Drancy, France""",48.9195271,2.4736139
+810,"""261 Avenue de Nonneville, 93600 Aulnay-sous-Bois, France""",48.9195912,2.4874058
+811,"""29 Rue de Rome, 93600 Aulnay-sous-Bois, France""",48.9193919,2.4898489
+812,"""9 Avenue Elisee Reclus, 93600 Aulnay-sous-Bois, France""",48.9197463,2.5037854
+813,"""103 Avenue Pierre Jouhet, 93600 Aulnay-sous-Bois, France""",48.9194958,2.5065686
+814,"""120 Avenue Emile Gérard, 93190 Livry-Gargan, France""",48.9193226,2.5211994
+815,"""39 B Avenue Paul Bert, 93190 Livry-Gargan, France""",48.9192087,2.5236696
+816,"""8 Place François Mitterrand, 93190 Livry-Gargan, France""",48.9195432,2.5375392
+817,"""7 Rue Jules Vallès, 93190 Livry-Gargan, France""",48.919335,2.539603
+818,"""Chemin de la Glaisière, 93190 Livry-Gargan, France""",48.9211937,2.553449
+819,"""26 Chemin de Clichy, 93190 Livry-Gargan, France""",48.9176803,2.5557404
+820,"""Sentier de Derriereles Jardins, 93470 Coubron, France""",48.9192313,2.5717056
+821,"""Route du Bois de Bernouille, 93470 Coubron, France""",48.9217232,2.572464
+822,"""93470 Coubron, France""",48.91625,2.577531
+823,"""Courtry, France""
+",48.918273,2.603204
+824,"""59 Route de Villeparisis, 77181 Courtry, France""",48.9194468,2.6034457
+825,"""54 Rue du Général Leclerc, 77181 Courtry, France""",48.91824280000000,2.6062515
+826,"""Sentier des Roses, 77181 Le Pin, France""",48.9174709,2.6244338
+827,"""10 Chemin du Bois Mulot, 77181 Le Pin, France""",48.9196355,2.6264879
+828,"""77181 Le Pin, France""",48.91477190000000,2.6306962
+829,"""18bis Grande Rue, 77410 Villevaudé, France""",48.9175193,2.6520651
+830,"""26 Rue du Lavoir, 77410 Villevaudé, France""",48.9180327,2.65957
+831,"""7 Allée des Favrieux, 77410 Villevaudé, France""",48.9195516,2.6682944
+832,"""Allée des Favrieux, 77410 Villevaudé, France""",48.91955,2.6685463
+833,"""36 Grande Rue, 78240 Chambourcy, France""",48.90556360000000,2.039599
+834,"""Les champs d'Hennemont, N13, 78240 Chambourcy, France""",48.8981727,2.0617655
+835,"""4 Allée de Pomone, 78100 Saint-Germain-en-Laye, France""",48.9049517,2.0554052
+836,"""10 Avenue de Winchester, 78100 Saint-Germain-en-Laye, France""",48.9047194,2.0725636
+837,"""6 Rue Henri Dunant, 78100 Saint-Germain-en-Laye, France""",48.9059272,2.073351
+838,"""10 Rue Quinault, 78100 Saint-Germain-en-Laye, France""",48.9053962,2.0871232
+839,"""14 bis Rue du Parc de Noailles, 78100 Saint-Germain-en-Laye, France""",48.9049191,2.0899462
+840,"""19 Allée des Vignes, 78230 Le Pecq, France""",48.9051759,2.1040637
+841,"""70 Rue des Prairies, 78230 Le Pecq, France""",48.9055681,2.1068401
+842,"""28 Rue Franklin Roosevelt, 78360 Montesson, France""",48.9056844,2.1206584
+843,"""48 Avenue Kléber, 78110 Le Vésinet, France""",48.9053457,2.1235182
+844,"""47 Rue des Sablons, 78400 Chatou, France""",48.9058773,2.1374135
+845,"""12 Rue des Guipières, 78400 Chatou, France""",48.9061578,2.1402216
+846,"""17 Rue Faullain de Banville, 78360 Montesson, France""",48.9054977,2.1537591
+847,"""9 Avenue de l'Europe, 78400 Chatou, France""",48.90545770000000,2.1567544
+848,"""41 Route de Chatou, 78420 Carrières-sur-Seine, France""",48.9057596,2.1713984
+849,"""34 Rue Victor Hugo, 78420 Carrières-sur-Seine, France""",48.9053933,2.1730779
+850,"""9 Av. Kleber, 92000 Nanterre, France""",48.9036197,2.189803
+851,"""173 Avenue de la Commune de Paris, 92000 Nanterre, France""",48.903953,2.2051183
+852,"""133 Avenue de la Commune de Paris, 92000 Nanterre, France""",48.90519220000000,2.2071655
+853,"""11 Rue Noël Pons, 92000 Nanterre, France""",48.9055748,2.2216602
+854,"""35 Rue Noël Pons, 92000 Nanterre, France""",48.906458,2.2243628
+855,"""2 Place du 11 Novembre 1918, 92250 La Garenne-Colombes, France""",48.90554910000000,2.2373328
+856,"""97 Rue Sartoris, 92250 La Garenne-Colombes, France""",48.9059009,2.2400239
+857,"""12 Boulevard de la République, 92250 La Garenne-Colombes, France""",48.90574670000000,2.2542288
+858,"""88 Avenue de l'Europe, 92250 La Garenne-Colombes, France""",48.9058131,2.2568741
+859,"""8 Rue Jean Moulin, 92400 Courbevoie, France""",48.9055814,2.2705235
+860,"""82 Rue du 22 Septembre, 92400 Courbevoie, France""",48.9055696,2.2736587
+861,"""6 Grande Rue Charles de Gaulle, 92600 Asnières-sur-Seine, France""",48.9055712,2.2873966
+862,"""3 Rue Gallieni, 92600 Asnières-sur-Seine, France""",48.9061466,2.2892363
+863,"""114 Rue Martre, 92110 Clichy, France""",48.9056294,2.303959
+864,"""35 Rue du Landy, 92110 Clichy, France""",48.9057808,2.3069503
+865,"""9 Rue Dulcie September, 93400 Saint-Ouen, France""",48.9054839,2.3206547
+866,"""Saint-Ouen RER, 129 Boulevard Victor Hugo, 93400 Saint-Ouen, France""",48.90551260000000,2.3232425
+867,"""45 Rue Blanqui, 93400 Saint-Ouen, France""",48.9054904,2.3376165
+868,"""23 Rue Pierre Curie, 93400 Saint-Ouen, France""",48.90530440000000,2.340478
+869,"""13 Impasse Trezel, 93210 Saint-Denis, France""",48.9062041,2.356429700000000
+870,"""242 Rue de la Haie Coq, 93300 Aubervilliers, France""",48.9053431,2.3709629
+871,"""83 Avenue Victor Hugo, 93300 Aubervilliers, France""",48.90580430000000,2.3738447
+872,"""65 Rue des Cités, 93300 Aubervilliers, France""",48.9060561,2.387286
+873,"""97B Avenue de la République, 93300 Aubervilliers, France""",48.90582500000000,2.3902539
+874,"""93500 Pantin, France""",48.8977492,2.4070294
+875,"""54 Avenue Henri Barbusse, 93000 Bobigny, France""",48.90562,2.4220445
+876,"""117 Rue Henri Gautier, 93000 Bobigny, France""",48.9058332,2.4236416
+877,"""29 Rue des Marais, 93000 Bobigny, France""",48.9058552,2.4377934
+878,"""51 Rue Miriam Makeba, 93000 Bobigny, France""",48.905774,2.4401188
+879,"""26 Rue Hector Berlioz, 93000 Bobigny, France""",48.9055696,2.4541109
+880,"""302 Avenue Paul Vaillant Couturier, 93000 Bobigny, France""",48.9060694,2.4566128
+881,"""14 Chemin de Groslay, 93000 Bobigny, France""",48.9061671,2.4709371
+882,"""35 N3, 93140 Bondy, France""",48.9064344,2.4847631
+883,"""41 Avenue Pasteur, 93140 Bondy, France""",48.9056455,2.4867508
+884,"""8 Avenue de Verdun, 93140 Bondy, France""",48.90495630000000,2.4900277
+885,"""58 Allée Emile Zola, 93320 Les Pavillons-sous-Bois, France""",48.9054585,2.5046062
+886,"""11 Allée Jules Auffret, 93320 Les Pavillons-sous-Bois, France""",48.9054663,2.5067393
+887,"""11 Allée Marguerite, 93190 Livry-Gargan, France""",48.905313,2.520124
+888,"""République - Marx Dormoy, 93190 Livry-Gargan, France""",48.9055177,2.5223207
+889,"""37 Résidence Sévigné, 93390 Clichy-sous-Bois, France""",48.9068154,2.5377463
+890,"""Avenue Ladrette, 93390 Clichy-sous-Bois, France""",48.9054304,2.5415015
+891,"""8 Allée de l'Aqueduc, 93390 Clichy-sous-Bois, France""",48.9052438,2.5544796
+892,"""9 B Allée Anatole France, 93390 Clichy-sous-Bois, France""",48.9058401,2.5564129
+893,"""93 Boulevard Hardy, 93370 Montfermeil, France""",48.9066874,2.5710291
+894,"""19 Chemin de la Petite Montagne, 93370 Montfermeil, France""",48.9051257,2.5738682
+895,"""64 Avenue Daguerre, 93370 Chelles, France""",48.9054011,2.5876408
+896,"""55 Avenue Denis Papin, 77500 Chelles, France""",48.905776,2.5902392
+897,"""10 Rue Auguste Boulnat, 77181 Courtry, France""",48.9057774,2.6024434
+898,"""33 Rue de la Régale, 77181 Courtry, France""",48.906979,2.6063998
+899,"""77181 Le Pin, France""",48.91477190000000,2.6306962
+900,"""77410 Villevaudé, France""",48.91117090000000,2.667178
+901,"""4 Chemin de la Gueule du Bois, 77410 Villevaudé, France""",48.9054187,2.659887
+902,"""66 Rue de la Tour, 77410 Villevaudé, France""",48.906037,2.6697256
+903,"""Chemin du Grimpet, 77410 Villevaudé, France""",48.905551,2.673416
+904,"""5 Sente des Vergers, 78240 Chambourcy, France""",48.9032943,2.0399384
+905,"""28 Rue du Chemin Neuf, 78240 Chambourcy, France""",48.9038777,2.0543494
+906,"""N13, 78100 Saint-Germain-en-Laye, France""",48.8938578,2.0819854
+907,"""8 Rue Turgot, 78100 Saint-Germain-en-Laye, France""",48.9023056,2.0706465
+908,"""1 Place Christiane Frahier, 78100 Saint-Germain-en-Laye, France""",48.902778,2.073678
+909,"""22 Rue d'Alsace, 78100 Saint-Germain-en-Laye, France""",48.9025495,2.0877986
+910,"""3 Rue Molière, 78100 Saint-Germain-en-Laye, France""",48.9025363,2.09009
+911,"""29 Allée de la Capitainerie, 78230 Le Pecq, France""",48.9028961,2.1036716
+912,"""33 Rue Gabriel Péri, 78230 Le Pecq, France""",48.9027368,2.1066955
+913,"""84 Boulevard de Belgique, 78110 Le Vésinet, France""",48.9027417,2.1208339
+914,"""24 Route de la Borde, 78110 Le Vésinet, France""",48.9031317,2.1227636
+915,"""4bis Route de Montesson, 78110 Le Vésinet, France""",48.9004664,2.1261341
+916,"""31 Route du Vésinet, 78400 Chatou, France""",48.9032536,2.1409841
+917,"""2 Rue Auguste Renoir, 78400 Chatou, France""",48.9027351,2.1546357
+918,"""13 Rue Auguste Renoir, 78400 Chatou, France""",48.9028189,2.1566598
+919,"""66 Rue Victor Hugo, 78420 Carrières-sur-Seine, France""",48.9023911,2.1710668
+920,"""60 Rue Victor Hugo, 78420 Carrières-sur-Seine, France""",48.90273820000000,2.1721306
+921,"""149 Boulevard du Général Leclerc, 92000 Nanterre, France""",48.902175,2.1850574
+922,"""31 Rue Kléber, 92000 Nanterre, France""",48.90305800000000,2.191231
+923,"""109 Avenue de la Commune de Paris, 92000 Nanterre, France""",48.9034674,2.2037895
+924,"""160 Avenue de la République, 92000 Nanterre, France""",48.9030257,2.206588
+925,"""14 Rue François Hanriot, 92000 Nanterre, France""",48.9025081,2.2214255
+926,"""60 Rue François Hanriot, 92000 Nanterre, France""",48.9027214,2.2239052
+927,"""9 Boulevard national, 92250 La Garenne-Colombes, France""",48.9031308,2.2372225
+928,"""1bis Avenue Barrilliet, 92250 La Garenne-Colombes, France""",48.9028153,2.2400817
+929,"""119 Avenue de la République, 92400 Courbevoie, France""",48.9026545,2.2545469
+930,"""5 Rue Joseph Rivière, 92400 Courbevoie, France""",48.9026896,2.2567573
+931,"""22 Avenue Malvesin, 92400 Courbevoie, France""",48.9028532,2.2708579
+932,"""8 Boulevard Georges Clemenceau, 92400 Courbevoie, France""",48.9029344,2.273394
+933,"""88 Quai Charles Pasqua, 92300 Levallois-Perret, France""",48.9026299,2.288233
+934,"""Quai de Clichy, 92110 Clichy, France""",48.909042,2.3013087
+935,"""82 Boulevard Jean Jaurès, 92110 Clichy, France""",48.90298550000000,2.304096700000000
+936,"""80 Rue Martre, 92110 Clichy, France""",48.9031344,2.3069712
+937,"""20 Rue Touzet Gaillard, 93400 Saint-Ouen, France""",48.9030063,2.320298
+938,"""59 Rue Arago, 93400 Saint-Ouen, France""",48.9029164,2.3239827
+939,"""12 Rue Jules Vallès, 93400 Saint-Ouen, France""",48.9024259,2.336765
+940,"""3 Rue Paul Bert, 93400 Saint-Ouen, France""",48.9028942,2.3401409
+941,"""23 Rue des Poissonniers, 93200 Saint-Ouen, France""",48.9027049,2.351825
+942,"""49 Avenue du Président Wilson, 93210 Saint-Denis, France""",48.9031248,2.3580309
+943,"""26 Avenue des Forgerons, 93300 Aubervilliers, France""",48.90293280000000,2.3710208
+944,"""305 Rue Madeleine Vionnet, 93300 Aubervilliers, France""",48.9031321,2.3735669
+945,"""19 Rue de l'Union, 93300 Aubervilliers, France""",48.9026769,2.3876258
+946,"""31 Avenue Jean Jaurès, 93300 Aubervilliers, France""",48.9025991,2.3905122
+947,"""48 Rue Toffier Decaux, 93500 Pantin, France""",48.90285890000000,2.4037959
+948,"""156 Rue Diderot, 93500 Pantin, France""",48.902373,2.4064415
+949,"""51-53 Chemin des Vignes, 93000 Bobigny, France""",48.9026164,2.4212745
+950,"""43 Rue Saint-André, 93000 Bobigny, France""",48.9034074,2.4243321
+951,"""38 Rue Gallieni, 93000 Bobigny, France""",48.9027457,2.4378369
+952,"""77 Avenue Jean Jaurès, 93000 Bobigny, France""",48.9026138,2.4400349
+953,"""Unnamed Road, 93000 Bobigny, France""",48.9100302,2.422169
+954,"""93000 Bobigny, France""",48.9100302,2.422169
+955,"""233 Avenue de Rosny, 93130 Noisy-le-Sec, France""",48.9028563,2.4705338
+956,"""6 Rue Fremin, 93140 Bondy, France""",48.9029739,2.4731638
+957,"""11 Allée des Primevères, 93140 Bondy, France""",48.902913,2.487374
+958,"""13 Place Nicole Neuburger, 93140 Bondy, France""",48.9026108,2.4910804
+959,"""48 Allée Pierre Brossolette, 93320 Les Pavillons-sous-Bois, France""",48.9030699,2.5032359
+960,"""23 Allée Etienne Dolet, 93320 Les Pavillons-sous-Bois, France""",48.9027963,2.5066438
+961,"""14 Avenue de Livry, 93340 Le Raincy, France""",48.9028223,2.5208357
+962,"""46 Boulevard de l'Est, 93340 Le Raincy, France""",48.90266200000000,2.5235379
+963,"""Fosse-Maussoin State Park, 83 Allée de la Chapelle, 93390 Clichy-sous-Bois, France""",48.9036871,2.5362539
+964,"""76 Allée de la Chapelle, 93390 Clichy-sous-Bois, France""",48.9026738,2.540205
+965,"""Gymnase Henri vidal, 7 Avenue des Pâquerettes, 93370 Montfermeil, France""",48.90256550000000,2.5550392
+966,"""15 Rue Derain, 93370 Montfermeil, France""",48.902564,2.55701
+967,"""2 Place Jacqueline Auriol, 93370 Montfermeil, France""",48.902394,2.5697384
+968,"""3 Villa Dr Martial, 93370 Montfermeil, France""",48.90280750000000,2.5737787
+969,"""31 Avenue Monge, 77500 Chelles, France""",48.9026167,2.5870907
+970,"""70 Avenue Lavoisier, 77500 Chelles, France""",48.9030029,2.5910028
+971,"""15 Chemin de Chantereine, 77500 Chelles, France""",48.9036139,2.6039848
+972,"""11 Allée du Muguet, 77500 Chelles, France""",48.9026819,2.60597
+973,"""77181 Le Pin, France""",48.91477190000000,2.6306962
+974,"""77177 Brou-sur-Chantereine, France""",48.8927042,2.6381902
+975,"""77410 Villevaudé, France""",48.91117090000000,2.667178
+976,"""6 Rue de la Gueule du Bois, 77410 Villevaudé, France""",48.9013977,2.6618458
+977,"""Rue de Percy, 77410 Villevaudé, France""",48.9026049,2.6715747
+978,"""21 Rue des Petits Prés, 77410 Villevaudé, France""",48.9026524,2.6735959
+979,"""78240 Chambourcy, France""",48.906272,2.040137
+980,"""41 Avenue de l'Echaudee, 78112 Fourqueux, France""",48.8894156,2.0545317
+981,"""5 Impasse des Sansonnets, 78112 Fourqueux, France""",48.8890483,2.0554682
+982,"""2 Allée de la Pommeraie, 78112 Fourqueux, France""",48.88892940000000,2.0704762
+983,"""22 Rue du Chiendent, 78112 Fourqueux, France""",48.8887095,2.072816
+984,"""18 Rue Schnapper, 78100 Saint-Germain-en-Laye, France""",48.8888636,2.0879965
+985,"""17 Rue Schnapper, 78100 Saint-Germain-en-Laye, France""",48.8885513,2.0903952
+986,"""21 Avenue Charles de Gaulle, 78230 Le Pecq, France""",48.8885961,2.1035794
+987,"""Quai du 8 Mai 1945, 78230 Le Pecq, France""",48.89245930000000,2.1066585
+988,"""71 Allée des Oeillets, 78110 Le Vésinet, France""",48.8894951,2.120874
+989,"""53 Route de Croissy, 78110 Le Vésinet, France""",48.8894414,2.1250857
+990,"""34 Avenue de la Princesse, 78110 Le Vésinet, France""",48.8890745,2.1372032
+991,"""1 Boulevard des États Unis, 78110 Le Vésinet, France""",48.8891599,2.1397528
+992,"""14 Rue des Écoles, 78400 Chatou, France""",48.8888952,2.1539085
+993,"""5a Avenue d'Aligre, 78400 Chatou, France""",48.8886371,2.1569627
+994,"""13 Rue Amédée Bollée, 92500 Rueil-Malmaison, France""",48.8887526,2.1707878
+995,"""1 Rue de l'Union, 92500 Rueil-Malmaison, France""",48.8892622,2.1736328
+996,"""2 Impasse du Gymnase, 92000 Nanterre, France""",48.88903700000000,2.187819
+997,"""50 Rue Raymond Poincaré, 92000 Nanterre, France""",48.8885029,2.1899845
+998,"""40 Rue Sadi Carnot, 92000 Nanterre, France""",48.88884160000000,2.2040912
+999,"""9-19 Avenue de la Liberté, 92000 Nanterre, France""",48.8881434,2.2075495
+1000,"""10 Rue Louis Meunier, 92000 Nanterre, France""",48.8891806,2.2208803
+1001,"""103 Avenue Pablo Picasso, 92000 Nanterre, France""",48.8889591,2.222969
+1002,"""Les Bouvets, 92800 Puteaux, France""",48.8888288,2.2369138
+1003,"""101 Terrasse Boieldieu, 92800 Puteaux, France""",48.8889174,2.2401881
+1004,"""Tour Neptune, 20 Place de Seine, 92400 Courbevoie, France""",48.8895139,2.2541208
+1005,"""7 Boulevard du Général Leclerc, 92200 Neuilly-sur-Seine, France""",48.8882541,2.2576577
+1006,"""10 Rue Edouard Nortier, 92200 Neuilly-sur-Seine, France""",48.8887294,2.2709155
+1007,"""Chezy, 92200 Neuilly-sur-Seine, France""",48.8882133,2.2715547
+1008,"""37 Rue Louise Michel, 92300 Levallois-Perret, France""",48.8888634,2.2876593
+1009,"""14 Rue Jacques Ibert, 92300 Levallois-Perret, France""",48.88884300000000,2.2901754
+1010,"""1 Rue Nicolas Chuquet, 75017 Paris, France""",48.8888213,2.3038577
+1011,"""135 Rue de Saussure, 75017 Paris, France""",48.88892800000000,2.307132
+1012,"""15 Rue Clairaut, 75017 Paris, France""",48.8889624,2.3208722
+1013,"""2 Rue Dautancourt, 75017 Paris, France""",48.8889244,2.3234792
+1014,"""40 Avenue Junot, 75018 Paris, France""",48.8892289,2.3371957
+1015,"""28 Rue des Saules, 75018 Paris, France""",48.8890918,2.3401838
+1016,"""4B Rue d'Oran, 75018 Paris, France""",48.8890213,2.3540064
+1017,"""20 Rue Doudeauville, 75018 Paris, France""",48.8888482,2.3568423
+1018,"""57 Rue de Tanger, 75019 Paris, France""",48.88897060000000,2.3709138
+1019,"""28 Rue Riquet, 75019 Paris, France""",48.88886470000000,2.3732103
+1020,"""13-15 Rue Germaine Tailleferre, 75019 Paris, France""",48.88931120000000,2.3870024
+1021,"""8 Avenue du Nouveau Conservatoire, 75019 Paris, France""",48.8889478,2.3900593
+1022,"""47 Rue du Pré Saint-Gervais, 93500 Pantin, France""",48.8889478,2.4036228
+1023,"""43 Rue Honoré d'Estienne d'Orves, 93500 Pantin, France""",48.8889839,2.4067756
+1024,"""23 Voie de la Résistance, 93500 Pantin, France""",48.888878,2.4213003
+1025,"""24 Voie de la Résistance, 93500 Pantin, France""",48.8896337,2.4218539
+1026,"""95 Rue Paul de Kock, 93230 Romainville, France""",48.8888229,2.4383026
+1027,"""15 Allée des Fauvettes, 93230 Romainville, France""",48.8890259,2.4396935
+1028,"""14 Rue de Brément, 93130 Noisy-le-Sec, France""",48.889457,2.453972
+1029,"""5 Rue Condorcet, 93130 Noisy-le-Sec, France""",48.8892257,2.4565383
+1030,"""82 Rue des Carrouges, 93130 Noisy-le-Sec, France""",48.888979,2.4705362
+1031,"""30 Chemin des Carrouges, 93130 Noisy-le-Sec, France""",48.888968,2.473692
+1032,"""62 Rue Jean Monnet, 93140 Bondy, France""",48.8891846,2.4874275
+1033,"""30 Allée des Deux Communes, 93250 Bondy, France""",48.8889091,2.4900912
+1034,"""50 Rue Guilbert, 93250 Villemomble, France""",48.8888988,2.5044193
+1035,"""15 Rue Adèle, 93250 Villemomble, France""",48.8885975,2.5070434
+1036,"""22 Avenue Joffre, 93220 Gagny, France""",48.8892974,2.5206198
+1037,"""19 Rue du Petit Raincy, 93220 Gagny, France""",48.8890044,2.5231892
+1038,"""97 Rue du Général Leclerc, 93220 Gagny, France""",48.8890506,2.5372454
+1039,"""24 Rue des Sports, 93220 Gagny, France""",48.88910690000000,2.5399459
+1040,"""65 Avenue des Bleuets, 93370 Montfermeil, France""",48.888766,2.5536364
+1041,"""5 Avenue des Bleuets, 93370 Montfermeil, France""",48.8885522,2.5576911
+1042,"""Chemin de la Peau Grasse, 77500 Chelles, France""",48.888264,2.572857
+1043,"""57 Rue du Clos Roger, 77500 Chelles, France""",48.8886291,2.5754201
+1044,"""13 Rue du Tir, 77500 Chelles, France""",48.887536,2.5864754
+1045,"""17 Rue de la Briqueterie, 77500 Chelles, France""",48.8903702,2.5896903
+1046,"""4 Allée des Paturins, 77500 Chelles, France""",48.8888311,2.6038635
+1047,"""184 Rue du Tir, 77500 Chelles, France""",48.8890859,2.606195
+1048,"""Avenue Emile Guerry, 77500 Chelles, France""",48.8892452,2.6200214
+1049,"""2 Avenue de Liaubon, 77500 Chelles, France""",48.88911910000000,2.6235936
+1050,"""77177 Brou-sur-Chantereine, France""",48.8927042,2.6381902
+1051,"""44 Avenue de l'Impératrice, 77400 Pomponne, France""",48.8893631,2.6543146
+1052,"""36 Avenue de l'Impératrice, 77400 Pomponne, France""",48.889018,2.6574553
+1053,"""77400 Pomponne, France""",48.8844082,2.6895848
+1054,"""78240 Chambourcy, France""",48.906272,2.040137
+1055,"""Rue du Val Fleuri, 78112 Fourqueux, France""",48.88901320000000,2.0587455
+1056,"""107 Rue du 4 Septembre, 78112 Mareil-Marly, France""",48.8864763,2.0707592
+1057,"""21 Chemin du Buisson Guérin, 78750 Mareil-Marly, France""",48.88622000000000,2.0738711
+1058,"""1 Allée des Vergers, 78100 Saint-Germain-en-Laye, France""",48.8863177,2.0870814
+1059,"""25 Allée des Primevères, 78100 Saint-Germain-en-Laye, France""",48.8859463,2.0904678
+1060,"""6 Avenue du Président John Fitzgerald Kennedy, 78560 Le Port-Marly, France""",48.8861759,2.1026931
+1061,"""Les pyramides, 16 Avenue de Saint-Germain, 78560 Le Port-Marly, France""",48.8882962,2.1067678
+1062,"""33 Allée du Lac Inférieur, 78110 Le Vésinet, France""",48.8848531,2.1204807
+1063,"""57 Boulevard du Président Roosevelt, 78110 Le Vésinet, France""",48.8862319,2.1242007
+1064,"""27 Route de la Croix, 78110 Le Vésinet, France""",48.8857076,2.1371666
+1065,"""21 B Avenue Georges Clemenceau, 78110 Le Vésinet, France""",48.886382,2.1411915
+1066,"""3 Rue Georges Clemenceau, 78400 Chatou, France""",48.886297,2.154281
+1067,"""26 Avenue d'Epremesnil, 78400 Chatou, France""",48.8861858,2.1574158
+1068,"""113 Avenue Albert 1er, 92500 Rueil-Malmaison, France""",48.8862725,2.1707291
+1069,"""14 Avenue Alsace-Lorraine, 92500 Rueil-Malmaison, France""",48.8863281,2.1735016
+1070,"""41 Boulevard National, 92500 Rueil-Malmaison, France""",48.8865444,2.1874298
+1071,"""43 Rue du Bois, 92000 Nanterre, France""",48.8861346,2.1905595
+1072,"""5 Avenue Rachel, 92000 Nanterre, France""",48.8863879,2.2043234
+1073,"""8 Rue Philippe Triaire, 92000 Nanterre, France""",48.8860324,2.207019
+1074,"""11 Rue des Fontenelles, 92000 Nanterre, France""",48.8862633,2.220302
+1075,"""1 Rue de Watford, 92000 Nanterre, France""",48.8861985,2.2232788
+1076,"""69 Rue Sadi Carnot, 92800 Puteaux, France""",48.886374,2.23735
+1077,"""40 Rue Anatole France, 92800 Puteaux, France""",48.8858836,2.2399298
+1078,"""92200 Neuilly-sur-Seine, France""",48.8854993,2.2653713
+1079,"""2 Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, France""",48.8861787,2.2570914
+1080,"""155 Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, France""",48.8830611,2.2646867
+1081,"""21 Boulevard d'Inkermann, 92200 Neuilly-sur-Seine, France""",48.8860075,2.2739634
+1082,"""6 Avenue de la Porte de Champerret, 75017 Paris, France""",48.88626320000000,2.2874511
+1083,"""L'Yser et la Somme, 75017 Paris, France""",48.8857694,2.2900134
+1084,"""159 Avenue de Wagram, 75017 Paris, France""",48.8863555,2.3038611
+1085,"""1 Rue Cernuschi, 75017 Paris, France""",48.8861409,2.3068152
+1086,"""1 Rue Bridaine, 75017 Paris, France""",48.88615250000000,2.3207211
+1087,"""32 Rue Nollet, 75017 Paris, France""",48.8860957,2.3231864
+1088,"""13 Rue Ravignan, 75018 Paris, France""",48.8860244,2.337607
+1089,"""4 Place du Calvaire, 75018 Paris, France""",48.886391,2.3403443
+1090,"""11 Rue Saint-Luc, 75018 Paris, France""",48.8863394,2.3540768
+1091,"""16 Rue Stephenson, 75018 Paris, France""",48.8861692,2.3568471
+1092,"""27 Avenue de Flandre, 75019 Paris, France""",48.88611180000000,2.3704604
+1093,"""41 Quai de la Seine, 75019 Paris, France""",48.886297,2.3734365
+1094,"""12 Rue de Lunéville, 75019 Paris, France""",48.886316,2.38746
+1095,"""77 Rue Petit, 75019 Paris, France""",48.886222,2.390306
+1096,"""31 Rue André Joineau, 93310 Le Pré-Saint-Gervais, France""",48.8861511,2.4040126
+1097,"""37 Rue Gabriel Péri, 93310 Le Pré-Saint-Gervais, France""",48.88624130000000,2.4068233
+1098,"""Rue du Président Schuman, 93260 Les Lilas, France""",48.885925,2.421107
+1099,"""10 Av. du Président Robert Schuman, 93260 Les Lilas, France""",48.8864121,2.4218112
+1100,"""26 Rue Paul de Kock, 93230 Romainville, France""",48.8864299,2.4372611
+1101,"""73 Avenue de Stalingrad, 93230 Romainville, France""",48.8864362,2.4400597
+1102,"""14 Rue de la Renaissance Française, 93130 Noisy-le-Sec, France""",48.8867865,2.4535217
+1103,"""École Paul Langevin, 93130 Noisy-le-Sec, France""",48.885222,2.457933
+1104,"""268 Rue de Brément, 93110 Rosny-sous-Bois, France""",48.8862744,2.4714571
+1105,"""11 D116, 93110 Noisy-le-Sec, France""",48.8847353,2.4828636
+1106,"""118 Rue Denis Papin, 93250 Villemomble, France""",48.8870861,2.4871357
+1107,"""8 Mai 1945, 93250 Villemomble, France""",48.8860856,2.4917744
+1108,"""11 Rue la Fontaine, 93250 Villemomble, France""",48.8862269,2.5038348
+1109,"""26 Rue René et Pierre Charton, 93250 Villemomble, France""",48.8865091,2.5065776
+1110,"""30 Bis Avenue de la Station, 93250 Villemomble, France""",48.8858057,2.5223019
+1111,"""9 Allée des Tulipes, 93220 Gagny, France""",48.88658880000000,2.5232143
+1112,"""3 Allée Eugénie, 93220 Gagny, France""",48.8863938,2.5376883
+1113,"""23 Boulevard Saint-Dizier, 93220 Gagny, France""",48.8861919,2.5398867
+1114,"""51 Avenue des Pivoines, 93370 Montfermeil, France""",48.8857637,2.5545162
+1115,"""18 Avenue des Pivoines, 93370 Montfermeil, France""",48.8861688,2.5567507
+1116,"""101 Rue des Sources, 77500 Chelles, France""",48.8847675,2.5730748
+1117,"""95 Rue des Sources, 77500 Chelles, France""",48.884772,2.5736566
+1118,"""76 Rue Alexandre Bickart, 77500 Chelles, France""",48.8860302,2.5865917
+1119,"""18 Rue du Tir, 77500 Chelles, France""",48.8873044,2.5912206
+1120,"""2 Allée des Mésanges, 77500 Chelles, France""",48.88630090000000,2.6037948
+1121,"""D34, 77500 Chelles, France""",48.8927591,2.6098403
+1122,"""1 Rue des Castors, 77500 Chelles, France""",48.8859645,2.6204909
+1123,"""7 Allée de la Fontaine, 77500 Chelles, France""",48.8868204,2.6238475
+1124,"""77177 Brou-sur-Chantereine, France""",48.8927042,2.6381902
+1125,"""3 Allée des Dahlias, 77400 Pomponne, France""",48.8876322,2.6533696
+1126,"""8 Allée des Pétunias, 77400 Pomponne, France""",48.8871711,2.6562187
+1127,"""37 Rue de la Libération, 77400 Pomponne, France""",48.8866941,2.6668218
+1128,"""77400 Pomponne, France""",48.8844082,2.6895848
+1129,"""78860 Saint-Nom-la-Bretèche, France""",48.8674765,2.014831800000000
+1130,"""6 Avenue de la Forêt, 78620 L'Étang-la-Ville, France""",48.87072510000000,2.0548164
+1131,"""13 Résidence le Clos de l'Étoile, 78620 L'Étang-la-Ville, France""",48.8700295,2.0568622
+1132,"""6 Allée José Rolland, 78620 L'Étang-la-Ville, France""",48.8722944,2.0703847
+1133,"""13 Rue du Chancelier Séguier, 78620 L'Étang-la-Ville, France""",48.8722088,2.0743486
+1134,"""5 Résidence le Champ des Oiseaux, 78160 Marly-le-Roi, France""",48.8717341,2.0873188
+1135,"""32 Rue Jean Baptiste Broussin, 78160 Marly-le-Roi, France""",48.8724545,2.090595
+1136,"""102 Route de Versailles, 78160 Marly-le-Roi, France""",48.8715677,2.1042452
+1137,"""11 Chemin du Bois Martin, 78160 Marly-le-Roi, France""",48.8722869,2.1073323
+1138,"""4 Quai Conti, 78430 Louveciennes, France""",48.8732203,2.1214518
+1139,"""1 Quai Conti, 78380 Louveciennes, France""",48.8719355,2.1231661
+1140,"""2 Prom. Guy de Maupassant, 78290 Croissy, France""",48.87272540000000,2.1376213
+1141,"""19 Avenue Emile Augier, 78290 Croissy, France""",48.8721719,2.1398978
+1142,"""82 Bd de Belle Rive, 92500 Rueil-Malmaison, France""",48.8723576,2.152975
+1143,"""A86, 92500 Rueil-Malmaison, France""",48.87668910000000,2.1618012
+1144,"""11 Avenue du Château de la Malmaison, 92500 Rueil-Malmaison, France""",48.872082,2.1694417
+1145,"""2 Rue Charles Floquet, 92500 Rueil-Malmaison, France""",48.8728111,2.1740189
+1146,"""81 Rue Filliette Nicolas Philibert, 92500 Rueil-Malmaison, France""",48.8717311,2.1870943
+1147,"""26 Avenue du Président Georges Pompidou, 92500 Rueil-Malmaison, France""",48.8723889,2.1897273
+1148,"""4 Rue Jean Baillet, 92500 Rueil-Malmaison, France""",48.8718931,2.2045586
+1149,"""29 Rue Cuvier, 92500 Rueil-Malmaison, France""",48.8718473,2.2072466
+1150,"""2 Villa de la Station, 92150 Suresnes, France""",48.8720916,2.2206563
+1151,"""3 Rue de la Gauchère, 92150 Suresnes, France""",48.8723852,2.2236299
+1152,"""2 Allée de l'Écluse, 92800 Puteaux, France""",48.8717867,2.2387341
+1153,"""5 Allée de l'Écluse, 92800 Puteaux, France""",48.8725135,2.2401872
+1154,"""Allée de la Reine Marguerite, 75016 Paris, France""",48.8618014,2.2470172
+1155,"""75116 Paris, France""",48.8582383,2.2749434
+1156,"""Route des Lacs, 75116 Paris, France""",,
+1157,"""1 Route de la Porte Dauphine à la Porte des Sablons, 75116 Paris, France""",48.872089,2.2738606
+1158,"""48 Rue Paul Valéry, 75116 Paris, France""",48.8723247,2.2876402
+1159,"""17B Avenue Foch, 75116 Paris, France""",48.87257,2.2903783
+1160,"""8 Rue de Berri, 75008 Paris, France""",48.8722454,2.3039911
+1161,"""1 Rue Frédéric Bastiat, 75008 Paris, France""",48.872344,2.306936
+1162,"""27 Boulevard Malesherbes, 75008 Paris, France""",48.87239890000000,2.3208038
+1163,"""16 Rue Pasquier, 75008 Paris, France""",48.8722796,2.3234338
+1164,"""12 Rue Laffitte, 75009 Paris, France""",48.8722516,2.3374326
+1165,"""Richelieu - Drouot - Mairie du 9e, 75009 Paris, France""",48.8722194,2.3400906
+1166,"""54 Rue du Faubourg Saint-Denis, 75010 Paris, France""",48.8721982,2.3541866
+1167,"""71 Rue du Faubourg Saint-Martin, 75010 Paris, France""",48.8722456,2.3572437
+1168,"""15 Rue Arthur Groussier, 75010 Paris, France""",48.8721886,2.3709588
+1169,"""12 Rue du Buisson Saint-Louis, 75010 Paris, France""",48.872303,2.3735072
+1170,"""21 Rue des Envierges, 75020 Paris, France""",48.8722355,2.387339
+1171,"""74 Rue des Cascades, 75020 Paris, France""",48.8725775,2.3902263
+1172,"""55 Rue Haxo, 75020 Paris, France""",48.8723655,2.4040388
+1173,"""60 Rue Saint-Fargeau, 75020 Paris, France""",48.8722529,2.4067484
+1174,"""117-123 Rue Sadi Carnot, 93170 Bagnolet, France""",48.8719585,2.4212341
+1175,"""13 Rue du Moulin, 93170 Bagnolet, France""",48.8724696,2.4235141
+1176,"""Vert Bois, 93100 Montreuil, France""",48.8720179,2.4363158
+1177,"""77 Boulevard Edouard Branly, 93230 Romainville, France""",48.8723615,2.4401026
+1178,"""132 Boulevard Aristide Briand, 93100 Montreuil, France""",48.8725448,2.4536572
+1179,"""12 Rue Auguste Péron, 93100 Montreuil, France""",48.87223790000000,2.4568939
+1180,"""332 Boulevard de la Boissière, 93100 Montreuil, France""",48.8724102,2.47051
+1181,"""3 Rue Jean Allemane, 93110 Rosny-sous-Bois, France""",48.8721349,2.4732667
+1182,"""24 Rue Anatole France, 93110 Rosny-sous-Bois, France""",48.8723056,2.4874751
+1183,"""23 Rue Edouard Beaulieu, 93110 Rosny-sous-Bois, France""",48.8717264,2.4901705
+1184,"""10 Sentier de la Mare aux Loups, 93360 Neuilly-Plaisance, France""",48.87245190000000,2.5044848
+1185,"""Avenue de Rosny, 93360 Neuilly-Plaisance, France""",48.8715891,2.5100771
+1186,"""73 Avenue du N, 93360 Neuilly-Plaisance, France""",48.87207310000000,2.5207382
+1187,"""9 Chemin des Eaux, 93360 Neuilly-Plaisance, France""",48.8723702,2.5233125
+1188,"""95 Rue Gaston Navailles, 93330 Neuilly-sur-Marne, France""",48.8725014,2.5366797
+1189,"""4 Avenue de Bretagne, 93220 Gagny, France""",48.8722646,2.5401378
+1190,"""73 Rue Vaillant Couturier, 93220 Gagny, France""",48.87244280000000,2.5540269
+1191,"""19 Rue du Printemps, 93220 Gagny, France""",48.8721291,2.5568346
+1192,"""45 Avenue Martyrs de Chelles, 77500 Chelles, France""",48.87205000000000,2.570632
+1193,"""8 Rue des Primevères, 77500 Chelles, France""",48.8723611,2.5731773
+1194,"""26 Rue Auguste Meunier, 77500 Chelles, France""",48.8724225,2.5878366
+1195,"""17 Rue Auguste Meunier, 77500 Chelles, France""",48.8721677,2.5895123
+1196,"""3 Chemin du Corps de Garde, 77500 Chelles, France""",48.8716036,2.5951873
+1197,"""3 D34A, 77500 Chelles, France""",48.8889434,2.6089934
+1198,"""17 Rue du Triage, 77360 Vaires-sur-Marne, France""",48.8717224,2.624163
+1199,"""8 Rue Lucien Bourgeois, 77360 Vaires-sur-Marne, France""",48.8725144,2.6252407
+1200,"""15 Rue du Colonel Moll, 77360 Vaires-sur-Marne, France""",48.8719845,2.637496
+1201,"""33 Boulevard de Lorraine, 77360 Vaires-sur-Marne, France""",48.8723237,2.6405172
+1202,"""Unnamed Road, 77360 Vaires-sur-Marne, France""",48.86512250000000,2.6327978
+1203,"""Unnamed Road, 77400 Vaires-sur-Marne, France""",48.87360900000000,2.639543
+1204,"""9 Rue de la Marne, 77400 Saint-Thibault-des-Vignes, France""",48.87243730000000,2.6708097
+1205,"""7 Rue de la Marne, 77400 Saint-Thibault-des-Vignes, France""",48.8717212,2.6719416
+1206,"""D98, 78860 L'Étang-la-Ville, France""",48.8605883,2.031183
+1207,"""15 Avenue du Bignon, 78620 L'Étang-la-Ville, France""",48.86976,2.053681
+1208,"""84 Route de Saint-Nom, 78620 L'Étang-la-Ville, France""",48.8696032,2.0562287
+1209,"""11 Ruelle des Marais, 78620 L'Étang-la-Ville, France""",48.8691426,2.070950100000000
+1210,"""5 Rue Jean Mermoz, 78620 L'Étang-la-Ville, France""",48.8698726,2.0733224
+1211,"""11 bis Avenue Jean de la Fontaine, 78160 Marly-le-Roi, France""",48.86934490000000,2.0877778
+1212,"""4 Rue Thibault, 78160 Marly-le-Roi, France""",48.8692501,2.0902462
+1213,"""15 Chemin des Vauillons, 78160 Marly-le-Roi, France""",48.8699793,2.1046218
+1214,"""3 Chemin des Rougemonts, 78160 Marly-le-Roi, France""",48.8687953,2.1061197
+1215,"""15 Place Ernest Dreux, 78430 Louveciennes, France""",48.8686568,2.1191196
+1216,"""10 Quai Rennequin Sualem, 78380 Bougival, France""",48.87056890000000,2.125182
+1217,"""8 Chemin de Halage, 78380 Bougival, France""",48.86957720000000,2.1366797
+1218,"""170F Île de la Chaussée, 78380 Bougival, France""",48.8693255,2.1417027
+1219,"""350 Avenue Napoléon Bonaparte, 92500 Rueil-Malmaison, France""",48.8698049,2.1546347
+1220,"""La Jonchere, France""
+",46.439487,-1.374689
+1221,"""6 Avenue de Versailles, 92500 Rueil-Malmaison, France""",48.86862140000000,2.1710202
+1222,"""1 Avenue de Versailles, 92500 Rueil-Malmaison, France""",48.8691533,2.1729645
+1223,"""9 Allée du Cardinal, 92500 Rueil-Malmaison, France""",48.8698813,2.1875643
+1224,"""22 Résidence les Taratres, 92500 Rueil-Malmaison, France""",48.8694875,2.1905349
+1225,"""55 Rue Gallieni, 92500 Rueil-Malmaison, France""",48.86962580000000,2.2036055
+1226,"""36 Rue Lakanal, 92500 Rueil-Malmaison, France""",48.8692138,2.2067691
+1227,"""16 Rue Worth, 92150 Suresnes, France""",48.8692536,2.220748
+1228,"""28 Rue Merlin de Thionville, 92150 Suresnes, France""",48.8695884,2.2236136
+1229,"""D1, 75016 Paris, France""",48.8587015,2.2273871
+1230,"""La Muette, Paris, France""
+",48.8582482,2.2747904
+1231,"""43 Avenue du Maréchal Fayolle, 75116 Paris, France""",48.8682785,2.2712485
+1232,"""Université Paris-Dauphine, Université Paris-Dauphine, Place du Maréchal de Lattre de Tassigny, 75016 Paris, France""",48.869962,2.2734833
+1233,"""3 Villa Copernic, 75016 Paris, France""",48.8695003,2.2874255
+1234,"""63 Rue Lauriston, 75116 Paris, France""",48.869373,2.2901984
+1235,"""64 Rue Pierre Charron, 75008 Paris, France""",48.8696721,2.3039953
+1236,"""33 Av. des Champs-Élysées, 75008 Paris, France""",48.869542,2.3069918
+1237,"""4 Rue d'Anjou, 75008 Paris, France""",48.8694888,2.3207414
+1238,"""3 Place de la Madeleine, 75008 Paris, France""",48.8693357,2.3234217
+1239,"""12 Rue du 4 septembre, 75002 Paris, France""",48.86960440000000,2.3375175
+1240,"""2 Rue de la Bourse, 75002 Paris, France""",48.86948900000000,2.3401328
+1241,"""14 Boulevard St Denis, 75010 Paris, France""",48.8696305,2.3540815
+1242,"""1 Rue Bouchardon, 75010 Paris, France""",48.8695297,2.3567907
+1243,"""54 Rue du Faubourg du Temple, 75011 Paris, France""",48.8696812,2.3705225
+1244,"""165 Rue Saint-Maur, 75011 Paris, France""",48.8695992,2.3736132
+1245,"""23 Rue d'Eupatoria, 75020 Paris, France""",48.8691907,2.3877754
+1246,"""67 Rue de la Mare, 75020 Paris, France""",48.87242030000000,2.3896011
+1247,"""21 Rue du Groupe Manouchian, 75020 Paris, France""",48.8696905,2.4042698
+1248,"""14 Rue de la Justice, 75020 Paris, France""",48.8695355,2.407029
+1249,"""61 Rue Malmaison, 93170 Bagnolet, France""",48.8694476,2.4206364
+1250,"""12 Rue Pierre et Marie Curie, 93170 Bagnolet, France""",48.8695629,2.4239386
+1251,"""14/16 Rue du Midi, 93100 Montreuil, France""",48.8694849,2.4371792
+1252,"""58 Rue du Midi, 93100 Montreuil, France""",48.86941790000000,2.4396284
+1253,"""62 Rue de la Ferme, 93100 Montreuil, France""",48.8691118,2.4542188
+1254,"""Edouard Branly, 93100 Montreuil, France""",48.8725095,2.4617495
+1255,"""Saint Exupéry, 93100 Montreuil, France""",48.8691423,2.4694612
+1256,"""Allée du Maréchal-Moncey, 93110 Rosny-sous-Bois, France""",48.869931,2.472051
+1257,"""12 Rue Léon Gambetta, 93110 Rosny-sous-Bois, France""",48.8697889,2.4869601
+1258,"""55 Rue du Général Leclerc, 93110 Rosny-sous-Bois, France""",48.8691335,2.4907306
+1259,"""3 Rue du Bel air, 93360 Neuilly-Plaisance, France""",48.87013050000000,2.504663
+1260,"""Bel Air, 93360 Neuilly-Plaisance, France""",48.8696524,2.5052838
+1261,"""62/66 Rue Louis Ampère, 93330 Neuilly-sur-Marne, France""",48.8692052,2.5209893
+1262,"""41 Rue Louis Ampère, 93330 Neuilly-sur-Marne, France""",48.8695945,2.5233067
+1263,"""10 Avenue Léon Blum, 93330 Neuilly-sur-Marne, France""",48.8693019,2.5375813
+1264,"""124 Rue Hippolyte Pina, 93220 Gagny, France""",48.8699299,2.5394369
+1265,"""22 Avenue Pascal, 93330 Neuilly-sur-Marne, France""",48.8700882,2.5544265
+1266,"""4 Rue de la Pointe, 93220 Gagny, France""",48.8695929,2.5571242
+1267,"""30 Rue de Champagne, 77500 Chelles, France""",48.8694826,2.571078
+1268,"""1 Rue d'Alger, 77500 Chelles, France""",48.8693216,2.5735612
+1269,"""94 Avenue du Général de Gaulle, 77500 Chelles, France""",48.8697658,2.5873815
+1270,"""18 D34A, 77500 Chelles, France""",48.8701023,2.5878466
+1271,"""5 Rue Eugène Freyssinet, 77500 Chelles, France""",48.86950480000000,2.6043517
+1272,"""12 Rue Eugène Freyssinet, 77500 Chelles, France""",48.8697244,2.6065393
+1273,"""131 Chemin du Corps de Garde, 77500 Chelles, France""",48.86959240000000,2.6217968
+1274,"""69 Rue Louis Bectard, 77360 Vaires-sur-Marne, France""",48.86915950000000,2.6375381
+1275,"""40 Rue Louis Bectard, 77360 Vaires-sur-Marne, France""",48.8697726,2.6402355
+1276,"""Unnamed Road, 77200 Torcy, France""",48.8545563,2.6544406
+1277,"""77200 Torcy, France""",48.8545563,2.6544406
+1278,"""1 Rue de la Clef Saint-Pierre, 77400 Saint-Thibault-des-Vignes, France""",48.86941730000000,2.6723655
+1279,"""3 Rue de la Clef Saint-Pierre, 77400 Saint-Thibault-des-Vignes, France""",48.869443,2.6734692
+1280,"""Chemin de la Porte de la Tuilerie, 78860 Saint-Nom-la-Bretèche, France""",48.8536575,2.0416814
+1281,"""6 Avenue Georges Bizet, 78590 Noisy-le-Roi, France""",48.8553598,2.0544418
+1282,"""3 Allée Jules Massenet, 78590 Noisy-le-Roi, France""",48.854912,2.0549604
+1283,"""78620 L'Étang-la-Ville, France""",48.86669,2.0594587
+1284,"""78160 Marly-le-Roi, France""",48.8660884,2.0929546
+1285,"""Chemin des 2 Portes, 78430 Louveciennes, France""",48.855399,2.099865
+1286,"""N186, 78430 Marly-le-Roi, France""",48.8597256,2.1074392
+1287,"""Chemin des Champs Louis, 78430 Louveciennes, France""",48.855332,2.1189079
+1288,"""4 Chemin des Grands Prés, 78430 Louveciennes, France""",48.8554852,2.1253105
+1289,"""6 Allée des Rigoles, 78170 La Celle-Saint-Cloud, France""",48.8552657,2.1369524
+1290,"""2 Avenue Camille Normand, 78170 La Celle-Saint-Cloud, France""",48.855788,2.1406437
+1291,"""2 Les Passereaux, 78170 La Celle-Saint-Cloud, France""",48.8546421,2.152351
+1292,"""Malmaison Forest, 1 Route de Longboyau, 92500 Rueil-Malmaison, France""",,
+1293,"""Route de la Côte Grise, 92500 Rueil-Malmaison, France""",48.8543779,2.171664
+1294,"""5 Rue du Chemin Vert, 92500 Rueil-Malmaison, France""",48.85600610000000,2.1874977
+1295,"""22 Rue du Général Colonieu, 92500 Rueil-Malmaison, France""",48.8554275,2.1904843
+1296,"""Hippodrome de, 92210 Saint-Cloud, France""",48.8579663,2.2103796
+1297,"""Allée de l'Entraînement, 92210 Saint-Cloud, France""",48.8600052,2.2061174
+1298,"""61 Boulevard Senard, 92210 Saint-Cloud, France""",48.8559213,2.220525
+1299,"""Avenue de Longchamp, 92210 Saint-Cloud, France""",48.856789,2.220165
+1300,"""2 Route des Tribunes, 75016 Paris, France""",48.861596,2.2306937
+1301,"""Auteuil, Paris, France""
+",48.8490552,2.2663003
+1302,"""33 Avenue Mozart, 75016 Paris, France""",48.85571000000000,2.2708185
+1303,"""9 Rue Robert le Coin, 75016 Paris, France""",48.8555001,2.2735782
+1304,"""La Muette, Paris, France""
+",48.8582482,2.2747904
+1305,"""101 Quai Branly, 75015 Paris, France""",48.85569,2.2902982
+1306,"""101 Avenue de la Bourdonnais, 75007 Paris, France""",48.8554877,2.3039105
+1307,"""56 Rue Cler, 75007 Paris, France""",48.8558062,2.3067451
+1308,"""49 Rue de Bellechasse, 75007 Paris, France""",48.855587,2.3207452
+1309,"""77 Rue de Grenelle, 75007 Paris, France""",48.8556634,2.3232823
+1310,"""40 Rue Mazarine, 75006 Paris, France""",48.8555056,2.3374665
+1311,"""13 Rue Dauphine, 75006 Paris, France""",48.8556061,2.3401636
+1312,"""13 Rue des Barres, 75004 Paris, France""",48.85561330000000,2.3544587
+1313,"""36 Rue François Miron, 75004 Paris, France""",48.85566070000000,2.3567709
+1314,"""20 Boulevard Richard-Lenoir, 75011 Paris, France""",48.8556053,2.3708057
+1315,"""43 Rue de la Roquette, 75011 Paris, France""",48.8554437,2.3740882
+1316,"""6 rue Rue Emile Lepeu, 75011 Paris, France""",48.85554340000000,2.3872344
+1317,"""154 Rue de Charonne, 75011 Paris, France""",48.8555276,2.3902913
+1318,"""99 Rue des Haies, 75020 Paris, France""",48.8556011,2.4040003
+1319,"""82 Rue des Orteaux, 75020 Paris, France""",48.8558963,2.4070409
+1320,"""218bis Rue de Paris, 93100 Montreuil, France""",48.8553874,2.4204324
+1321,"""165 Rue de Paris, 93100 Montreuil, France""",48.8556772,2.4234918
+1322,"""31 Rue de Vincennes, 93100 Montreuil, France""",48.8553681,2.4372556
+1323,"""6 Rue Colmet Lépinay, 93100 Montreuil, France""",48.85556700000000,2.4399872
+1324,"""27 Villa des 4 Ruelles, 94120 Fontenay-sous-Bois, France""",48.85535120000000,2.4539116
+1325,"""132 Avenue Parmentier, 94120 Fontenay-sous-Bois, France""",48.8555838,2.4571738
+1326,"""43 Avenue Victor Hugo, 94120 Fontenay-sous-Bois, France""",48.8555996,2.4708114
+1327,"""2 Rue Lamartine, 94120 Fontenay-sous-Bois, France""",48.8553922,2.4735335
+1328,"""2 Avenue Pablo Picasso, 94120 Fontenay-sous-Bois, France""",48.855875,2.4867512
+1329,"""33 Avenue du Maréchal - de - Lattre - de - Tassigny, 94120 Fontenay-sous-Bois, France""",48.8573976,2.4898694
+1330,"""102 Avenue Lamartine, 94170 Le Perreux-sur-Marne, France""",48.8557226,2.50418
+1331,"""60 Avenue du Président Roosevelt, 93360 Neuilly-Plaisance, France""",48.8557816,2.5065702
+1332,"""8 Boulevard Aristide Briand, 93330 Neuilly-sur-Marne, France""",48.85580790000000,2.5203633
+1333,"""7 Villa Marguerite, 93330 Neuilly-sur-Marne, France""",48.8555642,2.5229727
+1334,"""3 Rue du Port, 93330 Neuilly-sur-Marne, France""",48.8554304,2.5382025
+1335,"""41 Rue Pierre Brossolette, 93330 Neuilly-sur-Marne, France""",48.8565611,2.5397563
+1336,"""Quai de la Marne, 93160 Noisy-le-Grand, France""",48.853645,2.557711
+1337,"""77 Quai de la Marne, 93160 Noisy-le-Grand, France""",48.8535604,2.5573998
+1338,"""4 Allée de la Rocaille, 93160 Noisy-le-Grand, France""",48.85541810000000,2.5712609
+1339,"""78 Boulevard de Noisy le Grand, 93460 Gournay-sur-Marne, France""",48.8553176,2.5736995
+1340,"""31 Rue des Lucioles, 77420 Champs-sur-Marne, France""",48.8561888,2.5872637
+1341,"""2 Place Mattéoti, 77420 Champs-sur-Marne, France""",48.8559912,2.5899979
+1342,"""Unnamed Road, 77420 Champs-sur-Marne, France""",48.84579,2.5971003
+1343,"""5 Boulevard Pierre Carle, 77186 Noisiel, France""",48.856223,2.6210574
+1344,"""1 Square Jacques Menier, 77186 Noisiel, France""",48.8556472,2.6240848
+1345,"""11 Rue de la Fosse aux Loups, 77200 Torcy, France""",48.8552389,2.6375135
+1346,"""30 Rue de la Fosse aux Loups, 77200 Torcy, France""",48.855427,2.6405082
+1347,"""15 Allée Jean de la Croix, 77200 Torcy, France""",48.85593730000000,2.6538295
+1348,"""6 Allée de la Frambourg, 77200 Torcy, France""",48.8556641,2.6567321
+1349,"""15 Passage Michel Ange, 77400 Saint-Thibault-des-Vignes, France""",48.8556547,2.670789
+1350,"""15 Allée des Frères Lumière, 77400 Saint-Thibault-des-Vignes, France""",48.855846,2.6730155
+1351,"""6 Chemin du Golf, 78860 Saint-Nom-la-Bretèche, France""",48.8524951,2.0396152
+1352,"""7 Place de la Forêt de Cruyé, 78590 Noisy-le-Roi, France""",48.8525395,2.0534797
+1353,"""19 Avenue de la Petite Sologne, 78590 Noisy-le-Roi, France""",48.8529434,2.0573049
+1354,"""78870 Bailly, France""",48.84058840000000,2.0786934
+1355,"""78160 Marly-le-Roi, France""",48.8660884,2.0929546
+1356,"""28 Route de Versailles, 78430 Louveciennes, France""",48.8534792,2.1073669
+1357,"""jardins familiaux, Chemin des Gressets, 78430 Louveciennes, France""",48.85191530000000,2.1174924
+1358,"""78380, France""",48.8627049,2.1402552
+1359,"""138 Avenue Jean Moulin, 78170 La Celle-Saint-Cloud, France""",48.8520718,2.1364046
+1360,"""4 Avenue Pescatore, 78170 La Celle-Saint-Cloud, France""",48.8526253,2.14243
+1361,"""3 Les Piverts, 78170 La Celle-Saint-Cloud, France""",48.8530919,2.1543137
+1362,"""6 Les Pluviers, 78170 La Celle-Saint-Cloud, France""",48.8517885,2.1554551
+1363,"""Route Forestière de l'Étang, 92500 Rueil-Malmaison, France""",48.855244,2.165177
+1364,"""Malmaison Forest, 1 Route de Longboyau, 92500 Rueil-Malmaison, France""",,
+1365,"""95 Rue du 19 Janvier, 92380 Garches, France""",48.851496,2.1884175
+1366,"""60 Rue du 19 Janvier, 92380 Garches, France""",48.8504842,2.1851439
+1367,"""129 Rue de Buzenval, 92380 Garches, France""",48.8524485,2.202599
+1368,"""1 Rue du Camp Canadien, 92210 Saint-Cloud, France""",48.8577933,2.2029015
+1369,"""53 Boulevard Senard, 92210 Saint-Cloud, France""",48.8528505,2.2206451
+1370,"""5-3 Avenue de l'Aqueduc, 92210 Saint-Cloud, France""",48.8527567,2.2223441
+1371,"""Auteuil, Paris, France""
+",48.8490552,2.2663003
+1372,"""Hippodrome d, 1 Route d'Auteuil aux Lacs, 75016 Paris, France""",48.8524038,2.2547128
+1373,"""1 Route d'Auteuil aux Lacs, 75016 Paris, France""",48.8524038,2.2547128
+1374,"""25 Avenue Léopold II, 75016 Paris, France""",48.8526185,2.2710314
+1375,"""12 Avenue du Recteur Poincaré, 75016 Paris, France""",48.8524909,2.2731425
+1376,"""18 Rue Nélaton, 75015 Paris, France""",48.8529979,2.287383
+1377,"""26 Boulevard de Grenelle, 75015 Paris, France""",48.8528144,2.290083
+1378,"""13 Place Joffre, 75007 Paris, France""",48.8526134,2.3033938
+1379,"""11 Avenue Duquesne, 75007 Paris, France""",48.8534322,2.3077916
+1380,"""19 Rue Vaneau, 75007 Paris, France""",48.8532936,2.3197071
+1381,"""112 Rue du Bac, 75007 Paris, France""",48.85294930000000,2.3236144
+1382,"""144 Boulevard Saint-Germain, 75006 Paris, France""",48.8529365,2.3373745
+1383,"""16 Rue du Jardinet, 75006 Paris, France""",48.852718,2.340319
+1384,"""79 Rue Saint-Louis en l'Île, 75004 Paris, France""",48.85267230000000,2.3538465
+1385,"""3 Pont Marie, 75004 Paris, France""",48.8527908,2.357178
+1386,"""Bastille - Faubourg Saint-Antoine, 75012 Paris, France""",48.851802,2.3786424
+1387,"""5 Rue de Charonne, 75011 Paris, France""",48.852456,2.3740324
+1388,"""44 Rue Chanzy, 75011 Paris, France""",48.8528773,2.3871956
+1389,"""12 Rue Alexandre Dumas, 75011 Paris, France""",48.8529743,2.3900849
+1390,"""8 Rue de la Réunion, 75020 Paris, France""",48.8528684,2.4038304
+1391,"""105 Rue d'Avron, 75020 Paris, France""",48.85301400000000,2.4068107
+1392,"""45 Rue de la République, 93100 Montreuil, France""",48.8528656,2.4207701
+1393,"""54B Rue Robespierre, 93100 Montreuil, France""",48.8528524,2.4236005
+1394,"""90 Rue de la Fédération, 93100 Montreuil, France""",48.8532028,2.437509
+1395,"""46 Rue Crébillon, 94300 Vincennes, France""",48.85272580000000,2.4399163
+1396,"""37 Rue d'Estienne d'Orves, 94120 Fontenay-sous-Bois, France""",48.8529054,2.4541486
+1397,"""73 Avenue de la République, 94120 Fontenay-sous-Bois, France""",48.8527693,2.4568981
+1398,"""33 Boulevard de Verdun, 94120 Fontenay-sous-Bois, France""",48.8528649,2.4708594
+1399,"""1 Rue Michelet, 94120 Fontenay-sous-Bois, France""",48.8520204,2.473108
+1400,"""Val de Fontenay, 94120 Fontenay-sous-Bois, France""",48.85448540000000,2.4890095
+1401,"""11 Avenue Louison Bobet, 94120 Fontenay-sous-Bois, France""",48.8523427,2.4906056
+1402,"""39 Rue Pasteur, 94170 Le Perreux-sur-Marne, France""",48.8529879,2.5039755
+1403,"""46 Rue de Verdun, 94170 Le Perreux-sur-Marne, France""",48.8529558,2.5066042
+1404,"""7 Rue Louis Blériot, 93330 Neuilly-sur-Marne, France""",48.8529226,2.5208923
+1405,"""9 Avenue Perche, 93330 Neuilly-sur-Marne, France""",48.8538255,2.5229327
+1406,"""Quai des Deux Ponts, 93160 Noisy-le-Grand, France""",48.8528471,2.53053
+1407,"""21 Quai de la Rive Charmante, 93160 Noisy-le-Grand, France""",48.8524943,2.5408965
+1408,"""Allée de la Marne, 93160 Noisy-le-Grand, France""",48.851142,2.555399
+1409,"""3 Allée de la Grotte, 93160 Noisy-le-Grand, France""",48.8523668,2.5560725
+1410,"""12 Allée du Val Fleuri, 93160 Noisy-le-Grand, France""",48.8534154,2.5712101
+1411,"""100 Route de Gournay, 93160 Noisy-le-Grand, France""",48.8529819,2.5737649
+1412,"""7 Allée de Giseh, 77420 Champs-sur-Marne, France""",48.852808,2.5867318
+1413,"""3 Rue des Marguerites, 77420 Champs-sur-Marne, France""",48.8521861,2.5907564
+1414,"""29 Rue de Paris, 77420 Champs-sur-Marne, France""",48.8523967,2.6035967
+1415,"""42 Rue de Paris, 77420 Champs-sur-Marne, France""",48.8522926,2.6070101
+1416,"""63 Avenue Louis Pasteur, 77186 Noisiel, France""",48.8526624,2.6215225
+1417,"""11 Place Jules Verne, 77186 Noisiel, France""",48.8527035,2.6227456
+1418,"""10 Rue du Perrier, 77200 Torcy, France""",48.85296,2.6379154
+1419,"""1 Rue du Perrier, 77200 Torcy, France""",48.8522942,2.6400863
+1420,"""35B Rue Vignette, 77200 Torcy, France""",48.8527482,2.6542384
+1421,"""7 Allée du Grand Breuil, 77200 Torcy, France""",48.8529117,2.6569026
+1422,"""52 Rue du Clos de l'Érable, 77400 Saint-Thibault-des-Vignes, France""",48.8527832,2.670784
+1423,"""37 Rue du Clos de l'Érable, 77400 Saint-Thibault-des-Vignes, France""",48.8527684,2.6731257
+1424,"""78590 Rennemoulin, France""",48.834453,2.042745
+1425,"""24 Rue de Rennemoulin, 78590 Noisy-le-Roi, France""",48.8412588,2.0513271
+1426,"""Chemin Parallèle, 78590 Noisy-le-Roi, France""",48.8403763,2.0588745
+1427,"""2 Rue Jean Racine, 78590 Noisy-le-Roi, France""",48.8388071,2.0700094
+1428,"""13 Rue du Cèdre, 78870 Bailly, France""",48.8392535,2.0734654
+1429,"""6 D307B3, 78870 Bailly, France""",48.8386444,2.0869679
+1430,"""78870 Bailly, France""",48.84058840000000,2.0786934
+1431,"""Chemin de Bailly À Rocquencourt, 78870 Rocquencourt, France""",48.83854400000000,2.099451
+1432,"""12 Rue de la Sabretache, 78150 Rocquencourt, France""",48.8379458,2.1073366
+1433,"""17 Domaine du Petit Beauregard, 78170 La Celle-Saint-Cloud, France""",48.8380014,2.1214885
+1434,"""2 Allée du Pré Bijou, 78170 La Celle-Saint-Cloud, France""",48.8396182,2.1235888
+1435,"""48bis Avenue des Gressets, 78170 La Celle-Saint-Cloud, France""",48.8389491,2.1378598
+1436,"""30 Allée de la Forêt, 78170 La Celle-Saint-Cloud, France""",48.8383628,2.1396527
+1437,"""18 Av. Jean Salmon-Legagneur, 92420 Vaucresson, France""",48.8388648,2.1545166
+1438,"""27 Grande Rue, 92420 Vaucresson, France""",48.8390443,2.1566297
+1439,"""104 Boulevard Raymond Poincaré, 92380 Garches, France""",48.8385988,2.1706744
+1440,"""102 Boulevard Raymond Poincaré, 92380 Garches, France""",48.83886100000000,2.1725502
+1441,"""156 Boulevard du Général de Gaulle, 92380 Garches, France""",48.8390084,2.1873547
+1442,"""118 Boulevard du Général de Gaulle, 92380 Garches, France""",48.8397173,2.1899809
+1443,"""D985, 92210 Saint-Cloud, France""",48.8437056,2.2069017
+1444,"""A13, 92210 Saint-Cloud, France""",48.8398427,2.2081915
+1445,"""D7, 92210 Saint-Cloud, France""",48.84420920000000,2.223434
+1446,"""50 Quai Alphonse le Gallo, 92100 Boulogne-Billancourt, France""",48.8392548,2.2243103
+1447,"""100 Rue d'Aguesseau, 92100 Boulogne-Billancourt, France""",48.8389017,2.2374139
+1448,"""13 Rue de la Saussière, 92100 Boulogne-Billancourt, France""",48.8389774,2.2401016
+1449,"""2 Avenue de la Porte de Saint-Cloud, 75016 Paris, France""",48.8389397,2.2537445
+1450,"""109 Boulevards des Maréchaux, 75016 Paris, France""",48.8388479,2.2570043
+1451,"""3 Boulevard du Général Martial Valin, 75015 Paris, France""",48.8388602,2.2707019
+1452,"""20 Rue Leblanc, 75015 Paris, France""",48.8387325,2.2741008
+1453,"""40 Rue Duranton, 75015 Paris, France""",48.8390952,2.2876404
+1454,"""262 Rue Lecourbe, 75015 Paris, France""",48.8390447,2.2902904
+1455,"""26 Rue Sainte-Félicite, 75015 Paris, France""",48.8389692,2.3040165
+1456,"""15 Rue de la Procession, 75015 Paris, France""",48.838898,2.30668
+1457,"""11 Rue du Commandant René Mouchotte, 75014 Paris, France""",48.83908600000000,2.3208637
+1458,"""33 Rue de la Gaité, 75014 Paris, France""",48.8392598,2.323342
+1459,"""Observatoire - Port Royal, 75014 Paris, France""",48.8392205,2.3368337
+1460,"""82 Boulevard de Port-Royal, 75005 Paris, France""",48.8390304,2.340254
+1461,"""17 Rue du Fer À Moulin, 75005 Paris, France""",48.8390844,2.3543295
+1462,"""6 Rue Geoffroy-Saint-Hilaire, 75005 Paris, France""",48.8389544,2.3569964
+1463,"""1 Rue Paul Klee, 75013 Paris, France""",48.83881180000000,2.3711233
+1464,"""2 Quai d'Austerlitz, 75013 Paris, France""",48.83839,2.373111
+1465,"""Dugommier, 75012 Paris, France""",48.8399171,2.3915009
+1466,"""6 Boulevard de Reuilly, 75012 Paris, France""",48.8387781,2.390081
+1467,"""103 Avenue du Général Michel Bizot, 75012 Paris, France""",48.839157,2.4039871
+1468,"""24 Rue Rottembourg, 75012 Paris, France""",48.8384787,2.4071687
+1469,"""74 Chaussée de l'Étang, 94160 Saint-Mandé, France""",48.83896320000000,2.4209087
+1470,"""1 Route Lemoine, 75012 Paris, France""",48.8396835,2.4226528
+1471,"""Route de la Pyramide, 75012 Paris, France""",,
+1472,"""Unnamed Road, 75012 Paris, France""",48.8293647,2.4265406
+1473,"""Route des Dames, 75012 Paris, France""",48.8393889,2.4536915
+1474,"""Route Circulaire, 75012 Paris, France""",48.83815480000000,2.4605493
+1475,"""38 Boulevard Gambetta, 94130 Nogent-sur-Marne, France""",48.838871,2.4713731
+1476,"""36 Rue de Fontenay, 94130 Nogent-sur-Marne, France""",48.8389815,2.4732798
+1477,"""9 Impasse Cabit, 94130 Nogent-sur-Marne, France""",48.8392039,2.4869288
+1478,"""82 Rue des Héros Nogentais, 94130 Nogent-sur-Marne, France""",48.8390494,2.4898667
+1479,"""5 Bis Impasse des Acacias, 94170 Le Perreux-sur-Marne, France""",48.8388326,2.5041535
+1480,"""40 Rue des Arts, 94170 Le Perreux-sur-Marne, France""",48.8391939,2.5071398
+1481,"""7 Rue du Sergent Hoff, 94360 Bry-sur-Marne, France""",48.8389601,2.5210053
+1482,"""2 Rue Henri Cahn, 94360 Bry-sur-Marne, France""",48.8390288,2.5237073
+1483,"""10 Rue Léon Menu, 94360 Bry-sur-Marne, France""",48.8426656,2.532729
+1484,"""2 Boulevard Georges Méliès, 94360 Bry-sur-Marne, France""",48.8392503,2.5399638
+1485,"""7 Mail Victor Jara, 93160 Noisy-le-Grand, France""",48.8389618,2.5538479
+1486,"""5 Allée Elsa Triolet, 93160 Noisy-le-Grand, France""",48.8389473,2.5568365
+1487,"""59 Rue de la Forêt, 93160 Noisy-le-Grand, France""",48.8388143,2.5705049
+1488,"""1 Allée Charles Perrault, 93160 Noisy-le-Grand, France""",48.8389927,2.5735038
+1489,"""Bâtiment Copernic, 5 Boulevard Descartes, 77420 Champs-sur-Marne, France""",48.839249,2.5871491
+1490,"""Bâtiment Clément Ader, 77420 Champs-sur-Marne, France""",48.8384406,2.5907587
+1491,"""10 Allée Henri Matisse, 77420 Champs-sur-Marne, France""",48.8392772,2.6043414
+1492,"""6 Allée Marc Chagall, 77420 Champs-sur-Marne, France""",48.8387313,2.6064039
+1493,"""5 Rue du Bois de la Grange, 77185 Lognes, France""",48.8387194,2.6205332
+1494,"""5 Hameau de l'Aubépine, 77185 Lognes, France""",48.8389594,2.6237466
+1495,"""4 Villa Garnier, 77185 Lognes, France""",48.8387566,2.637777100000000
+1496,"""10 BIS Mail le Corbusier, 77185 Lognes, France""",48.8392582,2.6392851
+1497,"""9 Rue Pierre Mendès France, 77200 Torcy, France""",48.8387517,2.6543087
+1498,"""3 Avenue Jean Moulin, 77200 Torcy, France""",48.8387333,2.6575307
+1499,"""10 Impasse du Village, 77090 Collégien, France""",48.8386636,2.6707807
+1500,"""5 Allée du Parc, 77090 Collégien, France""",48.83925200000000,2.6739568
+1501,"""17 Chemin de Chaponval, 78590 Rennemoulin, France""",48.8356906,2.0425377
+1502,"""27 Rue de Rennemoulin, 78590 Noisy-le-Roi, France""",48.8407851,2.0541962
+1503,"""78590 Noisy-le-Roi, France""",48.843815,2.064579
+1504,"""23 Clos du Moustier, 78870 Bailly, France""",48.83626870000000,2.0707076
+1505,"""10 Route de Fontenay, 78870 Bailly, France""",48.836398,2.0735543
+1506,"""18 Route de Saint-Cyr, 78870 Bailly, France""",48.835882,2.0834896
+1507,"""64 D307, 78870 Bailly, France""",48.8372175,2.0922447
+1508,"""D307, 78150 Rocquencourt, France""",48.8362563,2.1174352
+1509,"""15 Résidence la Bergerie, 78150 Rocquencourt, France""",48.8369562,2.1066301
+1510,"""113 Route de Mantes, 78150 Le Chesnay, France""",48.8359049,2.1206316
+1511,"""4 Domaine du Petit Beauregard, 78170 La Celle-Saint-Cloud, France""",48.8359331,2.1225024
+1512,"""20 Avenue de Verdun, 78170 La Celle-Saint-Cloud, France""",48.8360858,2.1374115
+1513,"""4 Avenue de Verdun, 78170 La Celle-Saint-Cloud, France""",48.8363548,2.1399387
+1514,"""8 Rue Allouard, 92420 Vaucresson, France""",48.83646360000000,2.1541987
+1515,"""18 Avenue Etienne de Montgolfier, 92430 Marnes-la-Coquette, France""",48.8355834,2.1571054
+1516,"""9 Rue Yves Cariou, 92430 Marnes-la-Coquette, France""",48.8368098,2.1694576
+1517,"""A13, 92430 Marnes-la-Coquette, France""",48.834466,2.1704686
+1518,"""92210 Saint-Cloud, France""",48.84764700000000,2.208115
+1519,"""Grande Allée de Marnes, 92210 Saint-Cloud, France""",48.8364447,2.1970873
+1520,"""Parc de Saint-Cloud, Avenue de la Grille d'Honneur, 92210 Saint-Cloud, France""",48.8377327,2.2167187
+1521,"""92210 Saint-Cloud, France""",48.84764700000000,2.208115
+1522,"""Parc de Saint-Cloud, Avenue de la Grille d'Honneur, 92210 Saint-Cloud, France""",48.8377327,2.2167187
+1523,"""42 D1, 92100 Boulogne-Billancourt, France""",48.8335054,2.2270289
+1524,"""147b Rue Gallieni, 92100 Boulogne-Billancourt, France""",48.836178,2.2372671
+1525,"""1 Rue Jules Henripre, 92100 Boulogne-Billancourt, France""",48.836255,2.2404517
+1526,"""15 Avenue Ferdinand Buisson, 75016 Paris, France""",48.83599540000000,2.2540744
+1527,"""20 Avenue Dode de la Brunerie, 75016 Paris, France""",48.8364341,2.2570031
+1528,"""2 Boulevard du Général Martial Valin, 75015 Paris, France""",48.8368742,2.2694161
+1529,"""60 Boulevard du Général Martial Valin, 75015 Paris, France""",48.8358149,2.2756891
+1530,"""56 Rue Desnouettes, 75015 Paris, France""",48.8364087,2.2874367
+1531,"""34 Rue Desnouettes, 75015 Paris, France""",48.8360575,2.2902791
+1532,"""10 Rue Thiboumery, 75015 Paris, France""",48.83615960000000,2.3041993
+1533,"""74 Rue d'Alleray, 75015 Paris, France""",48.8362718,2.306957
+1534,"""33 Rue de l'Ouest, 75014 Paris, France""",48.8366087,2.3206522
+1535,"""Losserand - Maine, 75014 Paris, France""",48.83580510000000,2.3237627
+1536,"""37 Rue du Faubourg Saint-Jacques, 75014 Paris, France""",48.8359673,2.3379197
+1537,"""9 Rue Nicolas Roret, 75013 Paris, France""",48.836002,2.3540322
+1538,"""11 Rue Pirandello, 75013 Paris, France""",48.83640220000000,2.3562497
+1539,"""41 Boulevard Vincent Auriol, 75013 Paris, France""",48.8356779,2.3705938
+1540,"""13 Rue George Balanchine, 75013 Paris, France""",48.836128,2.3736399
+1541,"""14 Place Lachambeaudie, 75012 Paris, France""",48.8361525,2.3874463
+1542,"""30 Rue Coriolis, 75012 Paris, France""",48.8364965,2.3906899
+1543,"""264 Avenue Daumesnil, 75012 Paris, France""",48.8361647,2.4040507
+1544,"""11 Boulevard Soult, 75012 Paris, France""",48.8363172,2.4071172
+1545,"""71 Rue Jeanne d'Arc, 94160 Saint-Mandé, France""",48.8361864,2.4209046
+1546,"""Route Brûlée, 75012 Paris, France""",48.8354611,2.4270113
+1547,"""Bel-Air, 75012 Paris, France""",48.8418326,2.4053177
+1548,"""Unnamed Road, 75012 Paris, France""",48.8293647,2.4265406
+1549,"""Champ de Manoeuvre - Tremblay, 75012 Paris, France""",48.835443,2.453305
+1550,"""Bel-Air, 75012 Paris, France""",48.8418326,2.4053177
+1551,"""2 Avenue de la Source, 94130 Nogent-sur-Marne, France""",48.8359817,2.4705363
+1552,"""4 Rue de Fontenay, 94130 Nogent-sur-Marne, France""",48.836189,2.4736974
+1553,"""27B Rue Charles VII, 94130 Nogent-sur-Marne, France""",48.8362662,2.4875002
+1554,"""15 Rue Jacques Kable, 94130 Nogent-sur-Marne, France""",48.835843,2.4899249
+1555,"""14 Allée de l'Alma, 94170 Le Perreux-sur-Marne, France""",48.83648180000000,2.5039171
+1556,"""16B Avenue Georges Clemenceau, 94170 Le Perreux-sur-Marne, France""",48.836233,2.5074532
+1557,"""8 Grande Rue Charles de Gaulle, 94360 Bry-sur-Marne, France""",48.8362077,2.5205937
+1558,"""6 Rue Franchetti, 94360 Bry-sur-Marne, France""",48.83622390000000,2.5228131
+1559,"""3 Boulevard Georges Méliès, 94350 Villiers-sur-Marne, France""",48.8364844,2.537356
+1560,"""3 Boulevard Jean Monnet, 94350 Villiers-sur-Marne, France""",48.8349883,2.5417075
+1561,"""19 Bis Rue de l'Université, 93160 Noisy-le-Grand, France""",48.8371445,2.5528922
+1562,"""E50, 93160 Noisy-le-Grand, France""",48.8364755,2.5508463
+1563,"""37 Allée du Closeau, 93160 Noisy-le-Grand, France""",48.83624530000000,2.570206
+1564,"""21 Allée du Closeau, 93160 Noisy-le-Grand, France""",48.8362753,2.5730858
+1565,"""7 Rue Albert Einstein, 77420 Champs-sur-Marne, France""",48.8366187,2.5869534
+1566,"""6 Allée Kepler, 77420 Champs-sur-Marne, France""",48.8362276,2.5907764
+1567,"""1 Allée Georges Braque, 77420 Champs-sur-Marne, France""",48.83875890000000,2.6044173
+1568,"""2 Allée Marc Chagall, 77420 Champs-sur-Marne, France""",48.838475,2.6065193
+1569,"""6 Hameau des Cèdres, 77185 Lognes, France""",48.83616870000000,2.6217471
+1570,"""1 Villa de l'Orée, 77185 Lognes, France""",48.8365847,2.6225019
+1571,"""13 Rue de l'Aiguillon, 77185 Lognes, France""",48.8360875,2.6374115
+1572,"""68 Cours des Petites Écuries, 77185 Lognes, France""",48.8364407,2.6400653
+1573,"""Lycée Jean Moulin, 77200 Torcy, France""",48.8357104,2.6573725
+1574,"""6 Avenue Jean Moulin, 77200 Torcy, France""",48.8360785,2.6576433
+1575,"""53 Rue des Bons Enfants, 77090 Collégien, France""",48.83602640000000,2.6708859
+1576,"""59 Avenue Michel Chartier, 77090 Collégien, France""",48.8362583,2.6739442
+1577,"""78330 Fontenay-le-Fleury, France""",48.8166271,2.0446738
+1578,"""78210 Saint-Cyr-l'École, France""",48.806184,2.0662261
+1579,"""78870 Bailly, France""",48.84058840000000,2.0786934
+1580,"""78000 Versailles, France""",48.8051741,2.1219587
+1581,"""5 Rue du Hameau, 78150 Le Chesnay, France""",48.8225825,2.1201443
+1582,"""1 Square Bainville, 78150 Le Chesnay, France""",48.8225985,2.1230332
+1583,"""32 Avenue de Vaucresson, 78150 Le Chesnay, France""",48.82246870000000,2.13744
+1584,"""6 Avenue des Arts, 78000 Versailles, France""",48.8224786,2.1398247
+1585,"""Route du Prieuré, 92430 Marnes-la-Coquette, France""",48.8213067,2.1564994
+1586,"""Route de l'Impératrice, 92430 Marnes-la-Coquette, France""",48.8234814,2.1631436
+1587,"""Route des Cerisiers, 92410 Ville-d'Avray, France""",48.821835,2.169137
+1588,"""133 Rue de Versailles, 92410 Ville-d'Avray, France""",48.8209593,2.1744334
+1589,"""1 Avenue des Cèdres, 92410 Ville-d'Avray, France""",48.8214287,2.1875007
+1590,"""24 Rue de la Ronce, 92410 Ville-d'Avray, France""",48.8225734,2.1901998
+1591,"""29 Rue de la Croix Bosset, 92310 Sèvres, France""",48.82252340000000,2.2035373
+1592,"""22 Avenue de l'Europe, 92310 Sèvres, France""",48.8222896,2.206882
+1593,"""7 Rue des Binelles, 92310 Sèvres, France""",48.8220906,2.2206365
+1594,"""2 Rue Emmanuel Giraud, 92310 Sèvres, France""",48.8221894,2.222863
+1595,"""Pont Daydé, 92100 Boulogne-Billancourt, France""",48.8237342,2.2370499
+1596,"""90 Avenue du Bas Meudon, 92130 Issy-les-Moulineaux, France""",48.82157790000000,2.2407414
+1597,"""40 Rue Champ Chardon, 92130 Issy-les-Moulineaux, France""",48.82274050000000,2.2539141
+1598,"""215 Rue Jean Jacques Rousseau, 92130 Issy-les-Moulineaux, France""",48.8223838,2.2569669
+1599,"""8 Rue Edouard Branly, 92130 Issy-les-Moulineaux, France""",48.8225663,2.2707799
+1600,"""20 Rue Auguste Gervais, 92130 Issy-les-Moulineaux, France""",48.822344,2.2735241
+1601,"""11 Rue Sadi Carnot, 92170 Vanves, France""",48.8219422,2.2872646
+1602,"""4 Rue René Sahors, 92170 Vanves, France""",48.822171,2.2901079
+1603,"""45/47 Avenue Pierre Larousse, 92240 Malakoff, France""",48.8222242,2.3037983
+1604,"""13 Rue Victor Hugo, 92240 Malakoff, France""",48.82257330000000,2.3065372
+1605,"""18 Avenue de la Porte de Montrouge, 75014 Paris, France""",48.8213113,2.321448
+1606,"""37 Avenue Ernest Reyer, 75014 Paris, France""",48.8225703,2.3235827
+1607,"""Cité Universitaire, 75014 Paris, France""",48.8198027,2.3385613
+1608,"""20 Rue Gazan, 75014 Paris, France""",48.8221848,2.3405728
+1609,"""19 Rue de l'Interne Loeb, 75013 Paris, France""",48.8223019,2.3543053
+1610,"""22 Rue du Tage, 75013 Paris, France""",48.8221999,2.3568679
+1611,"""62 Boulevard Masséna, 75013 Paris, France""",48.82219510000000,2.3705516
+1612,"""49 Boulevard Masséna, 75013 Paris, France""",48.8221725,2.3734529
+1613,"""44 Rue Victor Hugo, 94200 Ivry-sur-Seine, France""",48.82087870000000,2.3887798
+1614,"""7 Rue François Mitterrand, 94200 Ivry-sur-Seine, France""",48.8220732,2.3898359
+1615,"""9 Rue du Séminaire de Conflans, 94220 Charenton-le-Pont, France""",48.8225306,2.403743
+1616,"""9 Allée Ronsard, 94220 Charenton-le-Pont, France""",48.8224817,2.4066299
+1617,"""4 Avenue de Verdun, 94410 Saint-Maurice, France""",48.82218990000000,2.420661
+1618,"""41 Rue du Val d'Osne, 94410 Saint-Maurice, France""",48.8223288,2.4231453
+1619,"""Route du Moulin Rouge, 75012 Paris, France""",48.8209565,2.435668
+1620,"""1 Route de la Demi Lune, 75012 Paris, France""",48.8223199,2.4416764
+1621,"""Hippodrome De Vincennes, 2 Route de la Ferme, 75012 Paris, France""",48.8211505,2.451674
+1622,"""École du Breuil, 75012 Paris, France""",48.823924,2.4598096
+1623,"""38 Avenue Jean d'Estienne d'Orves, 94340 Joinville-le-Pont, France""",48.8225183,2.4708867
+1624,"""17 Avenue Foch, 94340 Joinville-le-Pont, France""",48.8221058,2.4737578
+1625,"""46 Avenue Jack Gourevitch, 94500 Champigny-sur-Marne, France""",48.8220339,2.4876253
+1626,"""57 Avenue du Général de Gaulle, 94500 Champigny-sur-Marne, France""",48.82203440000000,2.4903698
+1627,"""5 Impasse du Ctre, 94500 Champigny-sur-Marne, France""",48.82258060000000,2.5036265
+1628,"""4/9 Rue Irène Joliot Curie, 94500 Champigny-sur-Marne, France""",48.8221615,2.5075095
+1629,"""61 Chemin du Pré de l'Étang, 94500 Champigny-sur-Marne, France""",48.8224044,2.5207414
+1630,"""100 Chemin du Pré de l'Étang Prolongé, 94500 Champigny-sur-Marne, France""",48.8223457,2.5231519
+1631,"""11 Avenue Henry Dunant, 94350 Villiers-sur-Marne, France""",48.8230668,2.5370849
+1632,"""8 Avenue des Marronniers, 94350 Villiers-sur-Marne, France""",48.8222691,2.539904
+1633,"""87 Avenue André Rouy, 94350 Villiers-sur-Marne, France""",48.8224009,2.5542013
+1634,"""11 Allée des Huguenots, 94350 Villiers-sur-Marne, France""",48.8220884,2.5565339
+1635,"""64 Avenue du Bois Saint-Martin, 93160 Noisy-le-Grand, France""",48.8228495,2.5713379
+1636,"""7 Rue des Frères Darras, 93160 Noisy-le-Grand, France""",48.8230511,2.5738811
+1637,"""93160 Noisy-le-Grand, France""",48.848579,2.55261
+1638,"""77184 Émerainville, France""",48.815147,2.6168724
+1639,"""2 Allée des Voyageurs, 77185 Lognes, France""",48.82337920000000,2.6178964
+1640,"""Airfield Lognes, Aérodrome Lognes Emerainville, 77185 Lognes, France""",48.8220944,2.6231779
+1641,"""1 Boulevard de Beaubourg, 77183 Croissy-Beaubourg, France""",48.8223675,2.6382316
+1642,"""84 Boulevard Courcerin, 77183 Croissy-Beaubourg, France""",48.82276540000000,2.6402603
+1643,"""35 Avenue de l'Étang, 77183 Croissy-Beaubourg, France""",48.8221486,2.6540788
+1644,"""5 Rue des Mouettes, 77183 Croissy-Beaubourg, France""",48.8219218,2.6557778
+1645,"""22 Chemin de la Ferme de Lamirault, 77090 Collégien, France""",48.8245714,2.6763037
+1646,"""Chemin de Villepreux À Fontenay, 78330 Fontenay-le-Fleury, France""",48.82079,2.038666
+1647,"""78330 Fontenay-le-Fleury, France""",48.8166271,2.0446738
+1648,"""78210 Saint-Cyr-l'École, France""",48.806184,2.0662261
+1649,"""78000 Versailles, France""",48.8051741,2.1219587
+1650,"""Rue des Sports, 78150 Le Chesnay, France""",48.8201885,2.1192941
+1651,"""7 Rue Alexandre Ribot, 78150 Le Chesnay, France""",48.8191511,2.1237242
+1652,"""3 Avenue de Maintenon, 78150 Le Chesnay, France""",48.8197001,2.1375444
+1653,"""13 Avenue du Maréchal Franchet d'Esperey, 78000 Versailles, France""",48.8194062,2.1398045
+1654,"""92410 Ville-d'Avray, France""",48.8216638,2.1818948
+1655,"""167 Rue de Versailles, 92410 Ville-d'Avray, France""",48.8200393,2.1711125
+1656,"""145 Rue de Versailles, 92410 Ville-d'Avray, France""",48.8204641,2.1735201
+1657,"""7 Avenue des Cèdres, 92410 Ville-d'Avray, France""",48.8208321,2.1869195
+1658,"""21 Avenue des Cèdres, 92410 Ville-d'Avray, France""",48.820798,2.1905206
+1659,"""7 Rue Alphonse Karr, 92310 Sèvres, France""",48.8197524,2.2045136
+1660,"""3 Rue des Bas Tillets, 92310 Sèvres, France""",48.8194484,2.2067832
+1661,"""18 Avenue Eiffel, 92310 Sèvres, France""",48.8193182,2.2203887
+1662,"""14 Rue du Bassin, 92190 Meudon, France""",48.8198754,2.2231401
+1663,"""11 Rue Hélène Loiret, 92190 Meudon, France""",48.8194682,2.2371221
+1664,"""4 Rue Hélène Loiret, 92190 Meudon, France""",48.8195311,2.2398576
+1665,"""21-11 Cours Saint-Vincent, 92130 Issy-les-Moulineaux, France""",48.8194623,2.2539568
+1666,"""107 Avenue de Verdun, 92130 Issy-les-Moulineaux, France""",48.8196185,2.2566241
+1667,"""8 Rue Marius Breton, 92130 Issy-les-Moulineaux, France""",48.8195282,2.2711608
+1668,"""18 Sentier de la Montezy, 92130 Issy-les-Moulineaux, France""",48.819694,2.272947
+1669,"""27 Rue Raymond Marcheron, 92170 Vanves, France""",48.8192844,2.2876555
+1670,"""11 Villa Juliette de Wills, 92170 Vanves, France""",48.819503,2.2904842
+1671,"""107 Boulevard Gabriel Péri, 92240 Malakoff, France""",48.8194183,2.3041937
+1672,"""154 Boulevard Gabriel Péri, 92240 Malakoff, France""",48.81938300000000,2.3065775
+1673,"""16 Rue Edgar Quinet, 92120 Montrouge, France""",48.81957270000000,2.3208629
+1674,"""38 Avenue Henri Ginoux, 92120 Montrouge, France""",48.8194426,2.3232436
+1675,"""Avenue Rockefeller, 75014 Paris, France""",48.8195712,2.3390577
+1676,"""15 Boulevard Jourdan, 75014 Paris, France""",48.8197985,2.3398265
+1677,"""Rue de la Poterne des Peupliers, 75013 Paris, France""",48.8194045,2.3532269
+1678,"""17 Boulevard Kellermann, 75013 Paris, France""",48.8196833,2.3566997
+1679,"""25 Boulevard Hippolyte Marquès, 75013 Ivry-sur-Seine, France""",48.8185416,2.3716106
+1680,"""1 Avenue Maurice Thorez, 94200 Ivry-sur-Seine, France""",48.81927170000000,2.3733934
+1681,"""111 Rue Molière, 94200 Ivry-sur-Seine, France""",48.8198526,2.3887518
+1682,"""8 Allée Chanteclair, 94200 Ivry-sur-Seine, France""",48.81962620000000,2.3906635
+1683,"""Quai de Charenton, 75012 Charenton-le-Pont, France""",48.8216764,2.3977698
+1684,"""50 Quai des Carrières, 94220 Charenton-le-Pont, France""",48.81951370000000,2.406802
+1685,"""4 Rue de la Pompe, 94410 Saint-Maurice, France""",48.8194917,2.4206869
+1686,"""8 Rue du Val d'Osne, 94410 Saint-Maurice, France""",48.8195974,2.4233032
+1687,"""Route Nouvelle, 75012 Paris, France""",48.8201977,2.4394461
+1688,"""Avenue de Gravelle, 75012 Paris, France""",48.8234483,2.4298163
+1689,"""48 Avenue de l'École de Joinville, 75012 Paris, France""",48.8193546,2.4542105
+1690,"""12th arrondissement of Paris, 75012 Paris, France""",48.8293647,2.4265406
+1691,"""1 Quai Gabriel Péri, 94340 Joinville-le-Pont, France""",48.8194442,2.470059
+1692,"""8 Place de Verdun, 94340 Joinville-le-Pont, France""",48.8195781,2.4737228
+1693,"""2 Rue nationale, 94500 Champigny-sur-Marne, France""",48.8194659,2.4875225
+1694,"""7 Rue Maurice Pirolley, 94500 Champigny-sur-Marne, France""",48.81946080000000,2.4901624
+1695,"""63 Boulevard Gabriel Péri, 94500 Champigny-sur-Marne, France""",48.8196666,2.5034209
+1696,"""21 Boulevard Gabriel Péri, 94500 Champigny-sur-Marne, France""",48.8207005,2.506577
+1697,"""36 Rue de l'Égalité, 94500 Champigny-sur-Marne, France""",48.8195835,2.5208612
+1698,"""89-91 Rue Alexandre Fourny, 94500 Champigny-sur-Marne, France""",48.8196692,2.5232622
+1699,"""13 Avenue des Luats, 94350 Villiers-sur-Marne, France""",48.8194081,2.5374747
+1700,"""1 Rue de Chennevières, 94350 Villiers-sur-Marne, France""",48.8193309,2.5401465
+1701,"""23 Rue Gallet, 94350 Villiers-sur-Marne, France""",48.81907,2.5544311
+1702,"""4 Avenue Lucie, 94350 Villiers-sur-Marne, France""",48.8191977,2.5576076
+1703,"""28 Avenue Stanislas Liedet, 94350 Villiers-sur-Marne, France""",48.8210546,2.5683191
+1704,"""93160 Noisy-le-Grand, France""",48.848579,2.55261
+1705,"""77184 Émerainville, France""",48.815147,2.6168724
+1706,"""Airfield Lognes, Aérodrome Lognes Emerainville, 77185 Lognes, France""",48.8220944,2.6231779
+1707,"""35 Boulevard Courcerin, 77185 Lognes, France""",48.8253243,2.6241245
+1708,"""6 Boulevard de Beaubourg, 77183 Croissy-Beaubourg, France""",48.8219582,2.6357524
+1709,"""18 Rue des Vieilles Vignes, 77183 Croissy-Beaubourg, France""",48.819817,2.6422601
+1710,"""14 Allée des Aigrettes, 77183 Croissy-Beaubourg, France""",48.8207765,2.6540624
+1711,"""1 Allée de Clotomont, 77183 Croissy-Beaubourg, France""",48.8191071,2.6580694
+1712,"""77183 Croissy-Beaubourg, France""",48.814117,2.6619593
+1713,"""22 Chemin de la Ferme de Lamirault, 77090 Collégien, France""",48.8245714,2.6763037
+1714,"""81 Avenue Santos Dumont, 78330 Fontenay-le-Fleury, France""",48.8056286,2.0414786
+1715,"""2 Rue de l'Aérostation maritime, 78210 Saint-Cyr-l'École, France""",48.8061769,2.0543434
+1716,"""4 Rue Jean Macé, 78210 Saint-Cyr-l'École, France""",48.8056839,2.0562667
+1717,"""Rue Charles Émile le Roy, 78210 Saint-Cyr-l'École, France""",48.8062753,2.0710048
+1718,"""3 Allée de la Fontaine en l'air, 78210 Saint-Cyr-l'École, France""",48.8052743,2.0733745
+1719,"""78000 Versailles, France""",48.8051741,2.1219587
+1720,"""Porte des Matelots, 78000 Versailles, France""",48.8035092,2.1048194
+1721,"""78000 Versailles, France""",48.8051741,2.1219587
+1722,"""Avenue du S, 78000 Versailles, France""",48.8054493,2.1202182
+1723,"""2 Rue des Réservoirs, 78000 Versailles, France""",48.8057327,2.1234915
+1724,"""79 Avenue de Saint-Cloud, 78000 Versailles, France""",48.8058619,2.1379363
+1725,"""62 Avenue de Saint-Cloud, 78000 Versailles, France""",48.8053663,2.1402849
+1726,"""17 Rue Alexis Fourcault, 78000 Versailles, France""",48.8054865,2.1537634
+1727,"""13 Rue Saint-Symphorien, 78000 Versailles, France""",48.8060799,2.1577043
+1728,"""20 Rue de la Marquette, 78220 Viroflay, France""",48.8058176,2.1708716
+1729,"""32 Rue de Nice, 78220 Viroflay, France""",48.8050824,2.1739269
+1730,"""3 Rue du Colonel Marchand, 92370 Chaville, France""",48.8054089,2.1872582
+1731,"""24 Rue Edouard Rougeaux, 92370 Chaville, France""",48.80619800000000,2.1898947
+1732,"""50 Route des Bois Blancs, 92360 Meudon, France""",48.8087043,2.2060378
+1733,"""1 Route du Pavé de Meudon, 92360 Meudon, France""",48.8059147,2.220992
+1734,"""3 Rue Hérault, 92190 Meudon, France""",48.8056332,2.2375445
+1735,"""10 Rue d'Arthelon, 92190 Meudon, France""",48.8055067,2.2404843
+1736,"""15 Rue de la Platrière, 92140 Clamart, France""",48.8057317,2.253735
+1737,"""13 Avenue Adolphe Schneider, 92140 Clamart, France""",48.8058752,2.2571058
+1738,"""21 Rue Pierre Louvrier, 92140 Clamart, France""",48.8058918,2.2703361
+1739,"""95 Avenue Marguerite Renaudin, 92140 Clamart, France""",48.805933,2.2737926
+1740,"""2 Rue Alfred de Musset, 92320 Châtillon, France""",48.8055731,2.2874261
+1741,"""31 Avenue de Paris, 92320 Châtillon, France""",48.8057017,2.2901876
+1742,"""7 Av. Jean Jaurès, 92320 Châtillon, France""",48.80635400000000,2.30379
+1743,"""45 Avenue Marx Dormoy, 92220 Bagneux, France""",48.8100536,2.3124366
+1744,"""74 Rue Jean Marin Naudin, 92220 Bagneux, France""",48.8051252,2.32054
+1745,"""24 Avenue Prieur de la Côte dOr, 94110 Arcueil, France""",48.8056643,2.3235234
+1746,"""3 Place Marcel Cachin, 94110 Arcueil, France""",48.813482,2.390805
+1747,"""54 Avenue François Vincent Raspail, 94110 Arcueil, France""",48.8058486,2.3398023
+1748,"""21 Avenue Charles Gide, 94270 Le Kremlin-Bicêtre, France""",48.8053347,2.354519
+1749,"""5 Rue du Capitaine Morinet, 94270 Le Kremlin-Bicêtre, France""",48.8059838,2.3573833
+1750,"""30 Rue Henri Martin, 94200 Ivry-sur-Seine, France""",48.8052089,2.3706408
+1751,"""183 Boulevard de Stalingrad, 94200 Ivry-sur-Seine, France""",48.8057621,2.3737046
+1752,"""191 Rue Marcel Hartmann, 94200 Ivry-sur-Seine, France""",48.8058484,2.3875161
+1753,"""8 Bis Rue Jean Bonnefoix, 94200 Ivry-sur-Seine, France""",48.8060431,2.3908932
+1754,"""128bis Avenue Jean Jaurès, 94200 Ivry-sur-Seine, France""",48.8051873,2.4033876
+1755,"""12 Rue Auguste Blanqui, 94400 Vitry-sur-Seine, France""",48.8061212,2.4070443
+1756,"""16 Rue Raymond Jaclard, 94140 Alfortville, France""",48.8058722,2.4209451
+1757,"""86 Rue Marcel Bourdarias, 94140 Alfortville, France""",48.8054336,2.4236621
+1758,"""23 Rue Grimoult, 94700 Maisons-Alfort, France""",48.80579670000000,2.4376002
+1759,"""91 Avenue de la République, 94700 Maisons-Alfort, France""",48.8056865,2.4404921
+1760,"""41 Rue des Pinsons, 94000 Créteil, France""",48.80539780000000,2.4546592
+1761,"""149 Rue Marc Sangnier, 94700 Maisons-Alfort, France""",48.8054873,2.4571913
+1762,"""34 Rue du Pont de Créteil, 94100 Saint-Maur-des-Fossés, France""",48.8054277,2.4710172
+1763,"""6 /8 Rue d'Alsace Lorraine, 94100 Saint-Maur-des-Fossés, France""",48.8056943,2.4737939
+1764,"""15 Avenue de Lattre de Tassigny, 94100 Saint-Maur-des-Fossés, France""",48.8058924,2.4869055
+1765,"""22 Avenue du Général Leclerc, 94100 Saint-Maur-des-Fossés, France""",48.804962,2.4906131
+1766,"""64 Avenue des Lacs, 94100 Saint-Maur-des-Fossés, France""",48.8057595,2.5043234
+1767,"""77 Rue Viala, 94100 Saint-Maur-des-Fossés, France""",48.8057052,2.5064153
+1768,"""46 Quai du Mesnil, 94210 Saint-Maur-des-Fossés, France""",48.8054665,2.5203952
+1769,"""151 Rue de Musselburgh, 94500 Champigny-sur-Marne, France""",48.8054899,2.5239201
+1770,"""5 Rue Racine, 94500 Champigny-sur-Marne, France""",48.8062659,2.5387544
+1771,"""41 B Rue Molière, 94430 Chennevières-sur-Marne, France""",48.8054918,2.5395208
+1772,"""Collège Boileau, 94430 Chennevières-sur-Marne, France""",48.8056486,2.5555143
+1773,"""20 Route du Plessis, 94430 Chennevières-sur-Marne, France""",48.8057926,2.5558744
+1774,"""157 Avenue Maurice Berteaux, 94420 Le Plessis-Trévise, France""",48.806038,2.5718097
+1775,"""Collège Albert Camus - ZA Ponroy, 94420 Le Plessis-Trévise, France""",48.804799,2.572389
+1776,"""32 Avenue Cheret, 94420 Le Plessis-Trévise, France""",48.805364,2.5863064
+1777,"""246 Avenue de la Maréchale, 94420 Le Plessis-Trévise, France""",48.8055689,2.5897308
+1778,"""43 Rue Emile Pajot Prolongée, 77340 Pontault-Combault, France""",48.8059023,2.6041835
+1779,"""49 Rue de Malnoue, 77340 Pontault-Combault, France""",48.8057793,2.6068812
+1780,"""D361, 77340 Émerainville, France""",48.8005742,2.6338104
+1781,"""87 Rue du Lapin Vert, 77184 Émerainville, France""",48.80588300000000,2.6243756
+1782,"""12 Rue des Chênes, 77680 Roissy-en-Brie, France""",48.8055885,2.6376547
+1783,"""25 Rue des Châtaigniers, 77680 Roissy-en-Brie, France""",48.805448,2.6399845
+1784,"""77680 Roissy-en-Brie, France""",48.794038,2.6600763
+1785,"""77183 Croissy-Beaubourg, France""",48.814117,2.6619593
+1786,"""39 Avenue Santos Dumont, 78390 Bois-d'Arcy, France""",48.8027715,2.0404752
+1787,"""22 Rue Roger Henry, 78210 Saint-Cyr-l'École, France""",48.8026693,2.0543093
+1788,"""4-6 Rue Alfred Dreyfus, 78210 Saint-Cyr-l'École, France""",48.8026868,2.057092
+1789,"""10 Allée des 2 Platanes, 78210 Saint-Cyr-l'École, France""",48.8036366,2.0714865
+1790,"""19 Rue Victor Basch, 78210 Saint-Cyr-l'École, France""",48.8028913,2.0736668
+1791,"""78000 Versailles, France""",48.8051741,2.1219587
+1792,"""99 Route de Saint-Cyr, 78000 Versailles, France""",48.8032125,2.1056695
+1793,"""Route de Saint-Cyr, 78000 Versailles, France""",48.80254560000000,2.1125186
+1794,"""4 Rue de l'Indépendance Américaine, 78000 Versailles, France""",48.8025557,2.1209071
+1795,"""10 Rue de la Chancellerie, 78000 Versailles, France""",48.8026667,2.1235214
+1796,"""5 Allée Pierre de Coubertin, 78000 Versailles, France""",48.80250850000000,2.1365492
+1797,"""7 Rue Léon Gatin, 78000 Versailles, France""",48.8030301,2.1402104
+1798,"""53 Rue Champ Lagarde, 78000 Versailles, France""",48.803692,2.1532231
+1799,"""6 Rue de l'École des Postes, 78000 Versailles, France""",48.802855,2.157200500000000
+1800,"""18 Rue Rieussec, 78220 Viroflay, France""",48.8029166,2.1705187
+1801,"""18 Rue du Dr Roux, 78220 Viroflay, France""",48.80329,2.1736477
+1802,"""34 Boulevard de la Libération, 92370 Chaville, France""",48.8025986,2.1872817
+1803,"""10 Rue de la Mare Adam, 92370 Chaville, France""",48.8027666,2.1898961
+1804,"""71 Etoile du Pavé de Meudon, 92360 Chaville, France""",48.8018559,2.2045139
+1805,"""Tour Hertzienne de Meudon, Etoile du Pavé de Meudon, 92370 Meudon, France""",48.8025313,2.2043649
+1806,"""Route des Bois Plantes, 92360 Meudon, France""",,
+1807,"""44 Rue d'Alembert, 92190 Meudon, France""",48.8029477,2.2374582
+1808,"""41 Avenue du Bois, 92190 Meudon, France""",48.8027585,2.2405571
+1809,"""20 Rue Brignole Galliera, 92140 Clamart, France""",48.8042439,2.2546494
+1810,"""Place du Garde, 92140 Clamart, France""",48.8031999,2.2572008
+1811,"""23 Avenue Marguerite Renaudin, 92140 Clamart, France""",48.8026711,2.2716134
+1812,"""22 Rue des Roissys, 92320 Châtillon, France""",48.8028872,2.2739672
+1813,"""5 Avenue de Verdun, 92320 Châtillon, France""",48.80319190000000,2.2877801
+1814,"""16 Boulevard de la Liberté, 92320 Châtillon, France""",48.80312,2.289829
+1815,"""Av. des Sophoras, 92220 Bagneux, France""",48.806675,2.307777
+1816,"""Av. des Noisetiers de Byzance, 92220 Bagneux, France""",48.805344,2.308951
+1817,"""13 Rond-Point des Martyrs de Châteaubriant, 92220 Bagneux, France""",48.8028714,2.3204465
+1818,"""7 Rue Gustave Courbet, 92220 Bagneux, France""",48.80294,2.323402
+1819,"""9 Cité des Irlandais, 94110 Arcueil, France""",48.80286570000000,2.3370592
+1820,"""39 Rue Anatole France, 94110 Arcueil, France""",48.80301780000000,2.3411229
+1821,"""3 Rue Antoine de Saint-Exupéry, 94270 Le Kremlin-Bicêtre, France""",48.8028779,2.3543432
+1822,"""17 Boulevard Chastenet de Géry, 94800 Villejuif, France""",48.8030164,2.3569914
+1823,"""19 Rue Emile Zola, 94800 Villejuif, France""",48.8028595,2.3707466
+1824,"""73 Rue Auber, 94400 Vitry-sur-Seine, France""",48.8028849,2.373808
+1825,"""2 Rue du Professeur Calmette, 94200 Ivry-sur-Seine, France""",48.8029855,2.3861499
+1826,"""2 Route du Fort, 94200 Ivry-sur-Seine, France""",48.8036226,2.3889324
+1827,"""26 Avenue Anatole France, 94400 Vitry-sur-Seine, France""",48.8028231,2.4038666
+1828,"""45 Rue Charles Fourier, 94400 Vitry-sur-Seine, France""",48.8025849,2.4066987
+1829,"""Paul Vaillant Couturier - Kennedy, 94140 Alfortville, France""",48.802667,2.420991
+1830,"""8 Rue des Camélias, 94140 Alfortville, France""",48.8031412,2.4235858
+1831,"""41 Rue Carnot, 94700 Maisons-Alfort, France""",48.8028625,2.4377883
+1832,"""4 Rue du Général Koenig, 94700 Maisons-Alfort, France""",48.8026975,2.440465
+1833,"""1 Place des Bolets, 94000 Créteil, France""",48.8028094,2.4541052
+1834,"""1 Allée des Primevères, 94000 Créteil, France""",48.8026879,2.4571742
+1835,"""58 Rue du Pont de Créteil, 94100 Saint-Maur-des-Fossés, France""",48.8031577,2.4713257
+1836,"""5 bis Villa Jarlet, 94100 Saint-Maur-des-Fossés, France""",48.80288910000000,2.4742064
+1837,"""11 Avenue Carnot, 94100 Saint-Maur-des-Fossés, France""",48.8028085,2.4873921
+1838,"""36 Avenue Foch, 94100 Saint-Maur-des-Fossés, France""",48.8029,2.4899
+1839,"""13 Avenue du Buisson, 94100 Saint-Maur-des-Fossés, France""",48.802514,2.5047955
+1840,"""47 Boulevard de Champigny, 94210 Saint-Maur-des-Fossés, France""",48.8023902,2.5067003
+1841,"""125 Quai Winston Churchill, 94210 Saint-Maur-des-Fossés, France""",48.8027548,2.5219682
+1842,"""22 Rue de l'Île de Congé, 94430 Chennevières-sur-Marne, France""",48.80250730000000,2.5236803
+1843,"""2 Route de la Libération, 94430 Chennevières-sur-Marne, France""",48.80284100000000,2.5377733
+1844,"""7 Avenue Germaine, 94430 Chennevières-sur-Marne, France""",48.80265500000000,2.5399792
+1845,"""2 Rue d'Alsace, 94430 Chennevières-sur-Marne, France""",48.8027863,2.5541207
+1846,"""4 Rue Jean Mermoz, 94430 Chennevières-sur-Marne, France""",48.8027465,2.5561849
+1847,"""7 Allée Louis Blériot, 94420 Le Plessis-Trévise, France""",48.8027739,2.570594
+1848,"""34 Avenue Clément Ader, 94420 Le Plessis-Trévise, France""",48.8026247,2.5734675
+1849,"""1 Avenue du 1 Février 1954, 94420 Le Plessis-Trévise, France""",48.8031229,2.5881092
+1850,"""10 Avenue Aubry, 94420 Le Plessis-Trévise, France""",48.8036884,2.5900963
+1851,"""3 Rue du Stade, 77340 Pontault-Combault, France""",48.80303930000000,2.6043074
+1852,"""3 Rue Emile Pajot, 77340 Pontault-Combault, France""",48.8029539,2.6077034
+1853,"""15 Rue Chevreul, 77340 Pontault-Combault, France""",48.802775,2.6208236
+1854,"""12 Rue Robespierre, 77340 Pontault-Combault, France""",48.8030421,2.6232828
+1855,"""6 Rue Dian Fossey, 77680 Roissy-en-Brie, France""",48.8028268,2.6375411
+1856,"""12 Rue des Prunelliers, 77680 Roissy-en-Brie, France""",48.8027263,2.6402222
+1857,"""12 Bis Rue des Passereaux, 77680 Roissy-en-Brie, France""",48.8003824,2.6601637
+1858,"""Allée de Fontainebleau, 77183 Croissy-Beaubourg, France""",48.804252,2.661217
+1859,"""77183 Croissy-Beaubourg, France""",48.814117,2.6619593
+1860,"""2 Mail du Cèdre, 78180 Montigny-le-Bretonneux, France""",48.78921710000000,2.0406242
+1861,"""10 Boulevard des Chênes, 78280 Guyancourt, France""",48.7882802,2.053357
+1862,"""5 Parc Ariane, 78280 Guyancourt, France""",48.7882715,2.0589781
+1863,"""78280 Guyancourt, France""",48.77073560000000,2.0803619
+1864,"""78000 Versailles, France""",48.8051741,2.1219587
+1865,"""D91, 78000 Versailles, France""",48.790941,2.11077
+1866,"""78000 Versailles, France""",48.8051741,2.1219587
+1867,"""N12, 78000 Versailles, France""",48.7898299,2.118973
+1868,"""78530 Buc, France""",48.774842,2.1308497
+1869,"""10 Rue Delly, 78000 Versailles, France""",48.7889254,2.1540011
+1870,"""A86, 78000 Versailles, France""",48.8053934,2.1631677
+1871,"""2 Rue Jacquard, 78140 Vélizy-Villacoublay, France""",48.787643,2.1686983
+1872,"""78 Rue Jules Ferry, 78140 Vélizy-Villacoublay, France""",48.7888424,2.1752042
+1873,"""78140 Vélizy-Villacoublay, France""",48.7836284,2.1985306
+1874,"""8 Rue Andras Beck, 92360 Meudon, France""",48.7884215,2.2098058
+1875,"""N118, 92360 Meudon, France""",48.7969419,2.2171438
+1876,"""45 Rue de la Roseraie, 92360 Meudon, France""",48.7891144,2.2237216
+1877,"""135 Route du Pavé Blanc, 92140 Clamart, France""",48.7885745,2.2369162
+1878,"""92140 Clamart, France""",48.7925931,2.2551675
+1879,"""157 Rue de la Porte de Trivaux, 92140 Clamart, France""",48.7885168,2.2549009
+1880,"""49 Rue des Carnets, 92140 Clamart, France""",48.7884673,2.2567732
+1881,"""7 Square des Peupliers, 92350 Le Plessis-Robinson, France""",48.7891936,2.2712843
+1882,"""23 Rue Jean Longuet, 92350 Le Plessis-Robinson, France""",48.78851910000000,2.2728101
+1883,"""6 Rue des Ormeaux, 92260 Fontenay-aux-Roses, France""",48.7888652,2.2869332
+1884,"""14 Rue des Roses, 92260 Fontenay-aux-Roses, France""",48.7890992,2.2899932
+1885,"""21 Rue des Cuverons, 92220 Bagneux, France""",48.7887646,2.3039141
+1886,"""4 Rue des Pichets, 92220 Bagneux, France""",48.78833910000000,2.3052517
+1887,"""2 Avenue Pasteur, 94230 Cachan, France""",48.7884112,2.320405
+1888,"""5 Rue Pierre Curie, 94230 Cachan, France""",48.7887816,2.3225176
+1889,"""92 Rue des Vignes, 94230 Cachan, France""",48.7894954,2.3376427
+1890,"""Le Coteau - Lunain, 94230 Cachan, France""",48.788763,2.340247
+1891,"""100 Rue de Verdun, 94800 Villejuif, France""",48.789204,2.3538038
+1892,"""99 Avenue de la République, 94800 Villejuif, France""",48.7882086,2.3577693
+1893,"""27 Avenue Louis Aragon, 94800 Villejuif, France""",48.788802,2.3706622
+1894,"""57 Avenue Louis Aragon, 94800 Villejuif, France""",48.7887669,2.373224
+1895,"""9 B Rue Edouard Tremblay, 94400 Vitry-sur-Seine, France""",48.7892303,2.3878912
+1896,"""47 Avenue de l'Abbé Roger Derry, 94400 Vitry-sur-Seine, France""",48.7894124,2.3897027
+1897,"""93 Rue Gabriel Péri, 94400 Vitry-sur-Seine, France""",48.7887054,2.4033935
+1898,"""18 Avenue du Groupe Manouchian, 94400 Vitry-sur-Seine, France""",48.7887426,2.40713
+1899,"""19 Quai Jules Guesde, 94400 Vitry-sur-Seine, France""",48.7886139,2.4208213
+1900,"""42 Quai Jean Baptiste Clément, 94140 Alfortville, France""",48.7893525,2.4239335
+1901,"""4 Rue du Commandant Paris, 94000 Créteil, France""",48.7884164,2.437613
+1902,"""30 Rue de Valenton, 94700 Maisons-Alfort, France""",48.7886641,2.4389073
+1903,"""13 Rue Maurice Déménitroux, 94000 Créteil, France""",48.7893739,2.4543507
+1904,"""26 Rue de Bretagne, 94000 Créteil, France""",48.7897611,2.4563442
+1905,"""36 Avenue des Peupliers, 94000 Créteil, France""",48.7894486,2.4713175
+1906,"""26 Quai de la Pie, 94100 Saint-Maur-des-Fossés, France""",48.7893479,2.4740063
+1907,"""37 Rue Etienne Dolet, 94100 Saint-Maur-des-Fossés, France""",48.788546,2.4878735
+1908,"""69 Rue du Dr Roux, 94100 Saint-Maur-des-Fossés, France""",48.7889322,2.4900564
+1909,"""7 Rue Chevalier, 94210 Saint-Maur-des-Fossés, France""",48.789007,2.5036876
+1910,"""11 Rue du Moulin, 94210 Saint-Maur-des-Fossés, France""",48.7891272,2.5060221
+1911,"""28 Rue de Sucy, 94430 Chennevières-sur-Marne, France""",48.7887291,2.521319
+1912,"""49 Rue du Pont, 94430 Chennevières-sur-Marne, France""",48.78977340000000,2.5231169
+1913,"""41 Rue des Martyrs de Châteaubriant, 94490 Ormesson-sur-Marne, France""",48.7888731,2.5377342
+1914,"""7 Rue du Sergent Raymond Anne, 94490 Ormesson-sur-Marne, France""",48.7890199,2.5396734
+1915,"""19 Rue Maryse Bastié, 94490 Ormesson-sur-Marne, France""",48.789782,2.5515845
+1916,"""Ormesson-sur-Marne, France""
+",48.785694,2.541046
+1917,"""16 Rue Jean-Baptiste Clément, 94510 La Queue-en-Brie, France""",48.7886438,2.5712023
+1918,"""Hôtel de Ville de la Queue-en-Brie, 94510 La Queue-en-Brie, France""",48.7896715,2.5734285
+1919,"""18 Rue de Paris, 94510 La Queue-en-Brie, France""",48.7888716,2.5876037
+1920,"""8 Rue de Copenhague, 94510 La Queue-en-Brie, France""",48.7890099,2.5899926
+1921,"""69bis Rue de la Pierre Rollet, 77340 Pontault-Combault, France""",48.7890057,2.6044526
+1922,"""36 Avenue du Château, 77340 Pontault-Combault, France""",48.7896154,2.6067423
+1923,"""121 Rue des Prés Saint-Martin, 77340 Pontault-Combault, France""",48.7895898,2.6175038
+1924,"""77340 Pontault-Combault, France""",48.7850292,2.6140964
+1925,"""77680 Roissy-en-Brie, France""",48.794038,2.6600763
+1926,"""13 6ème Avenue, 77680 Roissy-en-Brie, France""",48.7887348,2.6540444
+1927,"""15 Avenue Charles de Gaulle, 77680 Roissy-en-Brie, France""",48.78887210000000,2.6566151
+1928,"""9 Avenue Montesquieu, 77680 Roissy-en-Brie, France""",48.7896467,2.6711837
+1929,"""2 Avenue Diderot, 77680 Roissy-en-Brie, France""",48.7886782,2.673535
+1930,"""2 Avenue du Pas du Lac, 78180 Montigny-le-Bretonneux, France""",48.7860474,2.0402236
+1931,"""6 Rue James Joule, 78280 Guyancourt, France""",48.7863906,2.054174
+1932,"""5 Rue Alfred Kastler, 78280 Guyancourt, France""",48.7861632,2.0572981
+1933,"""Unnamed Road, 78280 Guyancourt, France""",48.77073560000000,2.0803619
+1934,"""1 Avenue Eugène Freyssinet, 78280 Guyancourt, France""",48.7851633,2.0666106
+1935,"""Unnamed Road, 78000 Versailles, France""",48.8051741,2.1219587
+1936,"""25 Allée des Marronniers, 78000 Versailles, France""",48.7857005,2.0912111
+1937,"""4 Route de la Minière, 78000 Versailles, France""",48.7901557,2.1059724
+1938,"""Boulevard du Maréchal Soult, 78000 Versailles, France""",48.7843652,2.1129024
+1939,"""Avenue Guichard, 78000 Versailles, France""",48.782427,2.1201
+1940,"""Avenue du Maréchal Moncey, 78000 Versailles, France""",48.7876012,2.124689
+1941,"""78530 Buc, France""",48.774842,2.1308497
+1942,"""78000 Versailles, France""",48.8051741,2.1219587
+1943,"""95 Rue Berlioz, 78140 Vélizy-Villacoublay, France""",48.7860705,2.1706201
+1944,"""69 Bis Rue Lavoisier, 78140 Vélizy-Villacoublay, France""",48.7862697,2.1734772
+1945,"""24 Rue Aristide Briand, 78140 Vélizy-Villacoublay, France""",48.78647730000000,2.187606
+1946,"""8 Rue de la Forêt, 78140 Vélizy-Villacoublay, France""",48.7862065,2.1899754
+1947,"""20 Rue Grange Dame Rose, 78140 Vélizy-Villacoublay, France""",48.7854283,2.2075056
+1948,"""Le Bois, 92360 Meudon, France""",48.786437,2.208025
+1949,"""Aérodrome Morane, 92360 Meudon, France""",48.788123,2.222493
+1950,"""Avenue Morane Saulnier, 92360 Meudon, France""",48.7838716,2.2147509
+1951,"""16 Avenue Stendhal, 92140 Clamart, France""",48.7863841,2.237027
+1952,"""Ile de France, 92140 Clamart, France""",48.7925931,2.2551675
+1953,"""254 D906, 92140 Clamart, France""",48.7865776,2.2544933
+1954,"""3 Chemin de la Côte Ste Catherine, 92350 Le Plessis-Robinson, France""",48.7855418,2.2568608
+1955,"""22 Rue de la Garenne, 92350 Le Plessis-Robinson, France""",48.7866005,2.2707406
+1956,"""111 Rue de Fontenay, 92350 Le Plessis-Robinson, France""",48.785752,2.2731039
+1957,"""Augustin Claude, 92260 Fontenay-aux-Roses, France""",48.7846512,2.2878764
+1958,"""18 Rue Jean Noël Pelnard, 92260 Fontenay-aux-Roses, France""",48.786157,2.289879
+1959,"""71B Rue de la Fontaine, 92220 Bagneux, France""",48.7860672,2.3041389
+1960,"""45 Rue du Général Sarrail, 92220 Bagneux, France""",48.7862346,2.3066824
+1961,"""5 Avenue Mirebeau, 92340 Bourg-la-Reine, France""",48.78620800000000,2.3207045
+1962,"""31 Rue Varengue, 92340 Bourg-la-Reine, France""",48.7863187,2.3234791
+1963,"""106 Avenue Léon Blum, 94230 Cachan, France""",48.7856865,2.3371369
+1964,"""36 Rue des Saussaies, 94230 Cachan, France""",48.7862269,2.340215600000000
+1965,"""21 Rue de Chevilly, 94800 Villejuif, France""",48.7860659,2.3545571
+1966,"""47 Rue Fernand Léger, 94800 Villejuif, France""",48.7854363,2.3552154
+1967,"""17 Place Paul Eluard, 94800 Villejuif, France""",48.785894,2.3712244
+1968,"""34 Rue du Clos Fleuri, 94800 Villejuif, France""",48.7861744,2.3736
+1969,"""14 Avenue Lucien Français, 94400 Vitry-sur-Seine, France""",48.7862217,2.3872589
+1970,"""22 Rue de la Petite Saussaie, 94400 Vitry-sur-Seine, France""",48.78588250000000,2.3895964
+1971,"""43 Rue Talma, 94400 Vitry-sur-Seine, France""",48.7864335,2.4036281
+1972,"""36 Rue Gabriel Péri, 94400 Vitry-sur-Seine, France""",48.7859668,2.4065816
+1973,"""12 Quai de la Révolution, 94140 Alfortville, France""",48.7856891,2.422202
+1974,"""6 Quai de la Révolution, 94140 Alfortville, France""",48.7862528,2.4228131
+1975,"""21 Rue Jean Hemard, 94000 Créteil, France""",48.78612,2.4374047
+1976,"""A86, 94000 Créteil, France""",48.7917007,2.4407743
+1977,"""2 Avenue Courtois, 94000 Créteil, France""",48.786226,2.4540309
+1978,"""10 Rue de l'Orme Saint-Siméon, 94000 Créteil, France""",48.7861191,2.4580712
+1979,"""7 Rue du Barrage, 94000 Créteil, France""",48.7863736,2.4704927
+1980,"""15 Quai du Rancy, 94380 Bonneuil-sur-Marne, France""",48.7862017,2.4739995
+1981,"""34 Avenue Raspail, 94100 Saint-Maur-des-Fossés, France""",48.7860757,2.4875087
+1982,"""24 Rue des Trois Yvonne, 94100 Saint-Maur-des-Fossés, France""",48.7862134,2.4897996
+1983,"""28 Avenue des Falonnières, 94210 Saint-Maur-des-Fossés, France""",48.78616160000000,2.5038895
+1984,"""32 Avenue Denfert Rochereau, 94210 Saint-Maur-des-Fossés, France""",48.7865015,2.5072397
+1985,"""65 Sentier de l'Alma, 94430 Chennevières-sur-Marne, France""",48.7861695,2.520238
+1986,"""41 Sentier de la Haute Hutte, 94490 Chennevières-sur-Marne, France""",48.7862147,2.5234726
+1987,"""11 Avenue du Général de Gaulle, 94490 Ormesson-sur-Marne, France""",48.7861207,2.537909
+1988,"""3 Avenue Wladimir d'Ormesson, 94490 Ormesson-sur-Marne, France""",48.7858659,2.5400495
+1989,"""Ormesson-sur-Marne, France""
+",48.785694,2.541046
+1990,"""8 Rue Georges Bizet, 94510 La Queue-en-Brie, France""",48.7882544,2.5720689
+1991,"""5 Route du Pont Banneret, 94510 La Queue-en-Brie, France""",48.7873765,2.5751814
+1992,"""21 Chemin de la Montagne, 94510 La Queue-en-Brie, France""",48.7861556,2.5875473
+1993,"""62 Rue de Paris, 94510 La Queue-en-Brie, France""",48.78726410000000,2.590644
+1994,"""5 Allée de la Charmille, 77340 Pontault-Combault, France""",48.7863091,2.6039901
+1995,"""23 Allée de la Charmille, 77340 Pontault-Combault, France""",48.7863059,2.6066872
+1996,"""77340 Pontault-Combault, France""",48.7850292,2.6140964
+1997,"""Avenue Jean Monnet Lieux-dits """"le Grand Etang"""" - """"le Rû du Moulin, 77680 Roissy-en-Brie, France""",48.7946996,2.6367174
+1998,"""D21, 77680 Roissy-en-Brie, France""",48.7910465,2.664465
+1999,"""44 6ème Avenue, 77680 Roissy-en-Brie, France""",48.7864649,2.6536557
+2000,"""79 Avenue du Commerce, 77680 Roissy-en-Brie, France""",48.7863548,2.6571622
+2001,"""77680 Roissy-en-Brie, France""",48.794038,2.6600763
+2002,"""8 Avenue Joseph Kessel, 78180 Montigny-le-Bretonneux, France""",48.7727966,2.0397678
+2003,"""45 Rue Maurice Ravel, 78280 Guyancourt, France""",48.7725749,2.0538264
+2004,"""21 Route de Troux, 78280 Guyancourt, France""",48.7729779,2.0585769
+2005,"""11 Place de l'Église, 78280 Guyancourt, France""",48.77191640000000,2.0703707
+2006,"""1 Rue Ernest Defay, 78280 Guyancourt, France""",48.7723352,2.0734785
+2007,"""1 Rue Robert Arnaud d'Andilly, 78280 Guyancourt, France""",48.7726575,2.0851015
+2008,"""1 Rue Louis Blériot, 78280 Guyancourt, France""",48.7745085,2.0921564
+2009,"""Route de la Cavée, 78530 Buc, France""",48.7740649,2.106075300000000
+2010,"""13 Rue Jean-Baptiste Lulli, 78530 Buc, France""",48.7720122,2.107811
+2011,"""5 Chemin de la Geneste, 78530 Buc, France""",48.7720699,2.1209028
+2012,"""31 Rue de la Ferme, 78530 Buc, France""",48.7723799,2.1238817
+2013,"""8 Route de Jouy, 78530 Buc, France""",48.7734082,2.1366653
+2014,"""14 Route de Jouy, 78530 Buc, France""",48.7747677,2.1339602
+2015,"""Jouy-en-Josas, France""
+",48.76454500000000,2.169007
+2016,"""9 Chemin de la Butte aux Crèches, 78350 Jouy-en-Josas, France""",48.7705038,2.1595729
+2017,"""15 Rue Pierre Brossolette, 78350 Jouy-en-Josas, France""",48.7725799,2.170527
+2018,"""1 Rue Julien Adanson, 78350 Jouy-en-Josas, France""",48.7718834,2.1726835
+2019,"""91570 Bièvres, France""",48.7533024,2.2073507
+2020,"""Unnamed Road, 78140 Vélizy-Villacoublay, France""",48.7836284,2.1985306
+2021,"""78140 Vélizy-Villacoublay, France""",48.7836284,2.1985306
+2022,"""Unnamed Road, 78140 Vélizy-Villacoublay, France""",48.7836284,2.1985306
+2023,"""78140 Vélizy-Villacoublay, France""",48.7836284,2.1985306
+2024,"""La Boursidiere, 92350 Le Plessis-Robinson, France""",48.7747526,2.2393254
+2025,"""92290 Châtenay-Malabry, France""",48.771896,2.270748
+2026,"""20 Avenue du Bois, 92290 Châtenay-Malabry, France""",48.7721439,2.2541399
+2027,"""12 Avenue des 4 Fusillés, 92290 Châtenay-Malabry, France""",48.7725839,2.2571059
+2028,"""22 Rue Eugène Sinet, 92290 Châtenay-Malabry, France""",48.7739047,2.271852
+2029,"""16 Rue Eugène Sinet, 92290 Châtenay-Malabry, France""",48.7728164,2.273199
+2030,"""53 Rue Paul Couderc, 92330 Sceaux, France""",48.77349300000000,2.2874306
+2031,"""Unnamed Road, 92330 Sceaux, France""",48.7741979,2.2956801
+2032,"""Parc de l'Orangerie, 14 Avenue le Notre, 92330 Sceaux, France""",48.7726453,2.3028266
+2033,"""12 Avenue Rose de Launay, 92330 Sceaux, France""",48.7721471,2.3069535
+2034,"""77 Rue Hoffmann, 92340 Bourg-la-Reine, France""",48.7731329,2.3210156
+2035,"""57 Avenue Flouquet, 94240 L'Haÿ-les-Roses, France""",48.7728562,2.3239248
+2036,"""20 Rue des Jardins, 94550 Chevilly-Larue, France""",48.7720385,2.3377546
+2037,"""32 Avenue du Général de Gaulle, 94550 Chevilly-Larue, France""",48.772569,2.3398288
+2038,"""15 Rue Henri Crette, 94550 Chevilly-Larue, France""",48.7724029,2.3542797
+2039,"""4 Rue de l'Adjudant-Chef Dericbourg, 94550 Chevilly-Larue, France""",48.771964,2.3568835
+2040,"""16 Rue des Jardins, 94400 Vitry-sur-Seine, France""",48.7726114,2.3711867
+2041,"""2 Rue Maurice Coquelin, 94400 Vitry-sur-Seine, France""",48.7722704,2.3741893
+2042,"""6 Rue Hélène Boucher, 94320 Thiais, France""",48.7718602,2.387449
+2043,"""4 Allée Ferrer, 94320 Thiais, France""",48.7718949,2.3902558
+2044,"""94600 Choisy-le-Roi, France""",48.7691179,2.4213947
+2045,"""6 Voie des Roses, 94600 Choisy-le-Roi, France""",48.77225840000000,2.4069785
+2046,"""Collège Jules Valles, 94600 Choisy-le-Roi, France""",48.7726124,2.4221526
+2047,"""66 Avenue de la Folie, 94600 Choisy-le-Roi, France""",48.7718476,2.4226476
+2048,"""Creteil Pompadour, Chemin des Bœufs, 94000 Créteil, France""",48.7714903,2.4353259
+2049,"""8 Avenue du Maréchal Foch, 94000 Créteil, France""",48.77227670000000,2.4404752
+2050,"""28 Espl. des Abymes, 94000 Créteil, France""",48.7726017,2.4563552
+2051,"""88 Avenue du Général Pierre Billotte, 94000 Créteil, France""",48.77226780000000,2.4567998
+2052,"""1 Rue des Plâtrières, 94000 Créteil, France""",48.7722612,2.4709295
+2053,"""78 Rue de l'Espérance, 94380 Bonneuil-sur-Marne, France""",48.7725139,2.4732835
+2054,"""9 Allée Edith Piaf, 94380 Bonneuil-sur-Marne, France""",48.771961,2.4872345
+2055,"""19 Place Georges Brassens, 94380 Bonneuil-sur-Marne, France""",48.7721813,2.4895826
+2056,"""4 Rue Vasco de Gama, 94370 Sucy-en-Brie, France""",48.7720439,2.5045029
+2057,"""9 Rue Marco Polo, 94370 Sucy-en-Brie, France""",48.7717259,2.5065043
+2058,"""2 Cité Verte, 94370 Sucy-en-Brie, France""",48.772231,2.5200461
+2059,"""17 Cité Verte, 94370 Sucy-en-Brie, France""",48.772497,2.524372
+2060,"""86 Rue du Général de Larminat, 94370 Sucy-en-Brie, France""",48.7716977,2.5378296
+2061,"""6 Chemin des Basses Brunes, 94880 Noiseau, France""",48.7729323,2.5398839
+2062,"""Chemin de Villeneuve, 94880 Noiseau, France""",48.774001,2.559056
+2063,"""94880 Noiseau, France""",48.774689,2.553189
+2064,"""Chemin des 4 Chênes, 77340 Pontault-Combault, France""",48.7745588,2.5863978
+2065,"""Chemin des 4 Chênes, 77340 La Queue-en-Brie, France""",48.7745588,2.5863978
+2066,"""Allée Jacquette, 94510 La Queue-en-Brie, France""",48.7663518,2.6023325
+2067,"""161 D51, 77340 Pontault-Combault, France""",48.7741963,2.607445
+2068,"""N4, 77340 Pontault-Combault, France""",48.7931453,2.6196311
+2069,"""77340 Pontault-Combault, France""",48.7850292,2.6140964
+2070,"""26 Avenue de la Brunerie, 77330 Ozoir-la-Ferrière, France""",48.7721363,2.6566356
+2071,"""3 Allée des Charmes, 77330 Ozoir-la-Ferrière, France""",48.7723344,2.670188
+2072,"""16B Rue de Pontault, 77330 Ozoir-la-Ferrière, France""",48.7718509,2.6733914
+2073,"""3 Place Jacques Cœur, 78180 Montigny-le-Bretonneux, France""",48.7692998,2.0403615
+2074,"""2 Square du Puy Mary, 78180 Montigny-le-Bretonneux, France""",48.7696244,2.0535803
+2075,"""Chemin de la Tour de Feu, 78280 Guyancourt, France""",48.7683196,2.0588273
+2076,"""11 Rue de la Noël, 78280 Guyancourt, France""",48.7698156,2.0708563
+2077,"""39 Rue Ambroise Croizat, 78280 Guyancourt, France""",48.7700158,2.0739862
+2078,"""Rigole de Guyancourt, 78280 Guyancourt, France""",48.767945,2.084816
+2079,"""78280 Guyancourt, France""",48.77073560000000,2.0803619
+2080,"""13 Rue de la Pommeraie, 78530 Buc, France""",48.7710771,2.104633
+2081,"""3 Rue Marcel Pagnol, 78530 Buc, France""",48.7692263,2.1077827
+2082,"""1 Avenue Jules Massenet, 78530 Buc, France""",48.7701943,2.120399
+2083,"""284-400 Rue de la Minière, 78530 Buc, France""",48.7688378,2.1252254
+2084,"""78350 Les Loges-en-Josas, France""",48.764287,2.140358
+2085,"""54 Rue Charles de Gaulle, 78350 Jouy-en-Josas, France""",48.7691496,2.1532214
+2086,"""34 Rue Charles de Gaulle, 78350 Jouy-en-Josas, France""",48.76830410000000,2.1562301
+2087,"""17 Rue Abel Nicolle, 78350 Jouy-en-Josas, France""",48.768761,2.1693828
+2088,"""6 Rue Jean Bauvinon, 78350 Jouy-en-Josas, France""",48.76977310000000,2.1734368
+2089,"""Route de Vilvert, 91570 Jouy-en-Josas, France""",48.7701656,2.1896659
+2090,"""Domaine de Montéclin, Rd 53, 91570 Bièvres, France""",48.7673344,2.1916997
+2091,"""Unnamed Road, 91570 Bièvres, France""",48.7533024,2.2073507
+2092,"""2 Chemin de la Porte Jaune, 91570 Bièvres, France""",48.7679029,2.2207675
+2093,"""Chemin des Cavaliers, 92290 Châtenay-Malabry, France""",48.770107,2.239398
+2094,"""Route de la Boursidière, 92290 Châtenay-Malabry, France""",48.770107,2.239398
+2095,"""19 Voie de la Vallée aux Loups, 92290 Châtenay-Malabry, France""",48.7696294,2.25407
+2096,"""43 Voie de la Vallée aux Loups, 92290 Châtenay-Malabry, France""",48.7694742,2.2568352
+2097,"""31 Rue de Chateaubriand, 92290 Châtenay-Malabry, France""",48.767582,2.2689843
+2098,"""127-129 Avenue Jean Jaurès, 92290 Châtenay-Malabry, France""",48.7691976,2.2730891
+2099,"""1 Chemin de la Croix Blanche, 92290 Châtenay-Malabry, France""",48.7689561,2.2877127
+2100,"""54 Avenue le Notre, 92330 Sceaux, France""",48.76971410000000,2.305447
+2101,"""37 Avenue Arouet, 92160 Antony, France""",48.7693047,2.3073315
+2102,"""Rue Genevieve, 94240 L'Haÿ-les-Roses, France""",48.7691515,2.3229384
+2103,"""101 Rue des Roux, 94240 L'Haÿ-les-Roses, France""",48.769855,2.3234905
+2104,"""105 Boulevard Jean Mermoz, 94550 Chevilly-Larue, France""",48.7695589,2.33782
+2105,"""8 Avenue de la Croix du Sud, 94550 Chevilly-Larue, France""",48.7695269,2.3396298
+2106,"""12 Rue du Père Mazurié, 94550 Chevilly-Larue, France""",48.770612,2.3555947
+2107,"""52 Rue du Lieutenant Petit le Roy, 94550 Chevilly-Larue, France""",48.7697819,2.3571423
+2108,"""2 Rue Henri Dunant, 94320 Thiais, France""",48.7702401,2.370247
+2109,"""12 Rue Frédéric Mistral Prolongée, 94320 Thiais, France""",48.7698885,2.3740498
+2110,"""14 Rue du Petit Prince, 94320 Thiais, France""",48.7693042,2.3864312
+2111,"""10 Rue Paul Cézanne, 94320 Thiais, France""",48.7691847,2.3903737
+2112,"""7 bis Rue de l'Insurrection Parisienne, 94600 Choisy-le-Roi, France""",48.7698172,2.4048368
+2113,"""14 Rue Sébastopol, 94600 Choisy-le-Roi, France""",48.7692971,2.407022
+2114,"""5 Rue Lucie, 94600 Choisy-le-Roi, France""",48.7692737,2.4205681
+2115,"""92 Avenue Victor Hugo, 94600 Choisy-le-Roi, France""",48.7696174,2.4239709
+2116,"""Piste Centrale, 94600 Valenton, France""",48.762737,2.4391729
+2117,"""3 Avenue du Maréchal Foch, 94000 Créteil, France""",48.770658,2.4401877
+2118,"""16 Avenue du Nouveau-Monde, 94000 Créteil, France""",48.7699328,2.4541167
+2119,"""6 Mail Santa Maria, 94000 Créteil, France""",48.769433,2.456762
+2120,"""19 Rue de Saussure, 94000 Créteil, France""",48.7695592,2.4709325
+2121,"""4 Rue de Saussure, 94000 Créteil, France""",48.7693206,2.4736918
+2122,"""2-8 Allée Joe Dassin, 94380 Bonneuil-sur-Marne, France""",48.7699319,2.4878638
+2123,"""8 Avenue des Marguerites, 94380 Bonneuil-sur-Marne, France""",48.76902950000000,2.489372700000000
+2124,"""1 Rue de la Scierie, 94370 Sucy-en-Brie, France""",48.7684402,2.503073
+2125,"""4a Rue de Villeneuve, 94370 Sucy-en-Brie, France""",48.7697022,2.5080035
+2126,"""1 Rue de la Porte, 94370 Sucy-en-Brie, France""",48.7695648,2.5207564
+2127,"""2 Rue Villebrun, 94370 Sucy-en-Brie, France""",48.7697595,2.52385
+2128,"""63 Rue du Maréchal de Lattre de Tassigny, 94370 Sucy-en-Brie, France""",48.7688839,2.5379022
+2129,"""5 Chemin de la Fontaine, 94880 Noiseau, France""",48.76884040000000,2.5407697
+2130,"""4 Passage des Uzelles, 94880 Noiseau, France""",48.77057570000000,2.5509494
+2131,"""94880 Noiseau, France""",48.774689,2.553189
+2132,"""94510 La Queue-en-Brie, France""",48.7857881,2.5803422
+2133,"""77340 Pontault-Combault, France""",48.7850292,2.6140964
+2134,"""38 Avenue de la Brunerie, 77330 Ozoir-la-Ferrière, France""",48.7709061,2.6571816
+2135,"""26 Avenue du Fossé des Monnaies, 77330 Ozoir-la-Ferrière, France""",48.7695301,2.6580885
+2136,"""38 Rue Alphonse Combe, 77330 Ozoir-la-Ferrière, France""",48.7696408,2.671169
+2137,"""2 Rue Florian, 77330 Ozoir-la-Ferrière, France""",48.76985820000000,2.6736584
+2138,"""41 la Rotonde, 78960 Voisins-le-Bretonneux, France""",48.756511,2.0402829
+2139,"""rue Alfred de Vigny zone commerciale de Champ Fleury, 78960 Voisins-le-Bretonneux, France""",48.75459560000000,2.0528752
+2140,"""49 Rue aux Fleurs, 78960 Voisins-le-Bretonneux, France""",48.7550384,2.0569178
+2141,"""1 Avenue de l'Europe, 78114 Magny-les-Hameaux, France""",48.7556388,2.0706722
+2142,"""Avenue du Golf, 78280 Guyancourt, France""",48.75570340000000,2.0806925
+2143,"""1 Avenue du Golf, 78280 Guyancourt, France""",48.7577037,2.0863083
+2144,"""ZA Hameau de, Avenue du Golf, 78280 Guyancourt, France""",48.75570340000000,2.0806925
+2145,"""Aérodrome de Toussus-le-Noble, Aérodrome, 78117 Toussus-le-Noble, France""",48.74777600000000,2.105833
+2146,"""101 D938, 78117 Toussus-le-Noble, France""",48.7507299,2.1194534
+2147,"""Chemin des Côtes de Montbron, 78350 Jouy-en-Josas, France""",48.7551419,2.1335488
+2148,"""Chemin de l'Orme Rond, 78350 Jouy-en-Josas, France""",48.7582682,2.145042
+2149,"""Chemin de Viltain, 78350 Jouy-en-Josas, France""",48.75645310000000,2.153076
+2150,"""Chemin du Petit Viltain À Villeras, 78350 Jouy-en-Josas, France""",48.7536871,2.1590282
+2151,"""91400 Saclay, France""",48.73668,2.180034
+2152,"""52 Rue Alphonse Daudet, 91400 Saclay, France""",48.7557419,2.17331
+2153,"""8 Parc de Diane, 78350 Jouy-en-Josas, France""",48.7554939,2.1877372
+2154,"""15 Parc de Diane, 78350 Jouy-en-Josas, France""",48.755391,2.189372
+2155,"""29 Rue de Vauboyen, 91570 Bièvres, France""",48.75635400000000,2.2048173
+2156,"""21 Rue de Vauboyen, 91570 Bièvres, France""",48.7561364,2.2059349
+2157,"""10 Allée des Castors, 91570 Bièvres, France""",48.75559630000000,2.220003
+2158,"""N118, 91570 Bièvres, France""",48.7502223,2.2048458
+2159,"""91370 Verrières-le-Buisson, France""",48.752441,2.2519797
+2160,"""7 Allée de la Grange, 91370 Verrières-le-Buisson, France""",48.7556866,2.2712471
+2161,"""20 Allée des Tuileries, 91370 Verrières-le-Buisson, France""",48.7561983,2.273618
+2162,"""Julien Perin, 92160 Antony, France""",48.7541562,2.2858719
+2163,"""12 Rue des Anémones, 92160 Antony, France""",48.7558896,2.2898155
+2164,"""5 Villa du Petit Valet, 92160 Antony, France""",48.75570800000000,2.304415
+2165,"""1 Rue Galipeau, 92160 Antony, France""",48.7557924,2.3061948
+2166,"""6 Avenue de la Mairie, 94260 Fresnes, France""",48.7558515,2.3206732
+2167,"""16 Place Pierre et Marie Curie, 94260 Fresnes, France""",48.75570400000000,2.3229978
+2168,"""A86, 94260 Fresnes, France""",48.7588375,2.3244223
+2169,"""Concarneau, 94150 Rungis, France""",48.755109,2.353986
+2170,"""5 Rue du Poitou, 94150 Rungis, France""",48.75594470000000,2.3584691
+2171,"""centre commercial Belle Epine 170, 94320 Thiais, France""",48.7566506,2.3718687
+2172,"""94320 Thiais, France""",48.7597821,2.3869428
+2173,"""12 Rue du Bas Marin, 94320 Thiais, France""",48.755044,2.3863254
+2174,"""4 Allée Roland Pilain, 94320 Thiais, France""",48.7554343,2.389585
+2175,"""92 Avenue du Maréchal de Lattre de Tassigny, 94320 Thiais, France""",48.75570800000000,2.403844
+2176,"""26 Rue Spinoza, 94600 Choisy-le-Roi, France""",48.7554733,2.4069699
+2177,"""Quai Port De Choisy 100, 94600 Choisy-le-Roi, France""",48.76302800000000,2.4143636
+2178,"""11 Avenue Danville, 94600 Choisy-le-Roi, France""",48.7571544,2.4232937
+2179,"""14 Vieux Chemin de Paris, 94190 Villeneuve-Saint-Georges, France""",48.7561669,2.4372018
+2180,"""Piste Centrale, 94190 Villeneuve-Saint-Georges, France""",48.7522367,2.4419456
+2181,"""14 Rue des Prés de l'Hôpital, 94190 Villeneuve-Saint-Georges, France""",48.7543439,2.4525863
+2182,"""1 Rue Midi Pyrénées, 94460 Valenton, France""",48.75361910000000,2.4566229
+2183,"""D110, 94450 Limeil-Brévannes, France""",48.7554777,2.4718785
+2184,"""44 Av. des Deux Clochers, 94450 Limeil-Brévannes, France""",48.754964,2.4878582
+2185,"""54B Av. des Deux Clochers, 94450 Limeil-Brévannes, France""",48.7555807,2.4895038
+2186,"""1 Place de la Peupleraie, 94470 Boissy-Saint-Léger, France""",48.7553942,2.5040723
+2187,"""94470 Boissy-Saint-Léger, France""",48.7544029,2.5060809
+2188,"""64 Rue de Sucy, 94470 Boissy-Saint-Léger, France""",48.7542576,2.5243636
+2189,"""192 Rue Royale, 94370 Sucy-en-Brie, France""",48.7555954,2.5371743
+2190,"""2 Allée aux Cerfs, 94370 Sucy-en-Brie, France""",48.7558064,2.5404045
+2191,"""18 Allée des Blancs, 94370 Sucy-en-Brie, France""",48.7547948,2.554039
+2192,"""46 Rue de Marolles, 94370 Sucy-en-Brie, France""",48.75522780000000,2.5560607
+2193,"""8 Chemin du Parc aux Bœufs, 94370 Sucy-en-Brie, France""",48.75730900000000,2.5698723
+2194,"""94370 Sucy-en-Brie, France""",48.7669577,2.5223485
+2195,"""94440 Santeny, France""",48.725288,2.572804
+2196,"""77150 Lésigny, France""",48.74392100000000,2.614910000000000
+2197,"""19 Avenue de Monthéty, 77150 Lésigny, France""",48.7551301,2.6240425
+2198,"""23 Avenue de Monthéty, 77150 Lésigny, France""",48.755539,2.6241904
+2199,"""4 Allée des Noisetiers, 77150 Lésigny, France""",48.7573651,2.6375699
+2200,"""4 Allée du Ru, 77150 Lésigny, France""",48.7554244,2.640531
+2201,"""2 Allée de Cognac, 77330 Ozoir-la-Ferrière, France""",48.7554633,2.6524324
+2202,"""7 Allée de Cognac, 77330 Ozoir-la-Ferrière, France""",48.7555251,2.6527768
+2203,"""9 Rue de Cyclamens, 77330 Ozoir-la-Ferrière, France""",48.7570412,2.6724299
+2204,"""17 Rue des Bleuets, 77330 Ozoir-la-Ferrière, France""",48.75545050000000,2.6751219
+2205,"""Rue de Port Royal, 78960 Magny-les-Hameaux, France""",48.7556406,2.0442296
+2206,"""35 Rue Jasmin, 78960 Voisins-le-Bretonneux, France""",48.7532839,2.0545837
+2207,"""5 Rue de la Borne Royale, 78960 Voisins-le-Bretonneux, France""",48.7528149,2.0574561
+2208,"""Avenue de l'Europe, 78114 Magny-les-Hameaux, France""",48.7563022,2.0712481
+2209,"""1 Avenue du Golf, 78114 Magny-les-Hameaux, France""",48.7543039,2.0749378
+2210,"""78117 Châteaufort, France""",48.7451394,2.1063328
+2211,"""Aérodrome de Toussus-le-Noble, Aérodrome, 78117 Toussus-le-Noble, France""",48.74777600000000,2.105833
+2212,"""101 D938, 78117 Toussus-le-Noble, France""",48.7507299,2.1194534
+2213,"""Le Parc des Côtes Montbron, Unnamed Road, 78350, 78350 Jouy-en-Josas, France""",48.7552027,2.1389681
+2214,"""91400 Saclay, France""",48.73668,2.180034
+2215,"""Jouy-en-Josas, France""
+",48.76454500000000,2.169007
+2216,"""39a Rue Arthur Rimbaud, 91400 Saclay, France""",48.755254,2.1727409
+2217,"""39 B Rue Arthur Rimbaud, 91400 Saclay, France""",48.755254,2.1727409
+2218,"""12 Rue Bossuet, 91400 Saclay, France""",48.7531798,2.1879959
+2219,"""22 Rue de Vauboyen, 91570 Saclay, France""",48.7564714,2.2047911
+2220,"""27 Route de Jouy, 91570 Bièvres, France""",48.7527463,2.2020161
+2221,"""23 Rue de la Martinière, 91570 Bièvres, France""",48.7530213,2.2066526
+2222,"""18 Rue des Mathurins, 91570 Bièvres, France""",48.7531369,2.2205919
+2223,"""N118, 91570 Bièvres, France""",48.7502223,2.2048458
+2224,"""91370 Verrières-le-Buisson, France""",48.752441,2.2519797
+2225,"""25 Chemin de la Couronnelle, 91370 Verrières-le-Buisson, France""",48.7504758,2.2533822
+2226,"""16 Rue du Grenier À Neige, 91370 Verrières-le-Buisson, France""",48.7511123,2.2566998
+2227,"""3 Voie de l'Aulne, 91370 Verrières-le-Buisson, France""",48.7526956,2.2708024
+2228,"""9 Allée des Frondaisons, 91370 Verrières-le-Buisson, France""",48.7525499,2.2735138
+2229,"""47 Rue du Colonel Fabien, 92160 Antony, France""",48.7527465,2.2874439
+2230,"""8 Allée des Vergers, 92160 Antony, France""",48.752516,2.289794
+2231,"""20 Avenue de la Division Leclerc, 92160 Antony, France""",48.7525427,2.3045519
+2232,"""32 Rue des Iris, 92160 Antony, France""",48.7526299,2.3064505
+2233,"""17 Rue Auguste Daix, 94260 Fresnes, France""",48.7535538,2.3197419
+2234,"""25 Rue Julien Chaillioux, 94260 Fresnes, France""",48.7528285,2.3238154
+2235,"""61 Avenue des Pépinières, 94260 Fresnes, France""",48.753167,2.3377547
+2236,"""32 Avenue des Pépinières, 94260 Fresnes, France""",48.7527434,2.3399551
+2237,"""1 Rue de la Vanne, 94150 Rungis, France""",48.75234930000000,2.3548531
+2238,"""41 Avenue de l'Europe, 94150 Rungis, France""",48.7529428,2.357161
+2239,"""6 Rue des Alouettes, 94320 Thiais, France""",48.7518504,2.3695721
+2240,"""12 Rue des Alouettes, 91150 Abbéville-la-Rivière, France""",48.328366,2.173066
+2241,"""14 Rue du Bas Marin, 94310 Orly, France""",48.7525724,2.3881323
+2242,"""31 Rue Edouard Delamare Deboutteville, 94320 Thiais, France""",48.752971,2.390449
+2243,"""12 Rue Marcel Dadi, 94320 Thiais, France""",48.7531883,2.4038665
+2244,"""37 Avenue Rosa Luxemburg, 94600 Choisy-le-Roi, France""",48.7528509,2.4066304
+2245,"""48 Rue des Pâquerettes, 94600 Choisy-le-Roi, France""",48.7531673,2.4204489
+2246,"""132 Quai de Choisy, 94600 Choisy-le-Roi, France""",48.75238970000000,2.4235806
+2247,"""14 Vieux Chemin de Paris, 94190 Villeneuve-Saint-Georges, France""",48.7561669,2.4372018
+2248,"""Route du Poste R, 94190 Villeneuve-Saint-Georges, France""",48.7541132,2.4398543
+2249,"""00002 Bis Rue d'Île de France, 94460 Valenton, France""",48.753741,2.4548513
+2250,"""2 Rue Midi Pyrénées, 94460 Valenton, France""",48.75272410000000,2.4564977
+2251,"""D110, 94450 Valenton, France""",48.7554777,2.4718785
+2252,"""2 Rue Paul Valery, 94450 Limeil-Brévannes, France""",48.752621,2.473658
+2253,"""5-1 Rue Pierre et Angèle le Hen, 94450 Limeil-Brévannes, France""",48.7531285,2.4882792
+2254,"""9 Allée des Vignes, 94450 Limeil-Brévannes, France""",48.7531142,2.4899513
+2255,"""Boissy-Saint-Léger, 94470 Boissy-Saint-Léger, France""",48.7544029,2.5060809
+2256,"""5B Avenue du Général Leclerc, 94470 Boissy-Saint-Léger, France""",48.7527281,2.5070122
+2257,"""67 Rue Georges Picot, 94470 Boissy-Saint-Léger, France""",48.7524252,2.5198056
+2258,"""4 Rue de Marolles, 94470 Boissy-Saint-Léger, France""",48.75312830000000,2.5236906
+2259,"""24 Avenue des Châtaigniers, 94470 Boissy-Saint-Léger, France""",48.7526765,2.5387277
+2260,"""4 Chemin du Noyer, 94470 Boissy-Saint-Léger, France""",48.7523592,2.5399752
+2261,"""17 Chemin du Vieux Colombier, 94470 Boissy-Saint-Léger, France""",48.753952,2.554392
+2262,"""61 Chemin Marolles À Grande Patte d'Oie, 94440 Marolles-en-Brie, France""",48.7525384,2.5573092
+2263,"""94370 Sucy-en-Brie, France""",48.7669577,2.5223485
+2264,"""94440 Santeny, France""",48.725288,2.572804
+2265,"""77150 Lésigny, France""",48.74392100000000,2.614910000000000
+2266,"""3 Avenue de Monthéty, 77150 Lésigny, France""",48.75283660000000,2.6234609
+2267,"""4 Allée de Champagne, 77150 Férolles-Attilly, France""",48.7528668,2.6404398
+2268,"""D354, 77330 Ozoir-la-Ferrière, France""",48.75397400000000,2.6493456
+2269,"""77330 Ozoir-la-Ferrière, France""",48.7634127,2.679774
+2270,"""41 Rue des Bleuets, 77330 Ozoir-la-Ferrière, France""",48.75471050000000,2.6765505
+2271,"""1 Rue Jean Hamon, 78114 Magny-les-Hameaux, France""",48.7391292,2.0391629
+2272,"""3 Allée de l'Orme au Berger, 78114 Magny-les-Hameaux, France""",48.7407554,2.0569866
+2273,"""Allée de l'Orme au Berger, 78114 Magny-les-Hameaux, France""",48.7402907,2.056592
+2274,"""2 Clos de Villeneuve, 78114 Magny-les-Hameaux, France""",48.73516920000000,2.068499
+2275,"""78114 Magny-les-Hameaux, France""",48.735709,2.0722315
+2276,"""46 Route de Trappes, 78117 Châteaufort, France""",48.7392288,2.0870788
+2277,"""46 Rue de la Perruche, 78117 Châteaufort, France""",48.73874990000000,2.0902783
+2278,"""7 Rue des Frères Farman, 78117 Toussus-le-Noble, France""",48.7438592,2.1120979
+2279,"""78117 Toussus-le-Noble, France""",48.747565,2.112559
+2280,"""91190 Villiers-le-Bâcle, France""",48.725782,2.125206
+2281,"""Unnamed Road, 91400 Saclay, France""",48.73668,2.180034
+2282,"""91400 Saclay, France""",48.73668,2.180034
+2283,"""39 Rue de Favreuse, 91430 Vauhallan, France""",48.73901130000000,2.1899527
+2284,"""Chemin du Picotois, 91570 Bièvres, France""",48.73690270000000,2.2069653
+2285,"""Chemin du Picotois, 91430 Vauhallan, France""",48.73690270000000,2.2069653
+2286,"""20 Rue de Lovenich, 91430 Igny, France""",48.73859220000000,2.2214183
+2287,"""2 Place des Sablons, 91430 Igny, France""",48.7392267,2.2234025
+2288,"""49 Allée de Clairbourg, 91370 Verrières-le-Buisson, France""",48.73895360000000,2.2385071
+2289,"""7 Rue Rimbaud, 91370 Verrières-le-Buisson, France""",48.7391254,2.2395077
+2290,"""6 Rue du Moulin de Grais, 91370 Verrières-le-Buisson, France""",48.7389994,2.2543307
+2291,"""3 Avenue des Princes, 91370 Verrières-le-Buisson, France""",48.7391118,2.2566519
+2292,"""3 Allée de la Garenne, 91370 Verrières-le-Buisson, France""",48.7390947,2.2700483
+2293,"""16 Avenue des Bleuets, 91300 Massy, France""",48.7388842,2.2730134
+2294,"""Les Baconnets, 92160 Antony, France""",48.740326,2.2942429
+2295,"""4 Allée du Nil, 92160 Antony, France""",48.7388957,2.2898128
+2296,"""208 Rue des Rabats, 92160 Antony, France""",48.7386488,2.30447
+2297,"""Collège des Rabats, 92160 Antony, France""",48.7385956,2.3056847
+2298,"""11 Voie des Molières, 91320 Wissous, France""",48.7387636,2.320595
+2299,"""39 Chemin de la Vallée, 91320 Wissous, France""",48.73907080000000,2.3234836
+2300,"""2 Avenue Jean Mermoz, 91320 Wissous, France""",48.7390249,2.3355621
+2301,"""1 Impasse des Glaises, 91320 Wissous, France""",48.7391894,2.3365142
+2302,"""10 Avenue de la Fraternelle, 91320 Wissous, France""",48.7387871,2.3531618
+2303,"""30 Rue Louis Blériot, 94390 Paray-Vieille-Poste, France""",48.7392094,2.3605796
+2304,"""Rue d'Amsterdam, 94390 Orly, France""",48.7390491,2.3710652
+2305,"""126 Rue d'Amsterdam, 94390 Orly, France""",48.7392342,2.3724788
+2306,"""30 Rue Nungesser, 94310 Orly, France""",48.740338,2.3880136
+2307,"""Route Charles Tillon, 94390 Orly, France""",48.7416768,2.3862282
+2308,"""19 Rue des Gilletains, 94290 Villeneuve-le-Roi, France""",48.7387403,2.4043275
+2309,"""1 Rue de la Briqueterie, 94290 Villeneuve-le-Roi, France""",48.739029,2.4066258
+2310,"""47 Rue de Stalingrad, 94290 Villeneuve-le-Roi, France""",48.7392664,2.4211655
+2311,"""138 Bis Avenue Paul Doumer, 94290 Villeneuve-le-Roi, France""",48.7386707,2.4240885
+2312,"""19 Rue de la Marine, 94290 Villeneuve-le-Roi, France""",48.7386469,2.4368386
+2313,"""78 Rue Paul Bert, 94290 Villeneuve-le-Roi, France""",48.7375676,2.4414298
+2314,"""13 Rue Georges Picot, 94190 Villeneuve-Saint-Georges, France""",48.7382953,2.4538694
+2315,"""95 Avenue de Valenton, 94190 Villeneuve-Saint-Georges, France""",48.7390826,2.4562485
+2316,"""21 Avenue Guy Môquet, 94460 Valenton, France""",48.7385385,2.4716247
+2317,"""Avenue Guy Môquet, 94460 Limeil-Brévannes, France""",48.7394871,2.4731188
+2318,"""20 Avenue Descartes, 94450 Limeil-Brévannes, France""",48.7405786,2.4866304
+2319,"""3 Rue Lavoisier, 94450 Limeil-Brévannes, France""",48.7389113,2.4902094
+2320,"""Chemin de la Grange À Boissy, 94450 Limeil-Brévannes, France""",48.737424,2.502906
+2321,"""14 Allée du Cèdre, 94450 Limeil-Brévannes, France""",48.7401794,2.5075297
+2322,"""94470 Boissy-Saint-Léger, France""",48.7544029,2.5060809
+2323,"""23 Rue des Tisserands, 94440 Marolles-en-Brie, France""",48.7386247,2.5541637
+2324,"""16 Rue des Moissonneurs, 94440 Marolles-en-Brie, France""",48.739142,2.5571889
+2325,"""28 Rue du Grand Chêne, 94440 Marolles-en-Brie, France""",48.7389486,2.5684291
+2326,"""94440 Santeny, France""",48.725288,2.572804
+2327,"""6 Place des Marronniers, 77150 Lésigny, France""",48.7384906,2.603788
+2328,"""Avenue des Hyverneaux, 77150 Lésigny, France""",48.73324300000000,2.6038988
+2329,"""77150 Férolles-Attilly, France""",48.7343819,2.634358
+2330,"""5 Rue de la Montagne, 77150 Férolles-Attilly, France""",48.7362677,2.6293711
+2331,"""77150 Férolles-Attilly, France""",48.7343819,2.634358
+2332,"""77173 Chevry-Cossigny, France""",48.7181564,2.6811389
+2333,"""9 Route de Milon, 78114 Magny-les-Hameaux, France""",48.73825130000000,2.0371172
+2334,"""3 Chemin Rural 14, 78114 Magny-les-Hameaux, France""",48.7347867,2.0661309
+2335,"""D195, 78114 Magny-les-Hameaux, France""",48.739404,2.0618986
+2336,"""2 Chemin de la Source, 78117 Châteaufort, France""",48.7355222,2.0879916
+2337,"""3 Rue de Trappes, 78117 Châteaufort, France""",48.7363454,2.0904121
+2338,"""91190 Villiers-le-Bâcle, France""",48.725782,2.125206
+2339,"""91400 Saclay, France""",48.73668,2.180034
+2340,"""6 Rue René Razel, 91400 Saclay, France""",48.7360829,2.1694028
+2341,"""N118, 91400 Saclay, France""",48.7380484,2.1784809
+2342,"""91430 Vauhallan, France""",48.734116,2.207353
+2343,"""62 Rue de Favreuse, 91430 Vauhallan, France""",48.737825,2.192481
+2344,"""16 Rue de la Petite Fontaine, 91430 Vauhallan, France""",48.7350348,2.2030383
+2345,"""Chemin de la Pissotte, 91430 Vauhallan, France""",48.7366995,2.2069776
+2346,"""31 Route de Vauhallan, 91430 Igny, France""",48.7366936,2.2204164
+2347,"""48 Rue Louis Muret, 91430 Igny, France""",48.7358831,2.2241563
+2348,"""2 Rue de la Résistance, 91430 Igny, France""",48.7359667,2.237004
+2349,"""91370 Verrières-le-Buisson, France""",48.752441,2.2519797
+2350,"""13 Rue Georges Mandel, 91300 Massy, France""",48.7357272,2.2542603
+2351,"""15 Rue Joliot Curie, 91300 Massy, France""",48.7357583,2.2570634
+2352,"""14 Square de la Poterne, 91300 Massy, France""",48.73594980000000,2.2705587
+2353,"""14 Avenue de Verrières, 91300 Massy, France""",48.7361016,2.2740939
+2354,"""4 Rue de l'Annapurna, 92160 Antony, France""",48.7365612,2.2871296
+2355,"""144 Avenue du President Kennedy, 92160 Antony, France""",48.7359954,2.2904778
+2356,"""25 Avenue Léon Jouhaux, 92160 Antony, France""",48.7362624,2.3041337
+2357,"""32 Rue des Chardonnerets, 92160 Antony, France""",48.7362378,2.3067596
+2358,"""7 Rue Paul Cézanne, 91320 Wissous, France""",48.7365627,2.3214135
+2359,"""14 Impasse du Château Gaillard, 91320 Wissous, France""",48.7363503,2.3228826
+2360,"""21 Boulevard de l'Europe, 91320 Wissous, France""",48.7365021,2.3365225
+2361,"""2 Avenue de la Fraternelle, 94390 Wissous, France""",48.7385303,2.3536516
+2362,"""20 Rue Louis Blériot, 94390 Paray-Vieille-Poste, France""",48.7379709,2.3548686
+2363,"""120 Rue des épices, 94390 Orly, France""",48.7366959,2.3706277
+2364,"""132 Rue des Transitaires, 94310 Orly, France""",48.7366648,2.3730639
+2365,"""69 Rue Parmentier, 94310 Orly, France""",48.7412901,2.3878457
+2366,"""Orly Airport (ORY), 94390 Orly, France""",48.7262433,2.3652472
+2367,"""8 Voie Normande, 94290 Villeneuve-le-Roi, France""",48.7362603,2.4041108
+2368,"""Parc, 1-14 Rue de l'Abbaye, 94290 Villeneuve-le-Roi, France""",48.7356062,2.4088734
+2369,"""20 Avenue Paul Vaillant Couturier, 94290 Villeneuve-le-Roi, France""",48.73647710000000,2.4207036
+2370,"""14 Rue de la Commune de Paris, 94290 Villeneuve-le-Roi, France""",48.7362236,2.4232183
+2371,"""4 Rue de la Plaine Basse, 94290 Villeneuve-le-Roi, France""",48.7353088,2.4369148
+2372,"""81 Rue Paul Bert, 94290 Villeneuve-le-Roi, France""",48.7362923,2.4411175
+2373,"""47 Avenue de Valenton, 94190 Villeneuve-Saint-Georges, France""",48.7357926,2.4541242
+2374,"""84 Rue Jean Jaurès, 94190 Villeneuve-Saint-Georges, France""",48.7365715,2.4566501
+2375,"""7 Rue du Bois Colbert, 94190 Villeneuve-Saint-Georges, France""",48.7364965,2.4708444
+2376,"""7 Avenue de la Fontaine Saint-Martin, 94190 Valenton, France""",48.7339706,2.475162
+2377,"""24 Rue Lavoisier, 94450 Limeil-Brévannes, France""",48.737888,2.4892468
+2378,"""50 Rue Condorcet, 94450 Limeil-Brévannes, France""",48.73752530000000,2.4918451
+2379,"""Limeil-Brévannes, France""
+",48.7461849,2.492154
+2380,"""94470 Boissy-Saint-Léger, France""",48.7544029,2.5060809
+2381,"""Allée du Chevreuil, 94470 Boissy-Saint-Léger, France""",48.7440912,2.5291106
+2382,"""94470 Boissy-Saint-Léger, France""",48.7544029,2.5060809
+2383,"""1 Rue des Marchands, 94440 Marolles-en-Brie, France""",48.7369413,2.5536276
+2384,"""8 Rue des Jardiniers, 94440 Marolles-en-Brie, France""",48.7362242,2.5570867
+2385,"""1 Chemin du Pré Fezard, 94440 Santeny, France""",48.7328363,2.567974
+2386,"""16 Rue Emmanuel Chabrier, 94440 Santeny, France""",48.7352091,2.5762529
+2387,"""94440 Santeny, France""",48.725288,2.572804
+2388,"""16 Avenue d'Esbly, 77150 Lésigny, France""",48.7361312,2.6041549
+2389,"""17 Avenue d'Esbly, 77150 Lésigny, France""",48.7361494,2.6048967
+2390,"""77150 Férolles-Attilly, France""",48.7343819,2.634358
+2391,"""6 Rue de Beauverger, 77173 Chevry-Cossigny, France""",48.7333049,2.6704078
+2392,"""11 Rue de Beauverger, 77173 Chevry-Cossigny, France""",48.7345491,2.6706397
