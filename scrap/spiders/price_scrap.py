@@ -49,10 +49,7 @@ def get_add_index(urlX):
 
 
 class PriceSpider(scrapy.Spider):
-    proxy_pool = ['lum-customer-hiveway-zone-laketahoe1:srje9g0dmd2h@zproxy.lum-superproxy.io:22225',
-                  'lum-customer-hiveway-zone-laketahoe2:iw77mv49ir8e@zproxy.lum-superproxy.io:22225',
-                  'lum-customer-hiveway-zone-laketahoe3:8360k363yo78@zproxy.lum-superproxy.io:22225',
-                  'lum-customer-hiveway-zone-laketahoe4:sxhq8w7srio1@zproxy.lum-superproxy.io:22225']
+    proxy_pool = []
     name = "price"
     allowed_domains = ["fr.getaround.com"]
     urls = get_scraping_links()
